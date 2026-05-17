@@ -6,159 +6,72 @@
   <title>ニュースリリース監視ダッシュボード</title>
   <style>
     :root {
-      --bg: #0f1117;
-      --surface: #1a1d27;
-      --surface2: #22263a;
-      --border: #2e3250;
-      --accent: #4f8ef7;
-      --accent2: #7c6af7;
-      --new: #22c55e;
-      --new-bg: rgba(34,197,94,0.10);
-      --text: #e2e8f0;
-      --muted: #94a3b8;
-      --radius: 12px;
+      --bg: #0f1117; --surface: #1a1d27; --border: #2e3250;
+      --accent: #4f8ef7; --accent2: #7c6af7;
+      --new: #22c55e; --new-bg: rgba(34,197,94,0.10);
+      --fav: #f59e0b; --fav-bg: rgba(245,158,11,0.10);
+      --text: #e2e8f0; --muted: #94a3b8; --radius: 12px;
     }
-
     * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; min-height: 100vh; }
 
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      min-height: 100vh;
-    }
-
-    /* ---- Header ---- */
-    header {
-      background: linear-gradient(135deg, #1e2340 0%, #12162b 100%);
-      border-bottom: 1px solid var(--border);
-      padding: 20px 24px;
-      position: sticky; top: 0; z-index: 100;
-      backdrop-filter: blur(8px);
-    }
-    .header-inner {
-      max-width: 1100px; margin: 0 auto;
-      display: flex; align-items: center; justify-content: space-between;
-      flex-wrap: wrap; gap: 12px;
-    }
-    h1 { font-size: 1.25rem; font-weight: 700; letter-spacing: -.3px; }
+    header { background: linear-gradient(135deg,#1e2340,#12162b); border-bottom: 1px solid var(--border); padding: 16px 24px; position: sticky; top: 0; z-index: 100; }
+    .header-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+    h1 { font-size: 1.2rem; font-weight: 700; }
     h1 span { color: var(--accent); }
+    #updated { font-size: .75rem; color: var(--muted); }
 
-    #updated {
-      font-size: .78rem; color: var(--muted);
-    }
+    .tabs { max-width: 1100px; margin: 16px auto 0; padding: 0 20px; display: flex; gap: 4px; border-bottom: 1px solid var(--border); }
+    .tab { padding: 8px 18px; font-size: .88rem; cursor: pointer; border: none; border-bottom: 2px solid transparent; color: var(--muted); background: none; transition: all .15s; }
+    .tab:hover { color: var(--text); }
+    .tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+    .tab.fav-tab.active { color: var(--fav); border-bottom-color: var(--fav); }
+    .cnt { display: inline-block; background: var(--accent); color: #fff; font-size: .62rem; border-radius: 10px; padding: 1px 6px; margin-left: 4px; vertical-align: middle; }
+    .fav-tab .cnt { background: var(--fav); }
 
-    /* ---- Toolbar ---- */
-    .toolbar {
-      max-width: 1100px; margin: 20px auto 0; padding: 0 20px;
-      display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
-    }
-    .toolbar input {
-      flex: 1; min-width: 180px;
-      background: var(--surface); border: 1px solid var(--border);
-      color: var(--text); border-radius: 8px;
-      padding: 8px 14px; font-size: .88rem;
-      outline: none; transition: border .2s;
-    }
+    .toolbar { max-width: 1100px; margin: 14px auto 0; padding: 0 20px; }
+    .toolbar input { width: 100%; background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: 8px; padding: 8px 14px; font-size: .88rem; outline: none; transition: border .2s; }
     .toolbar input:focus { border-color: var(--accent); }
 
-    .filter-btn {
-      background: var(--surface); border: 1px solid var(--border);
-      color: var(--muted); border-radius: 8px;
-      padding: 7px 14px; font-size: .82rem; cursor: pointer;
-      transition: all .15s;
-    }
-    .filter-btn:hover,
-    .filter-btn.active {
-      background: var(--accent); border-color: var(--accent);
-      color: #fff;
-    }
-
-    /* ---- Stats ---- */
-    .stats {
-      max-width: 1100px; margin: 16px auto 0; padding: 0 20px;
-      display: flex; gap: 12px; flex-wrap: wrap;
-    }
-    .stat-card {
-      background: var(--surface); border: 1px solid var(--border);
-      border-radius: var(--radius); padding: 14px 20px;
-      flex: 1; min-width: 120px;
-    }
-    .stat-card .val { font-size: 1.6rem; font-weight: 700; }
+    .stats { max-width: 1100px; margin: 12px auto 0; padding: 0 20px; display: flex; gap: 10px; flex-wrap: wrap; }
+    .stat-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 18px; flex: 1; min-width: 90px; }
+    .stat-card .val { font-size: 1.4rem; font-weight: 700; }
     .stat-card .val.green { color: var(--new); }
-    .stat-card .label { font-size: .75rem; color: var(--muted); margin-top: 2px; }
+    .stat-card .val.gold  { color: var(--fav); }
+    .stat-card .label { font-size: .70rem; color: var(--muted); margin-top: 2px; }
 
-    /* ---- Company filter chips ---- */
-    #company-chips {
-      max-width: 1100px; margin: 14px auto 0; padding: 0 20px;
-      display: flex; gap: 8px; flex-wrap: wrap;
-    }
-    .chip {
-      background: var(--surface); border: 1px solid var(--border);
-      border-radius: 20px; padding: 4px 12px;
-      font-size: .78rem; cursor: pointer; transition: all .15s;
-      color: var(--muted);
-    }
-    .chip:hover, .chip.active {
-      background: var(--accent2); border-color: var(--accent2); color: #fff;
-    }
+    #company-chips { max-width: 1100px; margin: 12px auto 0; padding: 0 20px; display: flex; gap: 8px; flex-wrap: wrap; }
+    .chip { background: var(--surface); border: 1px solid var(--border); border-radius: 20px; padding: 4px 12px; font-size: .75rem; cursor: pointer; color: var(--muted); transition: all .15s; }
+    .chip:hover, .chip.active { background: var(--accent2); border-color: var(--accent2); color: #fff; }
 
-    /* ---- News list ---- */
-    #news-list {
-      max-width: 1100px; margin: 20px auto 40px;
-      padding: 0 20px;
-      display: flex; flex-direction: column; gap: 10px;
-    }
+    #news-list { max-width: 1100px; margin: 14px auto 40px; padding: 0 20px; display: flex; flex-direction: column; gap: 8px; }
 
-    .news-card {
-      background: var(--surface); border: 1px solid var(--border);
-      border-radius: var(--radius); padding: 14px 18px;
-      display: flex; align-items: flex-start; gap: 14px;
-      transition: border-color .15s, transform .1s;
-    }
+    .news-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 13px 15px; display: flex; align-items: flex-start; gap: 10px; transition: border-color .15s, transform .1s; }
     .news-card:hover { border-color: var(--accent); transform: translateY(-1px); }
-    .news-card.is-new {
-      border-color: var(--new);
-      background: linear-gradient(135deg, var(--new-bg) 0%, var(--surface) 60%);
-    }
+    .news-card.is-new { border-color: var(--new); background: linear-gradient(135deg, var(--new-bg), var(--surface) 60%); }
+    .news-card.is-fav { border-color: var(--fav); background: linear-gradient(135deg, var(--fav-bg), var(--surface) 60%); }
 
-    .news-card .badge-new {
-      background: var(--new); color: #000;
-      font-size: .65rem; font-weight: 700;
-      border-radius: 4px; padding: 2px 6px;
-      white-space: nowrap; flex-shrink: 0; align-self: center;
-    }
+    .badge-new { background: var(--new); color: #000; font-size: .60rem; font-weight: 700; border-radius: 4px; padding: 2px 6px; white-space: nowrap; flex-shrink: 0; align-self: center; }
 
-    .news-card .body { flex: 1; min-width: 0; }
-    .news-card .company-tag {
-      font-size: .72rem; color: var(--accent2); font-weight: 600;
-      text-transform: uppercase; letter-spacing: .5px;
-      margin-bottom: 4px;
-    }
-    .news-card .title {
-      font-size: .92rem; line-height: 1.5; color: var(--text);
-      word-break: break-word;
-    }
-    .news-card a.title:hover { color: var(--accent); text-decoration: underline; }
-    .news-card a { text-decoration: none; }
+    .body { flex: 1; min-width: 0; }
+    .company-tag { font-size: .68rem; color: var(--accent2); font-weight: 600; text-transform: uppercase; letter-spacing: .5px; margin-bottom: 3px; }
+    .company-tag a { color: inherit; text-decoration: none; }
+    .title { font-size: .88rem; line-height: 1.5; color: var(--text); word-break: break-word; }
+    a.title:hover { color: var(--accent); text-decoration: underline; }
+    a { text-decoration: none; }
+    .read-at { font-size: .66rem; color: var(--muted); margin-top: 4px; }
 
-    /* ---- Empty state ---- */
-    #empty {
-      display: none; text-align: center;
-      padding: 60px 20px; color: var(--muted);
-    }
-    #empty p { font-size: 1rem; }
+    .actions { display: flex; flex-direction: column; gap: 5px; flex-shrink: 0; align-self: center; }
+    .btn-icon { background: none; border: 1px solid var(--border); border-radius: 6px; color: var(--muted); cursor: pointer; padding: 4px 8px; font-size: .78rem; transition: all .15s; white-space: nowrap; }
+    .btn-icon:hover { border-color: var(--accent); color: var(--accent); }
+    .btn-icon.star.active { border-color: var(--fav); color: var(--fav); background: var(--fav-bg); }
 
-    /* ---- Loading ---- */
-    #loading {
-      text-align: center; padding: 60px;
-      color: var(--muted); font-size: .95rem;
-    }
+    #empty { display: none; text-align: center; padding: 60px 20px; color: var(--muted); }
+    #loading { text-align: center; padding: 60px; color: var(--muted); }
 
-    /* ---- Responsive ---- */
     @media (max-width: 600px) {
-      h1 { font-size: 1rem; }
-      .stat-card .val { font-size: 1.3rem; }
+      .actions { flex-direction: row; }
+      .stat-card .val { font-size: 1.1rem; }
     }
   </style>
 </head>
@@ -171,172 +84,178 @@
   </div>
 </header>
 
+<div class="tabs">
+  <button class="tab active" data-tab="new">🆕 未読 <span class="cnt" id="tab-new-cnt">0</span></button>
+  <button class="tab" data-tab="history">📋 履歴 <span class="cnt" id="tab-history-cnt">0</span></button>
+  <button class="tab fav-tab" data-tab="fav">⭐ お気に入り <span class="cnt" id="tab-fav-cnt">0</span></button>
+</div>
+
 <div class="toolbar">
   <input type="search" id="search" placeholder="キーワードで絞り込み..." />
-  <button class="filter-btn active" data-filter="all">すべて</button>
-  <button class="filter-btn" data-filter="new">🟢 新着のみ</button>
 </div>
 
 <div class="stats">
-  <div class="stat-card">
-    <div class="val" id="stat-total">—</div>
-    <div class="label">取得件数</div>
-  </div>
-  <div class="stat-card">
-    <div class="val green" id="stat-new">—</div>
-    <div class="label">新着件数</div>
-  </div>
-  <div class="stat-card">
-    <div class="val" id="stat-companies">—</div>
-    <div class="label">監視企業数</div>
-  </div>
+  <div class="stat-card"><div class="val green" id="stat-new">—</div><div class="label">未読件数</div></div>
+  <div class="stat-card"><div class="val" id="stat-history">—</div><div class="label">既読件数</div></div>
+  <div class="stat-card"><div class="val gold" id="stat-fav">—</div><div class="label">お気に入り</div></div>
+  <div class="stat-card"><div class="val" id="stat-companies">—</div><div class="label">監視企業数</div></div>
 </div>
 
 <div id="company-chips"></div>
-
-<div id="news-list">
-  <div id="loading">データを読み込んでいます...</div>
-</div>
+<div id="news-list"><div id="loading">データを読み込んでいます...</div></div>
 <div id="empty"><p>該当するニュースが見つかりません。</p></div>
 
 <script>
-  const NEWS_JSON = "./news.json";
+const NEWS_JSON = "./news.json";
+const LS_READ = "ynm_read";
+const LS_FAV  = "ynm_fav";
 
-  let allNews = [];
-  let currentFilter = "all";
-  let currentCompany = "all";
-  let currentSearch = "";
+let allNews = [], currentTab = "new", currentCompany = "all", currentSearch = "";
 
-  async function loadData() {
-    try {
-      const res = await fetch(`${NEWS_JSON}?t=${Date.now()}`);
-      if (!res.ok) throw new Error(res.status);
-      const data = await res.json();
-      return data;
-    } catch (e) {
-      document.getElementById("loading").textContent =
-        "⚠️ news.json の読み込みに失敗しました。GitHub Actions を一度手動実行してください。";
-      return null;
-    }
-  }
+function loadObj(k) { try { return JSON.parse(localStorage.getItem(k)||"{}"); } catch { return {}; } }
+function saveObj(k, v) { localStorage.setItem(k, JSON.stringify(v)); }
 
-  function fmtDate(iso) {
-    if (!iso) return "";
-    const d = new Date(iso);
-    return d.toLocaleString("ja-JP", { timeZone: "Asia/Tokyo",
-      year:"numeric", month:"2-digit", day:"2-digit",
-      hour:"2-digit", minute:"2-digit" });
-  }
+function fmtDate(iso) {
+  if (!iso) return "";
+  return new Date(iso).toLocaleString("ja-JP",{timeZone:"Asia/Tokyo",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"});
+}
+function esc(s) { return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
 
-  function render() {
-    const q = currentSearch.toLowerCase();
-    const filtered = allNews.filter(n => {
-      if (currentFilter === "new" && !n.is_new) return false;
-      if (currentCompany !== "all" && n.company !== currentCompany) return false;
-      if (q && !n.text.toLowerCase().includes(q) && !n.company.toLowerCase().includes(q)) return false;
-      return true;
+function updateCounts() {
+  const R = loadObj(LS_READ), F = loadObj(LS_FAV);
+  const unread  = allNews.filter(n => !R[n.id]).length;
+  const hist    = allNews.filter(n => !!R[n.id]).length;
+  const fav     = allNews.filter(n => !!F[n.id]).length;
+  const cos     = new Set(allNews.map(n=>n.company)).size;
+  document.getElementById("stat-new").textContent       = unread;
+  document.getElementById("stat-history").textContent   = hist;
+  document.getElementById("stat-fav").textContent       = fav;
+  document.getElementById("stat-companies").textContent = cos;
+  document.getElementById("tab-new-cnt").textContent     = unread;
+  document.getElementById("tab-history-cnt").textContent = hist;
+  document.getElementById("tab-fav-cnt").textContent     = fav;
+}
+
+function render() {
+  const R = loadObj(LS_READ), F = loadObj(LS_FAV);
+  const q = currentSearch.toLowerCase();
+
+  const filtered = allNews.filter(n => {
+    if (currentCompany !== "all" && n.company !== currentCompany) return false;
+    if (q && !n.text.toLowerCase().includes(q) && !n.company.toLowerCase().includes(q)) return false;
+    if (currentTab === "new")     return !R[n.id];
+    if (currentTab === "history") return !!R[n.id];
+    if (currentTab === "fav")     return !!F[n.id];
+    return true;
+  });
+
+  const list  = document.getElementById("news-list");
+  const empty = document.getElementById("empty");
+  [...list.children].forEach(c => { if (c.id !== "loading") c.remove(); });
+  document.getElementById("loading").style.display = "none";
+  updateCounts();
+
+  if (!filtered.length) { empty.style.display = "block"; return; }
+  empty.style.display = "none";
+
+  filtered.forEach(n => {
+    const isRead = !!R[n.id];
+    const isFav  = !!F[n.id];
+    const isNew  = n.is_new && !isRead;
+
+    const card = document.createElement("div");
+    card.className = "news-card" + (isNew?" is-new":"") + (isFav?" is-fav":"");
+
+    const titleEl = n.url
+      ? `<a class="title" href="${esc(n.url)}" target="_blank" rel="noopener" data-id="${n.id}">${esc(n.text)}</a>`
+      : `<span class="title">${esc(n.text)}</span>`;
+
+    const readAtHtml = (isRead && R[n.id] !== true)
+      ? `<div class="read-at">既読: ${fmtDate(R[n.id])}</div>` : "";
+
+    card.innerHTML = `
+      ${isNew?'<span class="badge-new">NEW</span>':""}
+      <div class="body">
+        <div class="company-tag"><a href="${esc(n.company_url)}" target="_blank" rel="noopener">${esc(n.company)}</a></div>
+        ${titleEl}${readAtHtml}
+      </div>
+      <div class="actions">
+        <button class="btn-icon star${isFav?" active":""}" data-id="${n.id}">⭐</button>
+        <button class="btn-icon read-btn" data-id="${n.id}">${isRead?"↩ 未読":"✓ 既読"}</button>
+      </div>`;
+
+    // Star
+    card.querySelector(".star").addEventListener("click", () => {
+      const f = loadObj(LS_FAV);
+      f[n.id] ? delete f[n.id] : (f[n.id] = new Date().toISOString());
+      saveObj(LS_FAV, f); render();
     });
 
-    const list = document.getElementById("news-list");
-    const empty = document.getElementById("empty");
-
-    // clear
-    [...list.children].forEach(c => { if (c.id !== "loading") c.remove(); });
-    document.getElementById("loading").style.display = "none";
-
-    if (filtered.length === 0) {
-      empty.style.display = "block";
-      return;
-    }
-    empty.style.display = "none";
-
-    filtered.forEach(n => {
-      const card = document.createElement("div");
-      card.className = "news-card" + (n.is_new ? " is-new" : "");
-
-      const titleEl = n.url
-        ? `<a class="title" href="${n.url}" target="_blank" rel="noopener">${escHtml(n.text)}</a>`
-        : `<span class="title">${escHtml(n.text)}</span>`;
-
-      card.innerHTML = `
-        ${n.is_new ? '<span class="badge-new">NEW</span>' : ""}
-        <div class="body">
-          <div class="company-tag">
-            <a href="${escHtml(n.company_url)}" target="_blank" rel="noopener"
-               style="color:inherit;text-decoration:none;">${escHtml(n.company)}</a>
-          </div>
-          ${titleEl}
-        </div>`;
-      list.appendChild(card);
-    });
-  }
-
-  function escHtml(str) {
-    return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
-  }
-
-  function buildChips(companies) {
-    const wrap = document.getElementById("company-chips");
-    wrap.innerHTML = "";
-
-    const allChip = document.createElement("span");
-    allChip.className = "chip active";
-    allChip.textContent = "すべての企業";
-    allChip.dataset.company = "all";
-    wrap.appendChild(allChip);
-
-    companies.forEach(c => {
-      const chip = document.createElement("span");
-      chip.className = "chip";
-      chip.textContent = c;
-      chip.dataset.company = c;
-      wrap.appendChild(chip);
+    // Read toggle
+    card.querySelector(".read-btn").addEventListener("click", () => {
+      const r = loadObj(LS_READ);
+      r[n.id] ? delete r[n.id] : (r[n.id] = new Date().toISOString());
+      saveObj(LS_READ, r); render();
     });
 
-    wrap.addEventListener("click", e => {
-      const chip = e.target.closest(".chip");
-      if (!chip) return;
-      [...wrap.querySelectorAll(".chip")].forEach(c => c.classList.remove("active"));
-      chip.classList.add("active");
-      currentCompany = chip.dataset.company;
-      render();
-    });
-  }
-
-  (async () => {
-    const data = await loadData();
-    if (!data) return;
-
-    allNews = data.news || [];
-    document.getElementById("updated").textContent = `最終更新: ${fmtDate(data.updated_at)}`;
-
-    const companies = [...new Set(allNews.map(n => n.company))];
-    const newCount  = allNews.filter(n => n.is_new).length;
-
-    document.getElementById("stat-total").textContent     = allNews.length;
-    document.getElementById("stat-new").textContent       = newCount;
-    document.getElementById("stat-companies").textContent = companies.length;
-
-    buildChips(companies);
-
-    // filter buttons
-    document.querySelectorAll(".filter-btn").forEach(btn => {
-      btn.addEventListener("click", () => {
-        document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
-        btn.classList.add("active");
-        currentFilter = btn.dataset.filter;
-        render();
+    // Click link → mark read
+    if (n.url) {
+      card.querySelector("a.title").addEventListener("click", () => {
+        const r = loadObj(LS_READ);
+        if (!r[n.id]) { r[n.id] = new Date().toISOString(); saveObj(LS_READ, r); setTimeout(render, 400); }
       });
-    });
+    }
 
-    // search
-    document.getElementById("search").addEventListener("input", e => {
-      currentSearch = e.target.value;
+    list.appendChild(card);
+  });
+}
+
+function buildChips(companies) {
+  const wrap = document.getElementById("company-chips");
+  const mk = (label, val) => {
+    const c = document.createElement("span");
+    c.className = "chip" + (val==="all"?" active":"");
+    c.textContent = label; c.dataset.company = val;
+    return c;
+  };
+  wrap.appendChild(mk("すべての企業","all"));
+  companies.forEach(c => wrap.appendChild(mk(c, c)));
+  wrap.addEventListener("click", e => {
+    const chip = e.target.closest(".chip"); if (!chip) return;
+    [...wrap.querySelectorAll(".chip")].forEach(c => c.classList.remove("active"));
+    chip.classList.add("active");
+    currentCompany = chip.dataset.company; render();
+  });
+}
+
+(async () => {
+  const data = await (async () => {
+    try { const r = await fetch(`${NEWS_JSON}?t=${Date.now()}`); return r.ok ? await r.json() : null; }
+    catch { document.getElementById("loading").textContent="⚠️ 読み込みに失敗しました。"; return null; }
+  })();
+  if (!data) return;
+
+  allNews = data.news || [];
+  document.getElementById("updated").textContent = `最終更新: ${fmtDate(data.updated_at)}`;
+  buildChips([...new Set(allNews.map(n=>n.company))]);
+  updateCounts();
+
+  document.querySelectorAll(".tab").forEach(tab => {
+    tab.addEventListener("click", () => {
+      document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+      tab.classList.add("active");
+      currentTab = tab.dataset.tab;
+      currentSearch = ""; document.getElementById("search").value = "";
       render();
     });
+  });
 
-    render();
-  })();
+  document.getElementById("search").addEventListener("input", e => {
+    currentSearch = e.target.value; render();
+  });
+
+  render();
+})();
 </script>
 </body>
 </html>
