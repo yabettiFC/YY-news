@@ -10,5 +10,47 @@
     "url": "https://www.zeroboard.jp/news",
     "selector": "a[href*='/news/']",
     "link_selector": "a"
+  },
+  {
+    "name": "アスエネ株式会社",
+    "url": "https://corp.asuene.com/news",
+    "selector": "a[href*='/news/']",
+    "link_selector": "a"
+  },
+  {
+    "name": "CCH Tagetik（Wolters Kluwer）",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/16173",
+    "selector": "article.list-article",
+    "link_selector": "a"
+  },
+  {
+    "name": "UL Solutions",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/49808",
+    "selector": "article.list-article",
+    "link_selector": "a"
+  },
+  {
+    "name": "積水化学工業株式会社",
+    "url": "https://www.sekisui.co.jp/news/2026/",
+    "selector": "a[href*='/news/2026/']",
+    "link_selector": "a"
+  },
+  {
+    "name": "工藤建設株式会社",
+    "url": "https://www.kudo.co.jp/news/",
+    "selector": "a[href*='/news/']",
+    "link_selector": "a"
+  },
+  {
+    "name": "アビームコンサルティング株式会社",
+    "url": "https://www.abeam.com/jp/ja/news/",
+    "selector": "a[href*='/news/']",
+    "link_selector": "a"
+  },
+  {
+    "name": "パーソルビジネスプロセスデザイン株式会社",
+    "url": "https://www.persol-bd.co.jp/news/",
+    "selector": "a[href*='/news/']",
+    "link_selector": "a"
   }
 ]
