@@ -1,0 +1,20 @@
+[
+  {
+    "name": "トヨタ自動車",
+    "url": "https://global.toyota/jp/newsroom/",
+    "selector": ".news-list__item, .newsroom-list li, article",
+    "link_selector": "a"
+  },
+  {
+    "name": "ソニーグループ",
+    "url": "https://www.sony.com/ja/SonyInfo/News/Press/",
+    "selector": ".item, li, .press-release-item",
+    "link_selector": "a"
+  },
+  {
+    "name": "サンプル企業（書き換えてください）",
+    "url": "https://example.com/news/",
+    "selector": "article, .news-item, li",
+    "link_selector": "a"
+  }
+]

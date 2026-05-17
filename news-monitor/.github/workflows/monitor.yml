@@ -1,0 +1,43 @@
+name: News Monitor
+
+on:
+  schedule:
+    # 毎日 8:00, 12:00, 18:00 JST (UTC+9) に実行
+    - cron: "0 23 * * *"   # 8:00 JST
+    - cron: "0 3 * * *"    # 12:00 JST
+    - cron: "0 9 * * *"    # 18:00 JST
+  workflow_dispatch:        # 手動実行も可能
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # 履歴をすべて取得（差分保存のため）
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run scraper
+        run: python scripts/scrape.py
+
+      - name: Commit & push results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json docs/news.json
+          # 変更がなければコミットをスキップ
+          git diff --cached --quiet && echo "No changes" || \
+            git commit -m "chore: update news $(date +'%Y-%m-%d %H:%M JST')"
+          git push
