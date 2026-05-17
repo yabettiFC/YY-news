@@ -1,20 +1,14 @@
 [
   {
-    "name": "トヨタ自動車",
-    "url": "https://global.toyota/jp/newsroom/",
-    "selector": ".news-list__item, .newsroom-list li, article",
+    "name": "Booost株式会社",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/86550",
+    "selector": "article.list-article",
     "link_selector": "a"
   },
   {
-    "name": "ソニーグループ",
-    "url": "https://www.sony.com/ja/SonyInfo/News/Press/",
-    "selector": ".item, li, .press-release-item",
-    "link_selector": "a"
-  },
-  {
-    "name": "サンプル企業（書き換えてください）",
-    "url": "https://example.com/news/",
-    "selector": "article, .news-item, li",
+    "name": "株式会社ゼロボード",
+    "url": "https://www.zeroboard.jp/news",
+    "selector": "a[href*='/news/']",
     "link_selector": "a"
   }
 ]
