@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T12:24:26.689938+09:00",
+  "updated_at": "2026-05-17T12:51:46.175305+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -214,7 +214,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "国内初※1、フィルム型ペロブスカイト太陽電池を用いた 営農型太陽光発電設備の水田での取り組みを開始",
       "url": "\n/news/2026/1450384_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "edcf581468a1"
     },
     {
@@ -278,7 +278,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "大阪狭山市・河内長野市の共同発注案件受託について － 下水道分野で全国初形態の水の官民連携（ウォーターPPP）レベル3.5事業の受託 －",
       "url": "\n/news/2026/1448836_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "b117d08a9bdd"
     },
     {
@@ -358,7 +358,7 @@
       "company_url": "https://www.kudo.co.jp/news/",
       "text": "2025.10.02 お知らせ フローレンスケア鎌倉 内装リニューアルしました",
       "url": "https://www.kudo.co.jp/news/1218/",
-      "is_new": true,
+      "is_new": false,
       "id": "4c67cf3d49c0"
     },
     {
@@ -414,7 +414,7 @@
       "company_url": "https://www.kudo.co.jp/news/",
       "text": "2025.03.03 お知らせ デザイン性 × 機能性 × 安全性 新時代の高品質木造3階建アパート「Florence Maison-wood Premium」誕生！",
       "url": "https://www.kudo.co.jp/news/1236/",
-      "is_new": true,
+      "is_new": false,
       "id": "1a5e0bfd579b"
     },
     {
@@ -446,7 +446,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "English",
       "url": "https://www.abeam.com/jp/en/news/",
-      "is_new": true,
+      "is_new": false,
       "id": "c9eee5bdd20c"
     },
     {
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.13 NEW イベント・キャンペーン 5月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260513/",
-      "is_new": true,
+      "is_new": false,
       "id": "d24c5dfd705e"
     },
     {
@@ -582,7 +582,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.12 NEW サービス パーソルビジネスプロセスデザイン 、 東京都へ「ノーコード開発ツールおよびダッシュボード運用業務支援」を開始",
       "url": "https://www.persol-bd.co.jp/news/20260512/",
-      "is_new": true,
+      "is_new": false,
       "id": "ee0cdf1534ac"
     },
     {
@@ -590,7 +590,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.11 NEW サービス パーソルビジネスプロセスデザイン、さいしん健康保険組合へ特定保健指導サービスの「血糖値測定プラン」を提供 約4割が体重2kg・腹囲2cm減を達成",
       "url": "https://www.persol-bd.co.jp/news/20260511/",
-      "is_new": true,
+      "is_new": false,
       "id": "c3056add0117"
     },
     {
@@ -598,7 +598,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.30 メディア掲載 「女性が働きやすい会社（Jo-Works）とBPO活用促進を目的とした業務提携を開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260430-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "8e402e52de74"
     },
     {
@@ -606,7 +606,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.30 メディア掲載 「『アグリゲーション支援サービス』を本格的に提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260430/",
-      "is_new": true,
+      "is_new": false,
       "id": "eb87d571b99d"
     },
     {
@@ -614,7 +614,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.28 サービス パーソルビジネスプロセスデザイン、世田谷区「せたがや子育て利用券」事業運営を受託",
       "url": "https://www.persol-bd.co.jp/news/20260428/",
-      "is_new": true,
+      "is_new": false,
       "id": "f4101ea98733"
     },
     {
@@ -622,7 +622,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.24 コーポレート パーソルビジネスプロセスデザインの派遣元労使協定の締結状況について",
       "url": "https://www.persol-bd.co.jp/news/20260424-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "6b64775a8827"
     },
     {
@@ -630,7 +630,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.24 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
       "url": "https://www.persol-bd.co.jp/news/20260424/",
-      "is_new": true,
+      "is_new": false,
       "id": "1ec1a7f8817d"
     },
     {
@@ -638,7 +638,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.23 サービス パーソルビジネスプロセスデザイン、女性が働きやすい会社（Jo-Works）と宮城県気仙沼市内企業へのBPO活用促進を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260423/",
-      "is_new": true,
+      "is_new": false,
       "id": "63f7a04b0f5f"
     },
     {
@@ -646,7 +646,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.22 メディア掲載 「『AI/AIエージェント実装ソリューション』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260422-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "8ed672920bda"
     },
     {
@@ -654,7 +654,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.22 メディア掲載 「AIを活用したBPOで請求書の入力作業を効率化『記帳代行サービス by StepBase』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260422-3/",
-      "is_new": true,
+      "is_new": false,
       "id": "0b8554f01eed"
     },
     {
@@ -662,7 +662,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.22 サービス パーソルビジネスプロセスデザイン、横須賀市会計課において、「通話録音データを活用し職員の暗黙知可視化に向けた実証実験」を実施",
       "url": "https://www.persol-bd.co.jp/news/20260422/",
-      "is_new": true,
+      "is_new": false,
       "id": "a4e0cee39c8e"
     },
     {
@@ -670,7 +670,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.21 サービス パーソルビジネスプロセスデザイン、需給調整市場・容量市場・システム監視までを包括的に支援する『アグリゲーション支援サービス』を本格的に提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260421-3/",
-      "is_new": true,
+      "is_new": false,
       "id": "fc07045b44e3"
     },
     {
@@ -678,7 +678,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.21 サービス AIを活用したBPOで請求書の入力作業を効率化「記帳代行サービス by StepBase」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260421/",
-      "is_new": true,
+      "is_new": false,
       "id": "f1ec5934540f"
     },
     {
@@ -686,7 +686,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.20 サービス パーソルビジネスプロセスデザイン、高速構築・実効性にこだわったAI実装を徹底したハンズオン型で設計から開発、定着までを一気通貫で支援する「AI/AIエージェント実装ソリューション」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260420/",
-      "is_new": true,
+      "is_new": false,
       "id": "803e70c95df4"
     },
     {
@@ -694,7 +694,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.16 コーポレート BPO事業のさらなる成長に向けて、2027年度新卒採用を500名規模に拡大",
       "url": "https://www.persol-bd.co.jp/news/20260416-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "45148ab15e80"
     },
     {
@@ -702,7 +702,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.16 サービス 自治体の課題解決を支援する公共ソリューションのサービスサイトを公開",
       "url": "https://www.persol-bd.co.jp/news/20260416/",
-      "is_new": true,
+      "is_new": false,
       "id": "349012689fa0"
     },
     {
@@ -710,7 +710,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.15 メディア掲載 「対話型AIに公認心理師のカウンセリングプロセスを組み込んだ心理相談サービス『corocare（コロケア）』」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/202604-15/",
-      "is_new": true,
+      "is_new": false,
       "id": "e5794a2cba98"
     },
     {
@@ -718,7 +718,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.15 サービス 企業向けLGBTQ+相談窓口サービス「KATAruruにじいろ相談室」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260415/",
-      "is_new": true,
+      "is_new": false,
       "id": "07b2bbbf31f6"
     },
     {
@@ -726,7 +726,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.10 サービス 対話型AIに公認心理師のカウンセリングプロセスを組み込んだ心理相談サービス「corocare（コロケア）」提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260410/",
-      "is_new": true,
+      "is_new": false,
       "id": "4e532df77c23"
     }
   ]
