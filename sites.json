@@ -2,8 +2,8 @@
   {
     "name": "Booost株式会社",
     "url": "https://prtimes.jp/main/html/searchrlp/company_id/86550",
-    "selector": "article.list-article",
-    "link_selector": "a.list-article__link"
+    "selector": "a[href*='/main/html/rd/p/']",
+    "link_selector": "a"
   },
   {
     "name": "株式会社ゼロボード",
@@ -14,20 +14,20 @@
   {
     "name": "アスエネ株式会社",
     "url": "https://prtimes.jp/main/html/searchrlp/company_id/58538",
-    "selector": "article.list-article",
-    "link_selector": "a.list-article__link"
+    "selector": "a[href*='/main/html/rd/p/']",
+    "link_selector": "a"
   },
   {
     "name": "CCH Tagetik（Wolters Kluwer）",
     "url": "https://prtimes.jp/main/html/searchrlp/company_id/16173",
-    "selector": "article.list-article",
-    "link_selector": "a.list-article__link"
+    "selector": "a[href*='/main/html/rd/p/']",
+    "link_selector": "a"
   },
   {
     "name": "UL Solutions",
     "url": "https://prtimes.jp/main/html/searchrlp/company_id/49808",
-    "selector": "article.list-article",
-    "link_selector": "a.list-article__link"
+    "selector": "a[href*='/main/html/rd/p/']",
+    "link_selector": "a"
   },
   {
     "name": "積水化学工業株式会社",
