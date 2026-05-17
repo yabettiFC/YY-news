@@ -3,7 +3,7 @@
     "name": "Booost株式会社",
     "url": "https://prtimes.jp/main/html/searchrlp/company_id/86550",
     "selector": "article.list-article",
-    "link_selector": "a"
+    "link_selector": "a.list-article__link"
   },
   {
     "name": "株式会社ゼロボード",
@@ -15,19 +15,19 @@
     "name": "アスエネ株式会社",
     "url": "https://prtimes.jp/main/html/searchrlp/company_id/58538",
     "selector": "article.list-article",
-    "link_selector": "a"
+    "link_selector": "a.list-article__link"
   },
   {
     "name": "CCH Tagetik（Wolters Kluwer）",
     "url": "https://prtimes.jp/main/html/searchrlp/company_id/16173",
     "selector": "article.list-article",
-    "link_selector": "a"
+    "link_selector": "a.list-article__link"
   },
   {
     "name": "UL Solutions",
     "url": "https://prtimes.jp/main/html/searchrlp/company_id/49808",
     "selector": "article.list-article",
-    "link_selector": "a"
+    "link_selector": "a.list-article__link"
   },
   {
     "name": "積水化学工業株式会社",
@@ -49,8 +49,8 @@
   },
   {
     "name": "パーソルビジネスプロセスデザイン株式会社",
-    "url": "https://prtimes.jp/main/html/searchrlp/company_id/119221",
-    "selector": "article.list-article",
+    "url": "https://www.persol-bd.co.jp/news/",
+    "selector": "a[href*='/news/']",
     "link_selector": "a"
   }
 ]

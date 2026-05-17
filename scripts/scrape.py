@@ -1,74 +1,89 @@
 #!/usr/bin/env python3
 """
-ニュースリリース監視スクリプト
-各企業のニュースページをスクレイピングし、新着を検出してJSONに保存する
+ニュースリリース監視スクリプト（Playwright版）
+JavaScript動的サイト含めて取得可能
 """
 
 import json
 import hashlib
-import os
 import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from urllib.parse import urlparse
 
-import requests
-from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
-# ---- 定数 ----------------------------------------------------------------
 JST = timezone(timedelta(hours=9))
-SITES_FILE   = Path(__file__).parent.parent / "sites.json"
-DATA_FILE    = Path(__file__).parent.parent / "data" / "news.json"
-OUTPUT_FILE  = Path(__file__).parent.parent / "docs" / "news.json"
+SITES_FILE  = Path(__file__).parent.parent / "sites.json"
+DATA_FILE   = Path(__file__).parent.parent / "data" / "news.json"
+OUTPUT_FILE = Path(__file__).parent.parent / "docs" / "news.json"
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (compatible; NewsMonitorBot/1.0; "
-        "+https://github.com/YOUR_USERNAME/YOUR_REPO)"
-    )
-}
-TIMEOUT = 15  # seconds
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
+WAIT_MS = 3500            # ページ読込後の待ち時間（JSが描画するのを待つ）
+TIMEOUT_MS = 30000        # ページ読込タイムアウト
+MAX_ITEMS = 30            # 1サイトあたり最大件数
 
 
-# ---- ユーティリティ -------------------------------------------------------
-
-def load_json(path: Path, default):
+def load_json(path, default):
     if path.exists():
         with open(path, encoding="utf-8") as f:
             return json.load(f)
     return default
 
 
-def save_json(path: Path, data):
+def save_json(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def make_id(url: str, text: str) -> str:
+def make_id(url, text):
     return hashlib.md5(f"{url}|{text}".encode()).hexdigest()[:12]
 
 
-# ---- スクレイピング -------------------------------------------------------
+def normalize_url(href, base_url):
+    if not href:
+        return ""
+    if href.startswith("http"):
+        return href
+    if href.startswith("//"):
+        return "https:" + href
+    if href.startswith("/"):
+        p = urlparse(base_url)
+        return f"{p.scheme}://{p.netloc}{href}"
+    return href
 
-def fetch_items(site: dict) -> list[dict]:
-    """1サイトのニュース一覧を取得して返す"""
+
+def fetch_items(page, site):
+    """1サイトを開いてニュース一覧を返す"""
     try:
-        resp = requests.get(site["url"], headers=HEADERS, timeout=TIMEOUT)
-        resp.raise_for_status()
-        resp.encoding = resp.apparent_encoding
+        page.goto(site["url"], timeout=TIMEOUT_MS, wait_until="domcontentloaded")
+        # JSで描画されるサイト対策：少し待つ
+        page.wait_for_timeout(WAIT_MS)
     except Exception as e:
-        print(f"  [ERROR] fetch failed: {e}", file=sys.stderr)
+        print(f"  [ERROR] page load: {e}", file=sys.stderr)
         return []
 
-    soup = BeautifulSoup(resp.text, "html.parser")
-    candidates = soup.select(site["selector"])
+    selector = site["selector"]
+
+    try:
+        elements = page.query_selector_all(selector)
+    except Exception as e:
+        print(f"  [ERROR] selector: {e}", file=sys.stderr)
+        return []
 
     items = []
     seen_texts = set()
 
-    for elem in candidates[:30]:  # 最大30件チェック
-        # テキスト取得
-        text = elem.get_text(" ", strip=True)
+    for el in elements[:MAX_ITEMS]:
+        try:
+            text = (el.inner_text() or "").strip()
+        except Exception:
+            continue
+        text = " ".join(text.split())  # 改行・空白整理
         if not text or len(text) < 5:
             continue
         if text in seen_texts:
@@ -76,14 +91,20 @@ def fetch_items(site: dict) -> list[dict]:
         seen_texts.add(text)
 
         # リンク取得
-        link_elem = elem.select_one(site.get("link_selector", "a"))
         href = ""
-        if link_elem and link_elem.get("href"):
-            href = link_elem["href"]
-            if href.startswith("/"):
-                from urllib.parse import urlparse
-                base = urlparse(site["url"])
-                href = f"{base.scheme}://{base.netloc}{href}"
+        try:
+            # 要素自体がaタグの場合
+            tag = el.evaluate("e => e.tagName")
+            if tag and tag.lower() == "a":
+                href = el.get_attribute("href") or ""
+            else:
+                link_el = el.query_selector(site.get("link_selector", "a"))
+                if link_el:
+                    href = link_el.get_attribute("href") or ""
+        except Exception:
+            pass
+
+        href = normalize_url(href, site["url"])
 
         items.append({
             "id":   make_id(site["url"], text),
@@ -94,46 +115,45 @@ def fetch_items(site: dict) -> list[dict]:
     return items
 
 
-# ---- メイン --------------------------------------------------------------
-
 def main():
     sites    = load_json(SITES_FILE, [])
-    old_data = load_json(DATA_FILE, {})   # {site_name: [item, ...]}
+    old_data = load_json(DATA_FILE, {})
 
     now_str = datetime.now(JST).isoformat()
-    new_data   = {}   # 今回取得した全データ（保存用）
-    all_news   = []   # ダッシュボード表示用（新着フラグ付き）
+    new_data = {}
+    all_news = []
 
-    for site in sites:
-        name = site["name"]
-        print(f"Checking: {name}")
-        items = fetch_items(site)
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(user_agent=USER_AGENT, locale="ja-JP")
+        page = context.new_page()
 
-        old_ids = {it["id"] for it in old_data.get(name, [])}
-        new_data[name] = items
+        for site in sites:
+            name = site["name"]
+            print(f"Checking: {name}")
+            items = fetch_items(page, site)
 
-        for item in items:
-            is_new = item["id"] not in old_ids
-            all_news.append({
-                "company":    name,
-                "company_url": site["url"],
-                "text":       item["text"],
-                "url":        item["url"],
-                "is_new":     is_new,
-                "id":         item["id"],
-            })
+            old_ids = {it["id"] for it in old_data.get(name, [])}
+            new_data[name] = items
 
-        new_count = sum(1 for it in items if it["id"] not in old_ids)
-        print(f"  -> {len(items)} items, {new_count} new")
+            for it in items:
+                is_new = it["id"] not in old_ids
+                all_news.append({
+                    "company":     name,
+                    "company_url": site["url"],
+                    "text":        it["text"],
+                    "url":         it["url"],
+                    "is_new":      is_new,
+                    "id":          it["id"],
+                })
 
-    # 保存
+            new_count = sum(1 for it in items if it["id"] not in old_ids)
+            print(f"  -> {len(items)} items, {new_count} new")
+
+        browser.close()
+
     save_json(DATA_FILE, new_data)
-
-    output = {
-        "updated_at": now_str,
-        "news": all_news,
-    }
-    save_json(OUTPUT_FILE, output)
+    save_json(OUTPUT_FILE, {"updated_at": now_str, "news": all_news})
     print(f"\nDone. Output -> {OUTPUT_FILE}")
 
 
