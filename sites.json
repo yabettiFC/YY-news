@@ -13,8 +13,8 @@
   },
   {
     "name": "アスエネ株式会社",
-    "url": "https://corp.asuene.com/news",
-    "selector": "a[href*='/news/']",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/58538",
+    "selector": "article.list-article",
     "link_selector": "a"
   },
   {
@@ -49,8 +49,8 @@
   },
   {
     "name": "パーソルビジネスプロセスデザイン株式会社",
-    "url": "https://www.persol-bd.co.jp/news/",
-    "selector": "a[href*='/news/']",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/119221",
+    "selector": "article.list-article",
     "link_selector": "a"
   }
 ]
