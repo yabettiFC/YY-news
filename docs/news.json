@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T19:41:54.092461+09:00",
+  "updated_at": "2026-05-25T09:02:23.105205+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -452,6 +452,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.05.25 お知らせ 愛知県「あいちデジタルヘルスプロジェクト」における新サービス創出事業の実証事業者公募を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0525/",
+      "is_new": true,
+      "id": "14f362abb9e4"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.05.20 お知らせ ヘラルボニー主催「HERALBONY Art Prize 2026 Presented by 東京建物｜Brillia」に協賛",
       "url": "https://www.abeam.com/jp/ja/news/2026/0520/",
       "is_new": false,
@@ -560,14 +568,6 @@
       "url": "https://www.abeam.com/jp/ja/news/2026/0304/",
       "is_new": false,
       "id": "226fc1011f01"
-    },
-    {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.02.27 お知らせ 経営戦略・事業戦略の実行力を高めるAIと人事の共創支援 「HRBPエージェント」の開発に着手 ～人的資本に関する分析・示唆を高度化・高速化し、企業の成長を牽引する新たな基盤構築を目指す～",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0227_2/",
-      "is_new": false,
-      "id": "3793da21e64b"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
