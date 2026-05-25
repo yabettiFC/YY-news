@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T09:02:23.105205+09:00",
+  "updated_at": "2026-05-25T16:19:35.867328+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260317",
       "is_new": false,
       "id": "f033251b9c9a"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "CDP「サプライヤーエンゲージメント・リーダー」に2年連続で選定",
+      "url": "\n/news/2026/1455283_42699.html",
+      "is_new": true,
+      "id": "6990958a498a"
     },
     {
       "company": "積水化学工業株式会社",
@@ -330,14 +338,6 @@
       "id": "41c8aaaebd7b"
     },
     {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "2026年 年頭挨拶「次期中期経営計画とその先の成長に向かって挑戦を」",
-      "url": "\n/news/2026/1445436_42699.html",
-      "is_new": false,
-      "id": "e179860ed07f"
-    },
-    {
       "company": "工藤建設株式会社",
       "company_url": "https://www.kudo.co.jp/news/",
       "text": "2026.01.22 お知らせ 創業60周年のご挨拶とホームページリニューアルのお知らせ",
@@ -454,7 +454,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.05.25 お知らせ 愛知県「あいちデジタルヘルスプロジェクト」における新サービス創出事業の実証事業者公募を支援",
       "url": "https://www.abeam.com/jp/ja/news/2026/0525/",
-      "is_new": true,
+      "is_new": false,
       "id": "14f362abb9e4"
     },
     {
@@ -572,6 +572,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.05.25 NEW サービス 石川県の「被災市町業務改革（BPR）伴走支援事業」産官学連携の事業推進知見を活かし、再現性のある業務改革の基盤を構築",
+      "url": "https://www.persol-bd.co.jp/news/20260525/",
+      "is_new": true,
+      "id": "274b59a556a7"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.13 NEW イベント・キャンペーン 5月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260513/",
       "is_new": false,
@@ -588,10 +596,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.11 NEW サービス パーソルビジネスプロセスデザイン、さいしん健康保険組合へ特定保健指導サービスの「血糖値測定プラン」を提供 約4割が体重2kg・腹囲2cm減を達成",
+      "text": "2026.05.11 サービス パーソルビジネスプロセスデザイン、さいしん健康保険組合へ特定保健指導サービスの「血糖値測定プラン」を提供 約4割が体重2kg・腹囲2cm減を達成",
       "url": "https://www.persol-bd.co.jp/news/20260511/",
-      "is_new": false,
-      "id": "c3056add0117"
+      "is_new": true,
+      "id": "3e61fc204ae0"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -620,14 +628,6 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.24 コーポレート パーソルビジネスプロセスデザインの派遣元労使協定の締結状況について",
-      "url": "https://www.persol-bd.co.jp/news/20260424-2/",
-      "is_new": false,
-      "id": "6b64775a8827"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.24 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
       "url": "https://www.persol-bd.co.jp/news/20260424/",
       "is_new": false,
@@ -636,18 +636,18 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.23 サービス パーソルビジネスプロセスデザイン、女性が働きやすい会社（Jo-Works）と宮城県気仙沼市内企業へのBPO活用促進を目的とした業務提携を開始",
-      "url": "https://www.persol-bd.co.jp/news/20260423/",
+      "text": "2026.04.24 コーポレート パーソルビジネスプロセスデザインの派遣元労使協定の締結状況について",
+      "url": "https://www.persol-bd.co.jp/news/20260424-2/",
       "is_new": false,
-      "id": "63f7a04b0f5f"
+      "id": "6b64775a8827"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.22 メディア掲載 「『AI/AIエージェント実装ソリューション』を提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260422-2/",
+      "text": "2026.04.23 サービス パーソルビジネスプロセスデザイン、女性が働きやすい会社（Jo-Works）と宮城県気仙沼市内企業へのBPO活用促進を目的とした業務提携を開始",
+      "url": "https://www.persol-bd.co.jp/news/20260423/",
       "is_new": false,
-      "id": "8ed672920bda"
+      "id": "63f7a04b0f5f"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -664,6 +664,14 @@
       "url": "https://www.persol-bd.co.jp/news/20260422/",
       "is_new": false,
       "id": "a4e0cee39c8e"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.04.22 メディア掲載 「『AI/AIエージェント実装ソリューション』を提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260422-2/",
+      "is_new": false,
+      "id": "8ed672920bda"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -720,14 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260415/",
       "is_new": false,
       "id": "07b2bbbf31f6"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.10 サービス 対話型AIに公認心理師のカウンセリングプロセスを組み込んだ心理相談サービス「corocare（コロケア）」提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260410/",
-      "is_new": false,
-      "id": "4e532df77c23"
     }
   ]
 }
