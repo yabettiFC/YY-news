@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T09:09:00.643935+09:00",
+  "updated_at": "2026-05-27T16:08:28.897184+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -572,6 +572,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.05.27 NEW サービス パーソルビジネスプロセスデザイン、人事・労務クラウドソフトを提供するfreeeと次世代型BPaaSの展開に関する協業を開始",
+      "url": "https://www.persol-bd.co.jp/news/20260527/",
+      "is_new": true,
+      "id": "0c121b287c13"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.26 NEW サービス 東京都より「大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業」を受託",
       "url": "https://www.persol-bd.co.jp/news/20260526/",
       "is_new": false,
@@ -588,10 +596,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.13 NEW イベント・キャンペーン 5月のイベント・セミナー情報",
+      "text": "2026.05.13 イベント・キャンペーン 5月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260513/",
-      "is_new": false,
-      "id": "d24c5dfd705e"
+      "is_new": true,
+      "id": "dd9b5bb5f71b"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -636,18 +644,18 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.24 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
-      "url": "https://www.persol-bd.co.jp/news/20260424/",
-      "is_new": false,
-      "id": "1ec1a7f8817d"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.24 コーポレート パーソルビジネスプロセスデザインの派遣元労使協定の締結状況について",
       "url": "https://www.persol-bd.co.jp/news/20260424-2/",
       "is_new": false,
       "id": "6b64775a8827"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.04.24 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
+      "url": "https://www.persol-bd.co.jp/news/20260424/",
+      "is_new": false,
+      "id": "1ec1a7f8817d"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -668,14 +676,6 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.22 サービス パーソルビジネスプロセスデザイン、横須賀市会計課において、「通話録音データを活用し職員の暗黙知可視化に向けた実証実験」を実施",
-      "url": "https://www.persol-bd.co.jp/news/20260422/",
-      "is_new": false,
-      "id": "a4e0cee39c8e"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.22 メディア掲載 「『AI/AIエージェント実装ソリューション』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260422-2/",
       "is_new": false,
@@ -684,10 +684,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.21 サービス パーソルビジネスプロセスデザイン、需給調整市場・容量市場・システム監視までを包括的に支援する『アグリゲーション支援サービス』を本格的に提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260421-3/",
+      "text": "2026.04.22 サービス パーソルビジネスプロセスデザイン、横須賀市会計課において、「通話録音データを活用し職員の暗黙知可視化に向けた実証実験」を実施",
+      "url": "https://www.persol-bd.co.jp/news/20260422/",
       "is_new": false,
-      "id": "fc07045b44e3"
+      "id": "a4e0cee39c8e"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -696,6 +696,14 @@
       "url": "https://www.persol-bd.co.jp/news/20260421/",
       "is_new": false,
       "id": "f1ec5934540f"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.04.21 サービス パーソルビジネスプロセスデザイン、需給調整市場・容量市場・システム監視までを包括的に支援する『アグリゲーション支援サービス』を本格的に提供開始",
+      "url": "https://www.persol-bd.co.jp/news/20260421-3/",
+      "is_new": false,
+      "id": "fc07045b44e3"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -720,14 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260416/",
       "is_new": false,
       "id": "349012689fa0"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.15 メディア掲載 「対話型AIに公認心理師のカウンセリングプロセスを組み込んだ心理相談サービス『corocare（コロケア）』」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/202604-15/",
-      "is_new": false,
-      "id": "e5794a2cba98"
     }
   ]
 }
