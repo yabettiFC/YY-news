@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T09:02:32.441283+09:00",
+  "updated_at": "2026-05-28T15:58:34.590590+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -572,6 +572,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.05.28 NEW サービス パーソルビジネスプロセスデザイン、業務設計×バイブコーディングでDXの実装力とスピードを強化",
+      "url": "https://www.persol-bd.co.jp/news/20260528/",
+      "is_new": true,
+      "id": "70cc2528160d"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.27 NEW メディア掲載 「東京都より『大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業』を受託」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260527-3/",
       "is_new": false,
@@ -636,18 +644,18 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.30 メディア掲載 「『アグリゲーション支援サービス』を本格的に提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260430/",
-      "is_new": false,
-      "id": "eb87d571b99d"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.30 メディア掲載 「女性が働きやすい会社（Jo-Works）とBPO活用促進を目的とした業務提携を開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260430-2/",
       "is_new": false,
       "id": "8e402e52de74"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.04.30 メディア掲載 「『アグリゲーション支援サービス』を本格的に提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260430/",
+      "is_new": false,
+      "id": "eb87d571b99d"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -660,14 +668,6 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.24 コーポレート パーソルビジネスプロセスデザインの派遣元労使協定の締結状況について",
-      "url": "https://www.persol-bd.co.jp/news/20260424-2/",
-      "is_new": false,
-      "id": "6b64775a8827"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.24 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
       "url": "https://www.persol-bd.co.jp/news/20260424/",
       "is_new": false,
@@ -676,10 +676,26 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.04.24 コーポレート パーソルビジネスプロセスデザインの派遣元労使協定の締結状況について",
+      "url": "https://www.persol-bd.co.jp/news/20260424-2/",
+      "is_new": false,
+      "id": "6b64775a8827"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.23 サービス パーソルビジネスプロセスデザイン、女性が働きやすい会社（Jo-Works）と宮城県気仙沼市内企業へのBPO活用促進を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260423/",
       "is_new": false,
       "id": "63f7a04b0f5f"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.04.22 サービス パーソルビジネスプロセスデザイン、横須賀市会計課において、「通話録音データを活用し職員の暗黙知可視化に向けた実証実験」を実施",
+      "url": "https://www.persol-bd.co.jp/news/20260422/",
+      "is_new": false,
+      "id": "a4e0cee39c8e"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -700,22 +716,6 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.22 サービス パーソルビジネスプロセスデザイン、横須賀市会計課において、「通話録音データを活用し職員の暗黙知可視化に向けた実証実験」を実施",
-      "url": "https://www.persol-bd.co.jp/news/20260422/",
-      "is_new": false,
-      "id": "a4e0cee39c8e"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.21 サービス AIを活用したBPOで請求書の入力作業を効率化「記帳代行サービス by StepBase」を提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260421/",
-      "is_new": false,
-      "id": "f1ec5934540f"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.21 サービス パーソルビジネスプロセスデザイン、需給調整市場・容量市場・システム監視までを包括的に支援する『アグリゲーション支援サービス』を本格的に提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260421-3/",
       "is_new": false,
@@ -724,10 +724,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.20 サービス パーソルビジネスプロセスデザイン、高速構築・実効性にこだわったAI実装を徹底したハンズオン型で設計から開発、定着までを一気通貫で支援する「AI/AIエージェント実装ソリューション」を提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260420/",
+      "text": "2026.04.21 サービス AIを活用したBPOで請求書の入力作業を効率化「記帳代行サービス by StepBase」を提供開始",
+      "url": "https://www.persol-bd.co.jp/news/20260421/",
       "is_new": false,
-      "id": "803e70c95df4"
+      "id": "f1ec5934540f"
     }
   ]
 }
