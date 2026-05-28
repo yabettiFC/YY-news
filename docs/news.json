@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T21:21:29.722126+09:00",
+  "updated_at": "2026-05-28T09:02:32.441283+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.27 NEW メディア掲載 「東京都より『大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業』を受託」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260527-3/",
-      "is_new": true,
+      "is_new": false,
       "id": "6f2e45c22e1e"
     },
     {
@@ -582,7 +582,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.27 NEW メディア掲載 「企業向けLGBTQ+相談窓口サービス『KATAruruにじいろ相談室』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260527-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "488c7da4f587"
     },
     {
