@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T15:58:34.590590+09:00",
+  "updated_at": "2026-05-28T21:27:02.279815+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.28 NEW サービス パーソルビジネスプロセスデザイン、業務設計×バイブコーディングでDXの実装力とスピードを強化",
       "url": "https://www.persol-bd.co.jp/news/20260528/",
-      "is_new": true,
+      "is_new": false,
       "id": "70cc2528160d"
     },
     {
