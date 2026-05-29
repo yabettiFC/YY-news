@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T15:58:47.922401+09:00",
+  "updated_at": "2026-05-29T21:16:00.112021+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "経済産業省「ダイバーシティ経営」実践事例集に積水化学の取り組みが掲載",
       "url": "\n/news/2026/1455522_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "dcb3737f705f"
     },
     {
@@ -454,7 +454,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.05.29 お知らせ さいたま市におけるEBPM定着に向けた、データ利活用のユースケース設計およびデータマネジメントの体系整備を支援",
       "url": "https://www.abeam.com/jp/ja/news/2026/0529/",
-      "is_new": true,
+      "is_new": false,
       "id": "bbb4d71977cf"
     },
     {
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.29 NEW サービス パーソルビジネスプロセスデザイン、コンテンツ制作から掲載までの工数を削減する『コンテンツ制作のゼロ化』とHubSpotの『Content Hub』が連携",
       "url": "https://www.persol-bd.co.jp/news/20260529/",
-      "is_new": true,
+      "is_new": false,
       "id": "82df8d3c1b2e"
     },
     {
