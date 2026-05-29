@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T09:13:37.631110+09:00",
+  "updated_at": "2026-05-29T15:58:47.922401+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260317",
       "is_new": false,
       "id": "f033251b9c9a"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "経済産業省「ダイバーシティ経営」実践事例集に積水化学の取り組みが掲載",
+      "url": "\n/news/2026/1455522_42699.html",
+      "is_new": true,
+      "id": "dcb3737f705f"
     },
     {
       "company": "積水化学工業株式会社",
@@ -330,14 +338,6 @@
       "id": "a69fbb709c0e"
     },
     {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "「平膜型MABR－膜曝気型バイオフィルム法－」開発にめど InterAqua 2026で実物を初展示",
-      "url": "\n/news/2026/1447038_42699.html",
-      "is_new": false,
-      "id": "41c8aaaebd7b"
-    },
-    {
       "company": "工藤建設株式会社",
       "company_url": "https://www.kudo.co.jp/news/",
       "text": "2026.01.22 お知らせ 創業60周年のご挨拶とホームページリニューアルのお知らせ",
@@ -452,6 +452,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.05.29 お知らせ さいたま市におけるEBPM定着に向けた、データ利活用のユースケース設計およびデータマネジメントの体系整備を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0529/",
+      "is_new": true,
+      "id": "bbb4d71977cf"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.05.25 お知らせ 愛知県「あいちデジタルヘルスプロジェクト」における新サービス創出事業の実証事業者公募を支援",
       "url": "https://www.abeam.com/jp/ja/news/2026/0525/",
       "is_new": false,
@@ -562,12 +570,12 @@
       "id": "724101a140a2"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.03.04 プレスリリース アビームコンサルティングとGXコンシェルジュ、SSBJ対応を起点にサステナビリティ経営を実現する包括的支援サービスの第三弾、「サステナビリティ機能高度化サービス」を提供開始",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0304/",
-      "is_new": false,
-      "id": "226fc1011f01"
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.05.29 NEW サービス パーソルビジネスプロセスデザイン、コンテンツ制作から掲載までの工数を削減する『コンテンツ制作のゼロ化』とHubSpotの『Content Hub』が連携",
+      "url": "https://www.persol-bd.co.jp/news/20260529/",
+      "is_new": true,
+      "id": "82df8d3c1b2e"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -692,14 +700,6 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.22 サービス パーソルビジネスプロセスデザイン、横須賀市会計課において、「通話録音データを活用し職員の暗黙知可視化に向けた実証実験」を実施",
-      "url": "https://www.persol-bd.co.jp/news/20260422/",
-      "is_new": false,
-      "id": "a4e0cee39c8e"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.04.22 メディア掲載 「AIを活用したBPOで請求書の入力作業を効率化『記帳代行サービス by StepBase』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260422-3/",
       "is_new": false,
@@ -716,18 +716,18 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.21 サービス パーソルビジネスプロセスデザイン、需給調整市場・容量市場・システム監視までを包括的に支援する『アグリゲーション支援サービス』を本格的に提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260421-3/",
+      "text": "2026.04.22 サービス パーソルビジネスプロセスデザイン、横須賀市会計課において、「通話録音データを活用し職員の暗黙知可視化に向けた実証実験」を実施",
+      "url": "https://www.persol-bd.co.jp/news/20260422/",
       "is_new": false,
-      "id": "fc07045b44e3"
+      "id": "a4e0cee39c8e"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.21 サービス AIを活用したBPOで請求書の入力作業を効率化「記帳代行サービス by StepBase」を提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260421/",
+      "text": "2026.04.21 サービス パーソルビジネスプロセスデザイン、需給調整市場・容量市場・システム監視までを包括的に支援する『アグリゲーション支援サービス』を本格的に提供開始",
+      "url": "https://www.persol-bd.co.jp/news/20260421-3/",
       "is_new": false,
-      "id": "f1ec5934540f"
+      "id": "fc07045b44e3"
     }
   ]
 }
