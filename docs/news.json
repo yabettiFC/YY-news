@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T09:08:37.759854+09:00",
+  "updated_at": "2026-06-01T17:39:49.379228+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,22 @@
       "url": "https://www.zeroboard.jp/news/20260317",
       "is_new": false,
       "id": "f033251b9c9a"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "女子中高生向けキャリア交流イベント「夏のリコチャレ2026」を開催",
+      "url": "\n/news/2026/1455541_42699.html",
+      "is_new": true,
+      "id": "5e16e5bdd2c0"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "介護施設における入浴品質の向上と入浴介助の負担を軽減する 「wellsマイクロバブル浴槽」新発売",
+      "url": "\n/news/2026/1455572_42699.html",
+      "is_new": true,
+      "id": "c92421a6fed7"
     },
     {
       "company": "積水化学工業株式会社",
@@ -320,22 +336,6 @@
       "url": "\n/news/2026/1447953_42699.html",
       "is_new": false,
       "id": "2d7d32bfa0e3"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "金属部材製品（塩化ビニル管継手・建築設備配管製品）の価格改定について",
-      "url": "\n/news/2026/1447952_42699.html",
-      "is_new": false,
-      "id": "ee3a12668733"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "積水化学グループにおける「環境配慮設計指針の策定」について",
-      "url": "\n/news/2026/1447718_42699.html",
-      "is_new": false,
-      "id": "a69fbb709c0e"
     },
     {
       "company": "工藤建設株式会社",
@@ -572,6 +572,22 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.30 NEW イベント・キャンペーン 6月のイベント・セミナー情報",
+      "url": "https://www.persol-bd.co.jp/news/20260601-2/",
+      "is_new": true,
+      "id": "3cd17a51b446"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.01 NEW サービス パーソルビジネスプロセスデザイン、東邦ITヒューマンソリューションズと福島県内の中小企業に対する持続可能な成長支援を目的とした業務提携を開始",
+      "url": "https://www.persol-bd.co.jp/news/20260601/",
+      "is_new": true,
+      "id": "ccb53e0e58a2"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.29 NEW サービス パーソルビジネスプロセスデザイン、コンテンツ制作から掲載までの工数を削減する『コンテンツ制作のゼロ化』とHubSpotの『Content Hub』が連携",
       "url": "https://www.persol-bd.co.jp/news/20260529/",
       "is_new": false,
@@ -712,22 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260422-2/",
       "is_new": false,
       "id": "8ed672920bda"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.22 サービス パーソルビジネスプロセスデザイン、横須賀市会計課において、「通話録音データを活用し職員の暗黙知可視化に向けた実証実験」を実施",
-      "url": "https://www.persol-bd.co.jp/news/20260422/",
-      "is_new": false,
-      "id": "a4e0cee39c8e"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.21 サービス パーソルビジネスプロセスデザイン、需給調整市場・容量市場・システム監視までを包括的に支援する『アグリゲーション支援サービス』を本格的に提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260421-3/",
-      "is_new": false,
-      "id": "fc07045b44e3"
     }
   ]
 }
