@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T17:39:49.379228+09:00",
+  "updated_at": "2026-06-02T00:21:24.651352+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "女子中高生向けキャリア交流イベント「夏のリコチャレ2026」を開催",
       "url": "\n/news/2026/1455541_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "5e16e5bdd2c0"
     },
     {
@@ -126,7 +126,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "介護施設における入浴品質の向上と入浴介助の負担を軽減する 「wellsマイクロバブル浴槽」新発売",
       "url": "\n/news/2026/1455572_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "c92421a6fed7"
     },
     {
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.30 NEW イベント・キャンペーン 6月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260601-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "3cd17a51b446"
     },
     {
@@ -582,7 +582,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.01 NEW サービス パーソルビジネスプロセスデザイン、東邦ITヒューマンソリューションズと福島県内の中小企業に対する持続可能な成長支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260601/",
-      "is_new": true,
+      "is_new": false,
       "id": "ccb53e0e58a2"
     },
     {
