@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T17:00:24.451625+09:00",
+  "updated_at": "2026-06-02T21:42:28.134858+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -454,7 +454,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.06.02 お知らせ 国立新美術館にて開催される「ピカソmeetsポール・スミス 遊び心の冒険へ」に協賛",
       "url": "https://www.abeam.com/jp/ja/news/2026/0602/",
-      "is_new": true,
+      "is_new": false,
       "id": "e76e9079ef18"
     },
     {
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.02 NEW サービス 三重県「観光事業者のバックオフィス業務代行促進支援業務」を受託",
       "url": "https://www.persol-bd.co.jp/news/20260602/",
-      "is_new": true,
+      "is_new": false,
       "id": "c55db5fb99cf"
     },
     {
@@ -590,7 +590,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.01 NEW イベント・キャンペーン 6月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260601-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "829cff80dc70"
     },
     {
