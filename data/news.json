@@ -291,6 +291,11 @@
       "url": "https://www.abeam.com/jp/en/news/"
     },
     {
+      "id": "e76e9079ef18",
+      "text": "2026.06.02 お知らせ 国立新美術館にて開催される「ピカソmeetsポール・スミス 遊び心の冒険へ」に協賛",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0602/"
+    },
+    {
       "id": "bbb4d71977cf",
       "text": "2026.05.29 お知らせ さいたま市におけるEBPM定着に向けた、データ利活用のユースケース設計およびデータマネジメントの体系整備を支援",
       "url": "https://www.abeam.com/jp/ja/news/2026/0529/"
@@ -359,23 +364,23 @@
       "id": "9a116ecf22a6",
       "text": "2026.03.18 プレスリリース 書籍『AIエージェント 設計＆実装 完全ガイド』発売",
       "url": "https://www.abeam.com/jp/ja/news/2026/0318/"
-    },
-    {
-      "id": "724101a140a2",
-      "text": "2026.03.10 プレスリリース 『SAP Appreciation for Partner Excellence 2026』において2つの部門で選出",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0310/"
     }
   ],
   "パーソルビジネスプロセスデザイン株式会社": [
     {
-      "id": "3cd17a51b446",
-      "text": "2026.06.30 NEW イベント・キャンペーン 6月のイベント・セミナー情報",
-      "url": "https://www.persol-bd.co.jp/news/20260601-2/"
+      "id": "c55db5fb99cf",
+      "text": "2026.06.02 NEW サービス 三重県「観光事業者のバックオフィス業務代行促進支援業務」を受託",
+      "url": "https://www.persol-bd.co.jp/news/20260602/"
     },
     {
       "id": "ccb53e0e58a2",
       "text": "2026.06.01 NEW サービス パーソルビジネスプロセスデザイン、東邦ITヒューマンソリューションズと福島県内の中小企業に対する持続可能な成長支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260601/"
+    },
+    {
+      "id": "829cff80dc70",
+      "text": "2026.06.01 NEW イベント・キャンペーン 6月のイベント・セミナー情報",
+      "url": "https://www.persol-bd.co.jp/news/20260601-2/"
     },
     {
       "id": "82df8d3c1b2e",
@@ -461,11 +466,6 @@
       "id": "0b8554f01eed",
       "text": "2026.04.22 メディア掲載 「AIを活用したBPOで請求書の入力作業を効率化『記帳代行サービス by StepBase』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260422-3/"
-    },
-    {
-      "id": "8ed672920bda",
-      "text": "2026.04.22 メディア掲載 「『AI/AIエージェント実装ソリューション』を提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260422-2/"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T09:16:04.989943+09:00",
+  "updated_at": "2026-06-02T17:00:24.451625+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -452,6 +452,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.06.02 お知らせ 国立新美術館にて開催される「ピカソmeetsポール・スミス 遊び心の冒険へ」に協賛",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0602/",
+      "is_new": true,
+      "id": "e76e9079ef18"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.05.29 お知らせ さいたま市におけるEBPM定着に向けた、データ利活用のユースケース設計およびデータマネジメントの体系整備を支援",
       "url": "https://www.abeam.com/jp/ja/news/2026/0529/",
       "is_new": false,
@@ -562,20 +570,12 @@
       "id": "9a116ecf22a6"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.03.10 プレスリリース 『SAP Appreciation for Partner Excellence 2026』において2つの部門で選出",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0310/",
-      "is_new": false,
-      "id": "724101a140a2"
-    },
-    {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.30 NEW イベント・キャンペーン 6月のイベント・セミナー情報",
-      "url": "https://www.persol-bd.co.jp/news/20260601-2/",
-      "is_new": false,
-      "id": "3cd17a51b446"
+      "text": "2026.06.02 NEW サービス 三重県「観光事業者のバックオフィス業務代行促進支援業務」を受託",
+      "url": "https://www.persol-bd.co.jp/news/20260602/",
+      "is_new": true,
+      "id": "c55db5fb99cf"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -584,6 +584,14 @@
       "url": "https://www.persol-bd.co.jp/news/20260601/",
       "is_new": false,
       "id": "ccb53e0e58a2"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.01 NEW イベント・キャンペーン 6月のイベント・セミナー情報",
+      "url": "https://www.persol-bd.co.jp/news/20260601-2/",
+      "is_new": true,
+      "id": "829cff80dc70"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -720,14 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260422-3/",
       "is_new": false,
       "id": "0b8554f01eed"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.22 メディア掲載 「『AI/AIエージェント実装ソリューション』を提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260422-2/",
-      "is_new": false,
-      "id": "8ed672920bda"
     }
   ]
 }
