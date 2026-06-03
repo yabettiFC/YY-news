@@ -1,118 +1,6 @@
 {
-  "updated_at": "2026-06-03T10:41:35.056380+09:00",
+  "updated_at": "2026-06-03T17:23:19.402425+09:00",
   "news": [
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース",
-      "url": "https://www.zeroboard.jp/news/pressrelease",
-      "is_new": false,
-      "id": "122293aa08e6"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "トピックス",
-      "url": "https://www.zeroboard.jp/news/topics",
-      "is_new": false,
-      "id": "35ac23456628"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "メディア掲載",
-      "url": "https://www.zeroboard.jp/news/media",
-      "is_new": false,
-      "id": "4f87e97a1f41"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "インフォメーション",
-      "url": "https://www.zeroboard.jp/news/information",
-      "is_new": false,
-      "id": "e4e2bc51433f"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.05.07 ゼロボード、KLINOVAとベトナムにおける脱炭素支援のパートナーシップ契約を締結 全ニュース 海外関連ニュース",
-      "url": "https://www.zeroboard.jp/news/20260507",
-      "is_new": false,
-      "id": "b39a163a68c1"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.04.30 ゼロボード総研、自然資本研究会の2026年度参加企業を募集 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260430",
-      "is_new": false,
-      "id": "12f61c298261"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "メディア掲載 2026.04.28 ビジネス誌「財界」に代表インタビューが掲載されました 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260428",
-      "is_new": false,
-      "id": "f39cd7d5d9c1"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.04.21 旭化成株式会社にてアンケート送付・回答効率化プラットフォーム「Dataseed SAQ」が採用 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260421",
-      "is_new": false,
-      "id": "57c428153b55"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.04.15 ゼロボード総研所長の待場智雄、サステナビリティ開示基準 GRIスタンダードの審議機関GSSB副議長にアジア人初の就任 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260415",
-      "is_new": false,
-      "id": "0ac611c0ebd2"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "トピックス 2026.04.03 渡慶次道隆が「第25回 SMART ENERGY WEEK【春】」 サプライチェーンマネジメントワールド特別講演に登壇 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260403",
-      "is_new": false,
-      "id": "eb8ada42cb09"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.03.25 山梨中央銀行が「Zeroboard」のホワイトラベル製品『やまなしGXアシスト“MiRuCO₂”』を提供開始 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260325",
-      "is_new": false,
-      "id": "f706b99fdc55"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "インフォメーション 2026.03.23 タイ子会社移転のお知らせ 全ニュース 海外関連ニュース",
-      "url": "https://www.zeroboard.jp/news/20260323",
-      "is_new": false,
-      "id": "4625e9f2b46a"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.03.18 ゼロボード、アンケート送付・回答 効率化プラットフォーム「Dataseed SAQ」でサイバーセキュリティ調査項目の提供開始 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260318",
-      "is_new": false,
-      "id": "d0435a2a643d"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.03.17 ゼロボード、特許庁主催「第7回 IP BASE AWARD」で奨励賞・オーディエンス賞をダブル受賞 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260317",
-      "is_new": false,
-      "id": "f033251b9c9a"
-    },
     {
       "company": "積水化学工業株式会社",
       "company_url": "https://www.sekisui.co.jp/news/2026/",
@@ -452,6 +340,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.06.03 News Focus タイを戦略的な価値創出拠点へ。アジアを基盤にグローバル成長を支える共創パートナーへと進化する【ABeam Consulting Thailand】",
+      "url": "https://www.abeam.com/jp/ja/news/2026/nf09/",
+      "is_new": true,
+      "id": "c3e346c39bc5"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.06.02 お知らせ 国立新美術館にて開催される「ピカソmeetsポール・スミス 遊び心の冒険へ」に協賛",
       "url": "https://www.abeam.com/jp/ja/news/2026/0602/",
       "is_new": false,
@@ -562,12 +458,36 @@
       "id": "d64839468132"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.03.18 プレスリリース 書籍『AIエージェント 設計＆実装 完全ガイド』発売",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0318/",
-      "is_new": false,
-      "id": "9a116ecf22a6"
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.03 NEW メディア掲載 「東邦ITヒューマンソリューションズと業務提携を開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260603-5/",
+      "is_new": true,
+      "id": "7c1e01f19287"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.03 NEW メディア掲載 「業務設計×バイブコーディングでDXの実装力とスピードを強化」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260603-4/",
+      "is_new": true,
+      "id": "63610e8577de"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.03 NEW メディア掲載 「『コンテンツ制作のゼロ化』とHubSpotの『Content Hub』が連携」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260603-3/",
+      "is_new": true,
+      "id": "7f773492f7e6"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.03 NEW メディア掲載 「freeeと次世代型BPaaSの展開に関する協業を開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260603-2/",
+      "is_new": true,
+      "id": "acea28131cf7"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -612,14 +532,6 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.27 NEW メディア掲載 「東京都より『大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業』を受託」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260527-3/",
-      "is_new": false,
-      "id": "6f2e45c22e1e"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.27 NEW メディア掲載 「企業向けLGBTQ+相談窓口サービス『KATAruruにじいろ相談室』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260527-2/",
       "is_new": false,
@@ -632,6 +544,14 @@
       "url": "https://www.persol-bd.co.jp/news/20260527/",
       "is_new": false,
       "id": "0c121b287c13"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.05.27 NEW メディア掲載 「東京都より『大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業』を受託」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260527-3/",
+      "is_new": false,
+      "id": "6f2e45c22e1e"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -696,38 +616,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260428/",
       "is_new": false,
       "id": "f4101ea98733"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.24 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
-      "url": "https://www.persol-bd.co.jp/news/20260424/",
-      "is_new": false,
-      "id": "1ec1a7f8817d"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.24 コーポレート パーソルビジネスプロセスデザインの派遣元労使協定の締結状況について",
-      "url": "https://www.persol-bd.co.jp/news/20260424-2/",
-      "is_new": false,
-      "id": "6b64775a8827"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.23 サービス パーソルビジネスプロセスデザイン、女性が働きやすい会社（Jo-Works）と宮城県気仙沼市内企業へのBPO活用促進を目的とした業務提携を開始",
-      "url": "https://www.persol-bd.co.jp/news/20260423/",
-      "is_new": false,
-      "id": "63f7a04b0f5f"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.04.22 メディア掲載 「AIを活用したBPOで請求書の入力作業を効率化『記帳代行サービス by StepBase』を提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260422-3/",
-      "is_new": false,
-      "id": "0b8554f01eed"
     }
   ]
 }
