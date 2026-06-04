@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T16:28:14.082090+09:00",
+  "updated_at": "2026-06-04T20:54:10.683972+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -116,9 +116,17 @@
     {
       "company": "積水化学工業株式会社",
       "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "SusHi Tech Tokyo 2026に登壇しました",
+      "url": "\n/news/2026/1455857_42699.html",
+      "is_new": true,
+      "id": "db83acdba764"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "積水化学、NEDO「GENIAC」で生成AIを活用した非構造化データ活用の実証を開始",
       "url": "\n/news/2026/1455780_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "dffc76431a52"
     },
     {
@@ -328,14 +336,6 @@
       "url": "\n/news/2026/1448787_42699.html",
       "is_new": false,
       "id": "d95501681a17"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "ポリビニルアセタール樹脂製品の価格改定について",
-      "url": "\n/news/2026/1448065_42699.html",
-      "is_new": false,
-      "id": "f706c7a3c48c"
     },
     {
       "company": "工藤建設株式会社",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.04 NEW サービス パーソルビジネスプロセスデザイン、AIボイスボットと人のハイブリッド運用で、工数とコストの最適化を実現する新たなコンタクトセンターサービスを提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260604-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "822322a037c2"
     },
     {
@@ -582,7 +582,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.04 NEW サービス 「MITERAS仕事可視化」がラクラスと勤務実態の正確な把握と労務突合作業の自動化を目的とした機能連携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260604/",
-      "is_new": true,
+      "is_new": false,
       "id": "43283ba311fc"
     },
     {
