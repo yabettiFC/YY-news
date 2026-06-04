@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-03T22:18:20.696804+09:00",
+  "updated_at": "2026-06-04T10:44:03.085353+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース",
       "url": "https://www.zeroboard.jp/news/pressrelease",
-      "is_new": true,
+      "is_new": false,
       "id": "122293aa08e6"
     },
     {
@@ -14,7 +14,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "トピックス",
       "url": "https://www.zeroboard.jp/news/topics",
-      "is_new": true,
+      "is_new": false,
       "id": "35ac23456628"
     },
     {
@@ -22,7 +22,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "メディア掲載",
       "url": "https://www.zeroboard.jp/news/media",
-      "is_new": true,
+      "is_new": false,
       "id": "4f87e97a1f41"
     },
     {
@@ -30,7 +30,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "インフォメーション",
       "url": "https://www.zeroboard.jp/news/information",
-      "is_new": true,
+      "is_new": false,
       "id": "e4e2bc51433f"
     },
     {
@@ -38,7 +38,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.05.07 ゼロボード、KLINOVAとベトナムにおける脱炭素支援のパートナーシップ契約を締結 全ニュース 海外関連ニュース",
       "url": "https://www.zeroboard.jp/news/20260507",
-      "is_new": true,
+      "is_new": false,
       "id": "b39a163a68c1"
     },
     {
@@ -46,7 +46,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.04.30 ゼロボード総研、自然資本研究会の2026年度参加企業を募集 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260430",
-      "is_new": true,
+      "is_new": false,
       "id": "12f61c298261"
     },
     {
@@ -54,7 +54,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "メディア掲載 2026.04.28 ビジネス誌「財界」に代表インタビューが掲載されました 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260428",
-      "is_new": true,
+      "is_new": false,
       "id": "f39cd7d5d9c1"
     },
     {
@@ -62,7 +62,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.04.21 旭化成株式会社にてアンケート送付・回答効率化プラットフォーム「Dataseed SAQ」が採用 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260421",
-      "is_new": true,
+      "is_new": false,
       "id": "57c428153b55"
     },
     {
@@ -70,7 +70,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.04.15 ゼロボード総研所長の待場智雄、サステナビリティ開示基準 GRIスタンダードの審議機関GSSB副議長にアジア人初の就任 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260415",
-      "is_new": true,
+      "is_new": false,
       "id": "0ac611c0ebd2"
     },
     {
@@ -78,7 +78,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "トピックス 2026.04.03 渡慶次道隆が「第25回 SMART ENERGY WEEK【春】」 サプライチェーンマネジメントワールド特別講演に登壇 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260403",
-      "is_new": true,
+      "is_new": false,
       "id": "eb8ada42cb09"
     },
     {
@@ -86,7 +86,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.03.25 山梨中央銀行が「Zeroboard」のホワイトラベル製品『やまなしGXアシスト“MiRuCO₂”』を提供開始 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260325",
-      "is_new": true,
+      "is_new": false,
       "id": "f706b99fdc55"
     },
     {
@@ -94,7 +94,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "インフォメーション 2026.03.23 タイ子会社移転のお知らせ 全ニュース 海外関連ニュース",
       "url": "https://www.zeroboard.jp/news/20260323",
-      "is_new": true,
+      "is_new": false,
       "id": "4625e9f2b46a"
     },
     {
@@ -102,7 +102,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.03.18 ゼロボード、アンケート送付・回答 効率化プラットフォーム「Dataseed SAQ」でサイバーセキュリティ調査項目の提供開始 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260318",
-      "is_new": true,
+      "is_new": false,
       "id": "d0435a2a643d"
     },
     {
@@ -110,7 +110,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.03.17 ゼロボード、特許庁主催「第7回 IP BASE AWARD」で奨励賞・オーディエンス賞をダブル受賞 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260317",
-      "is_new": true,
+      "is_new": false,
       "id": "f033251b9c9a"
     },
     {
