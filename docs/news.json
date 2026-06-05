@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T09:12:08.877945+09:00",
+  "updated_at": "2026-06-05T16:13:23.271702+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -144,6 +144,14 @@
       "url": "\n/news/2026/1455572_42699.html",
       "is_new": false,
       "id": "c92421a6fed7"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "積水化学工業、つくばみらい市のまちづくりへ参画 『みらい平東土地区画整理事業』業務代行委託契約締結",
+      "url": "\n/news/2026/1455566_42699.html",
+      "is_new": true,
+      "id": "cde010765371"
     },
     {
       "company": "積水化学工業株式会社",
@@ -328,14 +336,6 @@
       "url": "\n/news/2026/1448836_42699.html",
       "is_new": false,
       "id": "b117d08a9bdd"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "第７回「ESGファイナンス・アワード・ジャパン」資金調達者部門で金賞を受賞",
-      "url": "\n/news/2026/1448787_42699.html",
-      "is_new": false,
-      "id": "d95501681a17"
     },
     {
       "company": "工藤建設株式会社",
