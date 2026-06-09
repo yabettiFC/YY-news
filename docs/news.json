@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T15:54:13.505244+09:00",
+  "updated_at": "2026-06-09T21:05:23.399502+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.09 NEW 受賞 パーソルビジネスプロセスデザイン、サイボウズのパートナー評価制度「CyPN Report 2026」でインテグレーション部門2年連続、新たにセールス部門でも1つ星を獲得",
       "url": "https://www.persol-bd.co.jp/news/20260609/",
-      "is_new": true,
+      "is_new": false,
       "id": "fc315d467ce5"
     },
     {
@@ -702,7 +702,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.26 サービス 東京都より「大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業」を受託",
       "url": "https://www.persol-bd.co.jp/news/20260526/",
-      "is_new": true,
+      "is_new": false,
       "id": "a93b86901e5f"
     },
     {
