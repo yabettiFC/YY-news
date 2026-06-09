@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T09:09:01.123290+09:00",
+  "updated_at": "2026-06-09T15:54:13.505244+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -572,6 +572,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.09 NEW 受賞 パーソルビジネスプロセスデザイン、サイボウズのパートナー評価制度「CyPN Report 2026」でインテグレーション部門2年連続、新たにセールス部門でも1つ星を獲得",
+      "url": "https://www.persol-bd.co.jp/news/20260609/",
+      "is_new": true,
+      "id": "fc315d467ce5"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.08 NEW サービス パーソルビジネスプロセスデザイン、大垣共立銀行と岐阜県内の中小企業支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260608/",
       "is_new": false,
@@ -692,10 +700,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.26 NEW サービス 東京都より「大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業」を受託",
+      "text": "2026.05.26 サービス 東京都より「大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業」を受託",
       "url": "https://www.persol-bd.co.jp/news/20260526/",
-      "is_new": false,
-      "id": "13ee8cdc8a51"
+      "is_new": true,
+      "id": "a93b86901e5f"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -720,14 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260512/",
       "is_new": false,
       "id": "c7097c220cbd"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.11 サービス パーソルビジネスプロセスデザイン、さいしん健康保険組合へ特定保健指導サービスの「血糖値測定プラン」を提供 約4割が体重2kg・腹囲2cm減を達成",
-      "url": "https://www.persol-bd.co.jp/news/20260511/",
-      "is_new": false,
-      "id": "3e61fc204ae0"
     }
   ]
 }
