@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T16:13:17.977267+09:00",
+  "updated_at": "2026-06-10T21:21:24.269777+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.10 NEW イベント・キャンペーン 産学連携学会 第24回大会 （6月19日開催）JST-CRDSオーガナイズドセッションに当社社員が登壇",
       "url": "https://www.persol-bd.co.jp/news/20260610/",
-      "is_new": true,
+      "is_new": false,
       "id": "54f87f3a4783"
     },
     {
@@ -684,25 +684,25 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.27 NEW メディア掲載 「東京都より『大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業』を受託」がメディアに取り上げられました",
+      "text": "2026.05.27 メディア掲載 「東京都より『大企業と連携した中小企業・スタートアップの成長促進に向けた人材交流支援事業』を受託」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260527-3/",
-      "is_new": false,
-      "id": "6f2e45c22e1e"
+      "is_new": true,
+      "id": "3217dd978301"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.27 NEW メディア掲載 「企業向けLGBTQ+相談窓口サービス『KATAruruにじいろ相談室』を提供開始」がメディアに取り上げられました",
+      "text": "2026.05.27 メディア掲載 「企業向けLGBTQ+相談窓口サービス『KATAruruにじいろ相談室』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260527-2/",
-      "is_new": false,
-      "id": "488c7da4f587"
+      "is_new": true,
+      "id": "250179116d14"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.27 サービス パーソルビジネスプロセスデザイン、人事・労務クラウドソフトを提供するfreeeと次世代型BPaaSの展開に関する協業を開始",
       "url": "https://www.persol-bd.co.jp/news/20260527/",
-      "is_new": true,
+      "is_new": false,
       "id": "67063ca91c1b"
     },
     {
