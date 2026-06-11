@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T09:18:33.439515+09:00",
+  "updated_at": "2026-06-11T17:08:43.794314+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -572,6 +572,22 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.10 NEW メディア掲載 「大垣共立銀行と岐阜県内の中小企業支援を目的とした業務提携を開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260610-3/",
+      "is_new": true,
+      "id": "7de95e746f63"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.10 NEW メディア掲載 「AIボイスボットを組み合わせた新たなコンタクトセンターサービスを提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260610-2/",
+      "is_new": true,
+      "id": "4237dddd3118"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.10 NEW イベント・キャンペーン 産学連携学会 第24回大会 （6月19日開催）JST-CRDSオーガナイズドセッションに当社社員が登壇",
       "url": "https://www.persol-bd.co.jp/news/20260610/",
       "is_new": false,
@@ -676,10 +692,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.28 NEW サービス パーソルビジネスプロセスデザイン、業務設計×バイブコーディングでDXの実装力とスピードを強化",
+      "text": "2026.05.28 サービス パーソルビジネスプロセスデザイン、業務設計×バイブコーディングでDXの実装力とスピードを強化",
       "url": "https://www.persol-bd.co.jp/news/20260528/",
-      "is_new": false,
-      "id": "70cc2528160d"
+      "is_new": true,
+      "id": "c6fa6965eed8"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -712,22 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260526/",
       "is_new": false,
       "id": "a93b86901e5f"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.25 サービス 石川県の「被災市町業務改革（BPR）伴走支援事業」産官学連携の事業推進知見を活かし、再現性のある業務改革の基盤を構築",
-      "url": "https://www.persol-bd.co.jp/news/20260525/",
-      "is_new": false,
-      "id": "c40c9b6ed303"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.13 イベント・キャンペーン 5月のイベント・セミナー情報",
-      "url": "https://www.persol-bd.co.jp/news/20260513/",
-      "is_new": false,
-      "id": "dd9b5bb5f71b"
     }
   ]
 }
