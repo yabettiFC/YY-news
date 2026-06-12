@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T16:27:15.197634+09:00",
+  "updated_at": "2026-06-12T21:19:54.509525+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.12 NEW コーポレート テレビ東京「ホンキの架け橋」に当社が出演します（2026年6月18日（木）20:45~20:49放送）",
       "url": "https://www.persol-bd.co.jp/news/20260612/",
-      "is_new": true,
+      "is_new": false,
       "id": "06e2a18da6d6"
     },
     {
@@ -694,7 +694,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.29 サービス パーソルビジネスプロセスデザイン、コンテンツ制作から掲載までの工数を削減する『コンテンツ制作のゼロ化』とHubSpotの『Content Hub』が連携",
       "url": "https://www.persol-bd.co.jp/news/20260529/",
-      "is_new": true,
+      "is_new": false,
       "id": "db1b43e44b3f"
     },
     {
