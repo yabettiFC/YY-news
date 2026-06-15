@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T09:13:59.345299+09:00",
+  "updated_at": "2026-06-15T18:28:24.783462+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -572,6 +572,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.15 NEW コーポレート 採用特化型YouTubeチャンネル「First Jobs TV」出演のお知らせ",
+      "url": "https://www.persol-bd.co.jp/news/20260615/",
+      "is_new": true,
+      "id": "390fc06dbca7"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.12 NEW コーポレート テレビ東京「ホンキの架け橋」に当社が出演します（2026年6月18日（木）20:45~20:49放送）",
       "url": "https://www.persol-bd.co.jp/news/20260612/",
       "is_new": false,
@@ -636,18 +644,18 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.03 NEW メディア掲載 「freeeと次世代型BPaaSの展開に関する協業を開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260603-2/",
-      "is_new": false,
-      "id": "acea28131cf7"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.03 NEW メディア掲載 「『コンテンツ制作のゼロ化』とHubSpotの『Content Hub』が連携」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260603-3/",
       "is_new": false,
       "id": "7f773492f7e6"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.03 NEW メディア掲載 「freeeと次世代型BPaaSの展開に関する協業を開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260603-2/",
+      "is_new": false,
+      "id": "acea28131cf7"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -676,18 +684,18 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.01 NEW サービス パーソルビジネスプロセスデザイン、東邦ITヒューマンソリューションズと福島県内の中小企業に対する持続可能な成長支援を目的とした業務提携を開始",
+      "text": "2026.06.01 サービス パーソルビジネスプロセスデザイン、東邦ITヒューマンソリューションズと福島県内の中小企業に対する持続可能な成長支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260601/",
-      "is_new": false,
-      "id": "ccb53e0e58a2"
+      "is_new": true,
+      "id": "c1753ccaefba"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.01 NEW イベント・キャンペーン 6月のイベント・セミナー情報",
+      "text": "2026.06.01 イベント・キャンペーン 6月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260601-2/",
-      "is_new": false,
-      "id": "829cff80dc70"
+      "is_new": true,
+      "id": "9ec053bf6e23"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -720,14 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260527-2/",
       "is_new": false,
       "id": "250179116d14"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.27 サービス パーソルビジネスプロセスデザイン、人事・労務クラウドソフトを提供するfreeeと次世代型BPaaSの展開に関する協業を開始",
-      "url": "https://www.persol-bd.co.jp/news/20260527/",
-      "is_new": false,
-      "id": "67063ca91c1b"
     }
   ]
 }
