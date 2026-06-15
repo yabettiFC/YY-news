@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T18:28:24.783462+09:00",
+  "updated_at": "2026-06-16T00:15:25.219391+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.15 NEW コーポレート 採用特化型YouTubeチャンネル「First Jobs TV」出演のお知らせ",
       "url": "https://www.persol-bd.co.jp/news/20260615/",
-      "is_new": true,
+      "is_new": false,
       "id": "390fc06dbca7"
     },
     {
@@ -686,7 +686,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.01 サービス パーソルビジネスプロセスデザイン、東邦ITヒューマンソリューションズと福島県内の中小企業に対する持続可能な成長支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260601/",
-      "is_new": true,
+      "is_new": false,
       "id": "c1753ccaefba"
     },
     {
@@ -694,7 +694,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.01 イベント・キャンペーン 6月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260601-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "9ec053bf6e23"
     },
     {
