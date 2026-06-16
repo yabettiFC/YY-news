@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T10:41:50.685256+09:00",
+  "updated_at": "2026-06-16T17:50:18.657671+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260317",
       "is_new": false,
       "id": "f033251b9c9a"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "第110回日本陸上競技選手権大会において 女子800ｍで久保凛選手、女子5000ｍで山本有真選手が優勝",
+      "url": "\n/news/2026/1456421_42699.html",
+      "is_new": true,
+      "id": "7dfc9eb0848f"
     },
     {
       "company": "積水化学工業株式会社",
@@ -328,14 +336,6 @@
       "url": "\n/news/2026/1449439_42699.html",
       "is_new": false,
       "id": "293c81f54f38"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "Ceglu™ cultureware北米地域での販売開始 ～再生医療実用化の加速に向けて～",
-      "url": "\n/news/2026/1449197_42699.html",
-      "is_new": false,
-      "id": "a12c108a963e"
     },
     {
       "company": "工藤建設株式会社",
@@ -676,10 +676,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.02 NEW サービス 三重県「観光事業者のバックオフィス業務代行促進支援業務」を受託",
+      "text": "2026.06.02 サービス 三重県「観光事業者のバックオフィス業務代行促進支援業務」を受託",
       "url": "https://www.persol-bd.co.jp/news/20260602/",
-      "is_new": false,
-      "id": "c55db5fb99cf"
+      "is_new": true,
+      "id": "5071f63f18ae"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
