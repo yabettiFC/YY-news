@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T10:44:34.926737+09:00",
+  "updated_at": "2026-06-19T17:36:07.378586+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.19 NEW コーポレート テレビ東京「ホンキの架け橋」に当社が出演しました",
       "url": "https://www.persol-bd.co.jp/news/20260619/",
-      "is_new": true,
+      "is_new": false,
       "id": "54feb164ab44"
     },
     {
@@ -726,7 +726,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.05.27 サービス パーソルビジネスプロセスデザイン、人事・労務クラウドソフトを提供するfreeeと次世代型BPaaSの展開に関する協業を開始",
       "url": "https://www.persol-bd.co.jp/news/20260527/",
-      "is_new": true,
+      "is_new": false,
       "id": "67063ca91c1b"
     }
   ]
