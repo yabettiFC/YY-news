@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T18:15:28.029350+09:00",
+  "updated_at": "2026-06-22T23:41:08.485423+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.22 NEW サービス 「ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト」を完遂",
       "url": "https://www.persol-bd.co.jp/news/20260622/",
-      "is_new": true,
+      "is_new": false,
       "id": "6bf332836ebb"
     },
     {
@@ -638,7 +638,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.08 サービス パーソルビジネスプロセスデザイン、大垣共立銀行と岐阜県内の中小企業支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260608/",
-      "is_new": true,
+      "is_new": false,
       "id": "2adfdfe0910a"
     },
     {
