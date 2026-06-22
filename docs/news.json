@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T09:14:10.512874+09:00",
+  "updated_at": "2026-06-22T18:15:28.029350+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -572,6 +572,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.22 NEW サービス 「ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト」を完遂",
+      "url": "https://www.persol-bd.co.jp/news/20260622/",
+      "is_new": true,
+      "id": "6bf332836ebb"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.19 NEW コーポレート テレビ東京「ホンキの架け橋」に当社が出演しました",
       "url": "https://www.persol-bd.co.jp/news/20260619/",
       "is_new": false,
@@ -628,10 +636,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.08 NEW サービス パーソルビジネスプロセスデザイン、大垣共立銀行と岐阜県内の中小企業支援を目的とした業務提携を開始",
+      "text": "2026.06.08 サービス パーソルビジネスプロセスデザイン、大垣共立銀行と岐阜県内の中小企業支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260608/",
-      "is_new": false,
-      "id": "9d342800372c"
+      "is_new": true,
+      "id": "2adfdfe0910a"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -660,10 +668,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.03 メディア掲載 「freeeと次世代型BPaaSの展開に関する協業を開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260603-2/",
+      "text": "2026.06.03 メディア掲載 「業務設計×バイブコーディングでDXの実装力とスピードを強化」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260603-4/",
       "is_new": false,
-      "id": "bade312bd93e"
+      "id": "3dddea1d1e91"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -676,10 +684,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.03 メディア掲載 「業務設計×バイブコーディングでDXの実装力とスピードを強化」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260603-4/",
+      "text": "2026.06.03 メディア掲載 「freeeと次世代型BPaaSの展開に関する協業を開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260603-2/",
       "is_new": false,
-      "id": "3dddea1d1e91"
+      "id": "bade312bd93e"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -720,14 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260528/",
       "is_new": false,
       "id": "c6fa6965eed8"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.27 サービス パーソルビジネスプロセスデザイン、人事・労務クラウドソフトを提供するfreeeと次世代型BPaaSの展開に関する協業を開始",
-      "url": "https://www.persol-bd.co.jp/news/20260527/",
-      "is_new": false,
-      "id": "67063ca91c1b"
     }
   ]
 }
