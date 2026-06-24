@@ -22,6 +22,11 @@
       "url": "https://www.zeroboard.jp/news/information"
     },
     {
+      "id": "cafb2a649d54",
+      "text": "プレスリリース 2026.06.24 ゼロボード、令和6年度補正「グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）」に採択 全ニュース 海外関連ニュース",
+      "url": "https://www.zeroboard.jp/news/20260624"
+    },
+    {
       "id": "b39a163a68c1",
       "text": "プレスリリース 2026.05.07 ゼロボード、KLINOVAとベトナムにおける脱炭素支援のパートナーシップ契約を締結 全ニュース 海外関連ニュース",
       "url": "https://www.zeroboard.jp/news/20260507"
@@ -65,11 +70,6 @@
       "id": "d0435a2a643d",
       "text": "プレスリリース 2026.03.18 ゼロボード、アンケート送付・回答 効率化プラットフォーム「Dataseed SAQ」でサイバーセキュリティ調査項目の提供開始 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260318"
-    },
-    {
-      "id": "f033251b9c9a",
-      "text": "プレスリリース 2026.03.17 ゼロボード、特許庁主催「第7回 IP BASE AWARD」で奨励賞・オーディエンス賞をダブル受賞 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260317"
     }
   ],
   "アスエネ株式会社": [],
@@ -291,6 +291,11 @@
       "url": "https://www.abeam.com/jp/en/news/"
     },
     {
+      "id": "695a8115a1df",
+      "text": "2026.06.24 プレスリリース INPEX、グローバルの経営改革を支えるIT基盤としてSAPのCloud ERPを稼働開始",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0624/"
+    },
+    {
       "id": "c3e346c39bc5",
       "text": "2026.06.03 News Focus タイを戦略的な価値創出拠点へ。アジアを基盤にグローバル成長を支える共創パートナーへと進化する【ABeam Consulting Thailand】",
       "url": "https://www.abeam.com/jp/ja/news/2026/nf09/"
@@ -359,11 +364,6 @@
       "id": "96503e5c90ef",
       "text": "2026.04.03 プレスリリース 「トークン化預金の銀行間決済」の取り組みが 金融庁「FinTech実証実験ハブ」の支援案件に採択",
       "url": "https://www.abeam.com/jp/ja/news/2026/0403/"
-    },
-    {
-      "id": "d64839468132",
-      "text": "2026.04.01 お知らせ 新会社「アビームパートナーズ株式会社」を設立",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0401/"
     }
   ],
   "パーソルビジネスプロセスデザイン株式会社": [
@@ -398,8 +398,8 @@
       "url": "https://www.persol-bd.co.jp/news/20260610-2/"
     },
     {
-      "id": "54f87f3a4783",
-      "text": "2026.06.10 NEW イベント・キャンペーン 産学連携学会 第24回大会 （6月19日開催）JST-CRDSオーガナイズドセッションに当社社員が登壇",
+      "id": "db5dd3005667",
+      "text": "2026.06.10 イベント・キャンペーン 産学連携学会 第24回大会 （6月19日開催）JST-CRDSオーガナイズドセッションに当社社員が登壇",
       "url": "https://www.persol-bd.co.jp/news/20260610/"
     },
     {

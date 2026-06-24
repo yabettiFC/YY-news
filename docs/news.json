@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:00:35.361681+09:00",
+  "updated_at": "2026-06-24T15:52:48.485843+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -32,6 +32,14 @@
       "url": "https://www.zeroboard.jp/news/information",
       "is_new": false,
       "id": "e4e2bc51433f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.06.24 ゼロボード、令和6年度補正「グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）」に採択 全ニュース 海外関連ニュース",
+      "url": "https://www.zeroboard.jp/news/20260624",
+      "is_new": true,
+      "id": "cafb2a649d54"
     },
     {
       "company": "株式会社ゼロボード",
@@ -104,14 +112,6 @@
       "url": "https://www.zeroboard.jp/news/20260318",
       "is_new": false,
       "id": "d0435a2a643d"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.03.17 ゼロボード、特許庁主催「第7回 IP BASE AWARD」で奨励賞・オーディエンス賞をダブル受賞 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260317",
-      "is_new": false,
-      "id": "f033251b9c9a"
     },
     {
       "company": "積水化学工業株式会社",
@@ -452,6 +452,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.06.24 プレスリリース INPEX、グローバルの経営改革を支えるIT基盤としてSAPのCloud ERPを稼働開始",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0624/",
+      "is_new": true,
+      "id": "695a8115a1df"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.06.03 News Focus タイを戦略的な価値創出拠点へ。アジアを基盤にグローバル成長を支える共創パートナーへと進化する【ABeam Consulting Thailand】",
       "url": "https://www.abeam.com/jp/ja/news/2026/nf09/",
       "is_new": false,
@@ -562,14 +570,6 @@
       "id": "96503e5c90ef"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.04.01 お知らせ 新会社「アビームパートナーズ株式会社」を設立",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0401/",
-      "is_new": false,
-      "id": "d64839468132"
-    },
-    {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.22 NEW サービス 「ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト」を完遂",
@@ -620,10 +620,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.10 NEW イベント・キャンペーン 産学連携学会 第24回大会 （6月19日開催）JST-CRDSオーガナイズドセッションに当社社員が登壇",
+      "text": "2026.06.10 イベント・キャンペーン 産学連携学会 第24回大会 （6月19日開催）JST-CRDSオーガナイズドセッションに当社社員が登壇",
       "url": "https://www.persol-bd.co.jp/news/20260610/",
-      "is_new": false,
-      "id": "54f87f3a4783"
+      "is_new": true,
+      "id": "db5dd3005667"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
