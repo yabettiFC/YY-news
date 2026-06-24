@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T15:52:48.485843+09:00",
+  "updated_at": "2026-06-24T20:44:17.134363+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -38,7 +38,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.06.24 ゼロボード、令和6年度補正「グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）」に採択 全ニュース 海外関連ニュース",
       "url": "https://www.zeroboard.jp/news/20260624",
-      "is_new": true,
+      "is_new": false,
       "id": "cafb2a649d54"
     },
     {
@@ -454,7 +454,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.06.24 プレスリリース INPEX、グローバルの経営改革を支えるIT基盤としてSAPのCloud ERPを稼働開始",
       "url": "https://www.abeam.com/jp/ja/news/2026/0624/",
-      "is_new": true,
+      "is_new": false,
       "id": "695a8115a1df"
     },
     {
@@ -622,7 +622,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.10 イベント・キャンペーン 産学連携学会 第24回大会 （6月19日開催）JST-CRDSオーガナイズドセッションに当社社員が登壇",
       "url": "https://www.persol-bd.co.jp/news/20260610/",
-      "is_new": true,
+      "is_new": false,
       "id": "db5dd3005667"
     },
     {
