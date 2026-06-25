@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T09:15:52.948812+09:00",
+  "updated_at": "2026-06-25T15:52:09.895707+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -572,6 +572,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.24 NEW メディア掲載 「『ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト』を完遂」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260624/",
+      "is_new": true,
+      "id": "dc30506598ea"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.22 NEW サービス 「ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト」を完遂",
       "url": "https://www.persol-bd.co.jp/news/20260622/",
       "is_new": false,
@@ -720,14 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260529/",
       "is_new": false,
       "id": "db1b43e44b3f"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.28 サービス パーソルビジネスプロセスデザイン、業務設計×バイブコーディングでDXの実装力とスピードを強化",
-      "url": "https://www.persol-bd.co.jp/news/20260528/",
-      "is_new": false,
-      "id": "c6fa6965eed8"
     }
   ]
 }
