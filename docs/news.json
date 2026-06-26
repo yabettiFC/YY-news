@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T09:12:17.864838+09:00",
+  "updated_at": "2026-06-26T15:58:44.382983+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -572,6 +572,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.26 NEW サービス 東京都「企業と働く女性のキャリアパートナーシップ支援事業」を受託",
+      "url": "https://www.persol-bd.co.jp/news/20260626/",
+      "is_new": true,
+      "id": "d176adfc6ed8"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.24 NEW メディア掲載 「『ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト』を完遂」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260624/",
       "is_new": false,
@@ -604,10 +612,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.12 NEW コーポレート テレビ東京「ホンキの架け橋」に当社が出演します（2026年6月18日（木）20:45~20:49放送）",
+      "text": "2026.06.12 コーポレート テレビ東京「ホンキの架け橋」に当社が出演します（2026年6月18日（木）20:45~20:49放送）",
       "url": "https://www.persol-bd.co.jp/news/20260612/",
-      "is_new": false,
-      "id": "06e2a18da6d6"
+      "is_new": true,
+      "id": "c8408d5acd07"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -720,14 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260601-2/",
       "is_new": false,
       "id": "9ec053bf6e23"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.05.29 サービス パーソルビジネスプロセスデザイン、コンテンツ制作から掲載までの工数を削減する『コンテンツ制作のゼロ化』とHubSpotの『Content Hub』が連携",
-      "url": "https://www.persol-bd.co.jp/news/20260529/",
-      "is_new": false,
-      "id": "db1b43e44b3f"
     }
   ]
 }
