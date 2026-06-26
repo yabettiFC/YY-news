@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T15:58:44.382983+09:00",
+  "updated_at": "2026-06-26T20:44:50.474613+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -574,7 +574,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.26 NEW サービス 東京都「企業と働く女性のキャリアパートナーシップ支援事業」を受託",
       "url": "https://www.persol-bd.co.jp/news/20260626/",
-      "is_new": true,
+      "is_new": false,
       "id": "d176adfc6ed8"
     },
     {
@@ -614,7 +614,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.12 コーポレート テレビ東京「ホンキの架け橋」に当社が出演します（2026年6月18日（木）20:45~20:49放送）",
       "url": "https://www.persol-bd.co.jp/news/20260612/",
-      "is_new": true,
+      "is_new": false,
       "id": "c8408d5acd07"
     },
     {
