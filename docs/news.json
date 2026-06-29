@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T09:11:54.163311+09:00",
+  "updated_at": "2026-06-29T17:19:40.288981+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -604,10 +604,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.15 NEW コーポレート 採用特化型YouTubeチャンネル「First Jobs TV」出演のお知らせ",
+      "text": "2026.06.15 コーポレート 採用特化型YouTubeチャンネル「First Jobs TV」出演のお知らせ",
       "url": "https://www.persol-bd.co.jp/news/20260615/",
-      "is_new": false,
-      "id": "390fc06dbca7"
+      "is_new": true,
+      "id": "e3302373f0d8"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
