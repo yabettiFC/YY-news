@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T17:19:40.288981+09:00",
+  "updated_at": "2026-06-29T22:08:08.948557+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -452,6 +452,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.06.29 News Focus 国際金融都市シンガポールは、世界に向けて成長を期するゲートウェイ。データを核としたアジア・グローバル戦略【ABeam Analytics】",
+      "url": "https://www.abeam.com/jp/ja/news/2026/nf10/",
+      "is_new": true,
+      "id": "2c3e1d274bbb"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.06.24 プレスリリース INPEX、グローバルの経営改革を支えるIT基盤としてSAPのCloud ERPを稼働開始",
       "url": "https://www.abeam.com/jp/ja/news/2026/0624/",
       "is_new": false,
@@ -562,14 +570,6 @@
       "id": "c14e24e8ccf9"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.04.03 プレスリリース 「トークン化預金の銀行間決済」の取り組みが 金融庁「FinTech実証実験ハブ」の支援案件に採択",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0403/",
-      "is_new": false,
-      "id": "96503e5c90ef"
-    },
-    {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.26 NEW サービス 東京都「企業と働く女性のキャリアパートナーシップ支援事業」を受託",
@@ -606,7 +606,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.15 コーポレート 採用特化型YouTubeチャンネル「First Jobs TV」出演のお知らせ",
       "url": "https://www.persol-bd.co.jp/news/20260615/",
-      "is_new": true,
+      "is_new": false,
       "id": "e3302373f0d8"
     },
     {
