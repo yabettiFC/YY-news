@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T09:06:46.553096+09:00",
+  "updated_at": "2026-06-30T15:59:39.217765+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -32,6 +32,14 @@
       "url": "https://www.zeroboard.jp/news/information",
       "is_new": false,
       "id": "e4e2bc51433f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.06.30 ゼロボード、導入事例集を業種別2冊にリニューアル 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260630",
+      "is_new": true,
+      "id": "512d1b03800f"
     },
     {
       "company": "株式会社ゼロボード",
@@ -104,14 +112,6 @@
       "url": "https://www.zeroboard.jp/news/20260323",
       "is_new": false,
       "id": "4625e9f2b46a"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.03.18 ゼロボード、アンケート送付・回答 効率化プラットフォーム「Dataseed SAQ」でサイバーセキュリティ調査項目の提供開始 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260318",
-      "is_new": false,
-      "id": "d0435a2a643d"
     },
     {
       "company": "積水化学工業株式会社",
