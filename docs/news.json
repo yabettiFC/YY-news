@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T15:59:39.217765+09:00",
+  "updated_at": "2026-06-30T20:44:59.570733+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -38,7 +38,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.06.30 ゼロボード、導入事例集を業種別2冊にリニューアル 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260630",
-      "is_new": true,
+      "is_new": false,
       "id": "512d1b03800f"
     },
     {
