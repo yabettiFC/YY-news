@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T20:44:59.570733+09:00",
+  "updated_at": "2026-07-01T09:07:24.048180+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -196,10 +196,10 @@
     {
       "company": "積水化学工業株式会社",
       "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "2026年度「自然に学ぶものづくり」研究助成テーマを募集",
+      "text": "2026年度「自然に学ぶものづくり」研究助成テーマを募集＜募集は終了しました＞",
       "url": "\n/news/2026/1451344_42699.html",
-      "is_new": false,
-      "id": "5f33f5521647"
+      "is_new": true,
+      "id": "40be449746a0"
     },
     {
       "company": "積水化学工業株式会社",
@@ -452,6 +452,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.07.01 お知らせ アビームコンサルティング、AI活用による新たな知財オペレーティングモデルを確立",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0701/",
+      "is_new": true,
+      "id": "722f8043b96f"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.06.29 News Focus 国際金融都市シンガポールは、世界に向けて成長を期するゲートウェイ。データを核としたアジア・グローバル戦略【ABeam Analytics】",
       "url": "https://www.abeam.com/jp/ja/news/2026/nf10/",
       "is_new": false,
@@ -560,14 +568,6 @@
       "url": "https://www.abeam.com/jp/ja/news/2026/0410/",
       "is_new": false,
       "id": "e7331f4cb939"
-    },
-    {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.04.09 プレスリリース アビームコンサルティング、九州の変革を共創する福岡拠点を開設",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0409/",
-      "is_new": false,
-      "id": "c14e24e8ccf9"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
