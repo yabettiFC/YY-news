@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T09:07:24.048180+09:00",
+  "updated_at": "2026-07-01T16:16:14.349149+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -198,7 +198,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "2026年度「自然に学ぶものづくり」研究助成テーマを募集＜募集は終了しました＞",
       "url": "\n/news/2026/1451344_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "40be449746a0"
     },
     {
@@ -454,7 +454,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.07.01 お知らせ アビームコンサルティング、AI活用による新たな知財オペレーティングモデルを確立",
       "url": "https://www.abeam.com/jp/ja/news/2026/0701/",
-      "is_new": true,
+      "is_new": false,
       "id": "722f8043b96f"
     },
     {
