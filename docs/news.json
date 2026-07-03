@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T09:08:11.539152+09:00",
+  "updated_at": "2026-07-03T15:36:34.737490+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -452,6 +452,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.07.03 お知らせ デジタルサイネージを活用したアートプロジェクト「阿佐ヶ谷クエスト」を実施",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0703/",
+      "is_new": true,
+      "id": "4f018727e190"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.07.01 お知らせ アビームコンサルティング、AI活用による新たな知財オペレーティングモデルを確立",
       "url": "https://www.abeam.com/jp/ja/news/2026/0701/",
       "is_new": false,
@@ -562,14 +570,6 @@
       "id": "55d34881451b"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.04.10 プレスリリース アビームコンサルティング、Salesforce Japan Partner Award 2026を受賞",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0410/",
-      "is_new": false,
-      "id": "e7331f4cb939"
-    },
-    {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.26 NEW サービス 東京都「企業と働く女性のキャリアパートナーシップ支援事業」を受託",
@@ -596,10 +596,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.19 NEW コーポレート テレビ東京「ホンキの架け橋」に当社が出演しました",
+      "text": "2026.06.19 コーポレート テレビ東京「ホンキの架け橋」に当社が出演しました",
       "url": "https://www.persol-bd.co.jp/news/20260619/",
-      "is_new": false,
-      "id": "54feb164ab44"
+      "is_new": true,
+      "id": "293cd713d794"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
