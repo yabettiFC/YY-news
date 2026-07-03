@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T15:36:34.737490+09:00",
+  "updated_at": "2026-07-03T20:32:23.208398+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -454,7 +454,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.07.03 お知らせ デジタルサイネージを活用したアートプロジェクト「阿佐ヶ谷クエスト」を実施",
       "url": "https://www.abeam.com/jp/ja/news/2026/0703/",
-      "is_new": true,
+      "is_new": false,
       "id": "4f018727e190"
     },
     {
@@ -598,7 +598,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.19 コーポレート テレビ東京「ホンキの架け橋」に当社が出演しました",
       "url": "https://www.persol-bd.co.jp/news/20260619/",
-      "is_new": true,
+      "is_new": false,
       "id": "293cd713d794"
     },
     {
