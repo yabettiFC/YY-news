@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T14:56:34.388262+09:00",
+  "updated_at": "2026-07-08T20:04:15.238075+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -572,9 +572,17 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.07.08 NEW コーポレート 当社社員がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260708-2/",
+      "is_new": true,
+      "id": "ba5bb693ecbe"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.08 NEW サービス パーソルビジネスプロセスデザイン、AI活用により補助金・助成金等の審査業務の工数を削減する「審査業務のゼロ化」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260708/",
-      "is_new": true,
+      "is_new": false,
       "id": "2ac8ab5cc354"
     },
     {
@@ -636,18 +644,18 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.10 メディア掲載 「AIボイスボットを組み合わせた新たなコンタクトセンターサービスを提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260610-2/",
-      "is_new": false,
-      "id": "02fd38b68462"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.10 イベント・キャンペーン 産学連携学会 第24回大会 （6月19日開催）JST-CRDSオーガナイズドセッションに当社社員が登壇",
       "url": "https://www.persol-bd.co.jp/news/20260610/",
       "is_new": false,
       "id": "db5dd3005667"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.06.10 メディア掲載 「AIボイスボットを組み合わせた新たなコンタクトセンターサービスを提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260610-2/",
+      "is_new": false,
+      "id": "02fd38b68462"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -720,14 +728,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260603-2/",
       "is_new": false,
       "id": "bade312bd93e"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.02 サービス 三重県「観光事業者のバックオフィス業務代行促進支援業務」を受託",
-      "url": "https://www.persol-bd.co.jp/news/20260602/",
-      "is_new": false,
-      "id": "5071f63f18ae"
     }
   ]
 }
