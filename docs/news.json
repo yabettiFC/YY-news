@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T15:49:26.927043+09:00",
+  "updated_at": "2026-07-09T20:57:50.143686+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -454,7 +454,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.07.09 プレスリリース 東レ香港のグローバル開発改革を加速―アビームコンサルティングとCentric Software、開発から生産準備をつなぐ統合基盤の構築を支援―",
       "url": "https://www.abeam.com/jp/ja/news/2026/0709/",
-      "is_new": true,
+      "is_new": false,
       "id": "cc28d32af185"
     },
     {
@@ -598,7 +598,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.24 メディア掲載 「『ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト』を完遂」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260624/",
-      "is_new": true,
+      "is_new": false,
       "id": "7b3fd29958d1"
     },
     {
