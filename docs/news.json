@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T09:13:08.975121+09:00",
+  "updated_at": "2026-07-09T15:49:26.927043+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -452,6 +452,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.07.09 プレスリリース 東レ香港のグローバル開発改革を加速―アビームコンサルティングとCentric Software、開発から生産準備をつなぐ統合基盤の構築を支援―",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0709/",
+      "is_new": true,
+      "id": "cc28d32af185"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.07.03 お知らせ デジタルサイネージを活用したアートプロジェクト「阿佐ヶ谷クエスト」を実施",
       "url": "https://www.abeam.com/jp/ja/news/2026/0703/",
       "is_new": false,
@@ -562,22 +570,6 @@
       "id": "4e6098ef4c2c"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.04.13 お知らせ 東京都八丈町の「八丈町災害復興計画」の策定を支援",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0413/",
-      "is_new": false,
-      "id": "55d34881451b"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.07.08 NEW コーポレート 当社社員がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260708-2/",
-      "is_new": false,
-      "id": "ba5bb693ecbe"
-    },
-    {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.08 NEW サービス パーソルビジネスプロセスデザイン、AI活用により補助金・助成金等の審査業務の工数を削減する「審査業務のゼロ化」を提供開始",
@@ -604,10 +596,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.24 NEW メディア掲載 「『ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト』を完遂」がメディアに取り上げられました",
+      "text": "2026.06.24 メディア掲載 「『ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト』を完遂」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260624/",
-      "is_new": false,
-      "id": "dc30506598ea"
+      "is_new": true,
+      "id": "7b3fd29958d1"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
