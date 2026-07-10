@@ -1,6 +1,118 @@
 {
-  "updated_at": "2026-07-10T15:50:18.716693+09:00",
+  "updated_at": "2026-07-10T20:51:58.955812+09:00",
   "news": [
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース",
+      "url": "https://www.zeroboard.jp/news/pressrelease",
+      "is_new": true,
+      "id": "122293aa08e6"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "トピックス",
+      "url": "https://www.zeroboard.jp/news/topics",
+      "is_new": true,
+      "id": "35ac23456628"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "メディア掲載",
+      "url": "https://www.zeroboard.jp/news/media",
+      "is_new": true,
+      "id": "4f87e97a1f41"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "インフォメーション",
+      "url": "https://www.zeroboard.jp/news/information",
+      "is_new": true,
+      "id": "e4e2bc51433f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.06.30 ゼロボード、導入事例集を業種別2冊にリニューアル 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260630",
+      "is_new": true,
+      "id": "512d1b03800f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.06.24 ゼロボード、令和6年度補正「グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）」に採択 全ニュース 海外関連ニュース",
+      "url": "https://www.zeroboard.jp/news/20260624",
+      "is_new": true,
+      "id": "cafb2a649d54"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.05.07 ゼロボード、KLINOVAとベトナムにおける脱炭素支援のパートナーシップ契約を締結 全ニュース 海外関連ニュース",
+      "url": "https://www.zeroboard.jp/news/20260507",
+      "is_new": true,
+      "id": "b39a163a68c1"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.04.30 ゼロボード総研、自然資本研究会の2026年度参加企業を募集 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260430",
+      "is_new": true,
+      "id": "12f61c298261"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "メディア掲載 2026.04.28 ビジネス誌「財界」に代表インタビューが掲載されました 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260428",
+      "is_new": true,
+      "id": "f39cd7d5d9c1"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.04.21 旭化成株式会社にてアンケート送付・回答効率化プラットフォーム「Dataseed SAQ」が採用 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260421",
+      "is_new": true,
+      "id": "57c428153b55"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.04.15 ゼロボード総研所長の待場智雄、サステナビリティ開示基準 GRIスタンダードの審議機関GSSB副議長にアジア人初の就任 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260415",
+      "is_new": true,
+      "id": "0ac611c0ebd2"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "トピックス 2026.04.03 渡慶次道隆が「第25回 SMART ENERGY WEEK【春】」 サプライチェーンマネジメントワールド特別講演に登壇 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260403",
+      "is_new": true,
+      "id": "eb8ada42cb09"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.03.25 山梨中央銀行が「Zeroboard」のホワイトラベル製品『やまなしGXアシスト“MiRuCO₂”』を提供開始 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260325",
+      "is_new": true,
+      "id": "f706b99fdc55"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "インフォメーション 2026.03.23 タイ子会社移転のお知らせ 全ニュース 海外関連ニュース",
+      "url": "https://www.zeroboard.jp/news/20260323",
+      "is_new": true,
+      "id": "4625e9f2b46a"
+    },
     {
       "company": "積水化学工業株式会社",
       "company_url": "https://www.sekisui.co.jp/news/2026/",
@@ -342,7 +454,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.07.10 お知らせ ウォルターズ・クルワーよりCCH® Tagetikの「シルバーパートナー」認定を取得",
       "url": "https://www.abeam.com/jp/ja/news/2026/0710/",
-      "is_new": true,
+      "is_new": false,
       "id": "acff1ff09957"
     },
     {
@@ -460,6 +572,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.07.08 NEW コーポレート 当社社員がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260708-2/",
+      "is_new": true,
+      "id": "ba5bb693ecbe"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.08 NEW サービス パーソルビジネスプロセスデザイン、AI活用により補助金・助成金等の審査業務の工数を削減する「審査業務のゼロ化」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260708/",
       "is_new": false,
@@ -478,7 +598,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.26 サービス 東京都「企業と働く女性のキャリアパートナーシップ支援事業」を受託",
       "url": "https://www.persol-bd.co.jp/news/20260626/",
-      "is_new": true,
+      "is_new": false,
       "id": "152a128ea5d3"
     },
     {
