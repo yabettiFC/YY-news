@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T15:24:18.677974+09:00",
+  "updated_at": "2026-07-13T21:05:44.514289+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -38,7 +38,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.07.13 ゼロボード、VietinBank主催ワークショップ「排出量削減：企業にとっての機会と課題」に登壇 全ニュース 海外関連ニュース",
       "url": "https://www.zeroboard.jp/news/20260713",
-      "is_new": true,
+      "is_new": false,
       "id": "c84bcc930ec7"
     },
     {
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "クラレから提訴を受けたPVB 中間膜に関する特許無効訴訟に対するドイツ・韓国での特許維持決定について",
       "url": "\n/news/2026/1457985_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "b7b4aae86d36"
     },
     {
