@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T08:57:20.782657+09:00",
+  "updated_at": "2026-07-13T15:24:18.677974+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -32,6 +32,14 @@
       "url": "https://www.zeroboard.jp/news/information",
       "is_new": false,
       "id": "e4e2bc51433f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.07.13 ゼロボード、VietinBank主催ワークショップ「排出量削減：企業にとっての機会と課題」に登壇 全ニュース 海外関連ニュース",
+      "url": "https://www.zeroboard.jp/news/20260713",
+      "is_new": true,
+      "id": "c84bcc930ec7"
     },
     {
       "company": "株式会社ゼロボード",
@@ -106,12 +114,12 @@
       "id": "f706b99fdc55"
     },
     {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "インフォメーション 2026.03.23 タイ子会社移転のお知らせ 全ニュース 海外関連ニュース",
-      "url": "https://www.zeroboard.jp/news/20260323",
-      "is_new": false,
-      "id": "4625e9f2b46a"
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "クラレから提訴を受けたPVB 中間膜に関する特許無効訴訟に対するドイツ・韓国での特許維持決定について",
+      "url": "\n/news/2026/1457985_42699.html",
+      "is_new": true,
+      "id": "b7b4aae86d36"
     },
     {
       "company": "積水化学工業株式会社",
@@ -328,14 +336,6 @@
       "url": "\n/news/2026/1449840_42699.html",
       "is_new": false,
       "id": "5a64fe45944e"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "健康経営優良法人2026（大規模法人部門（ホワイト500））に認定されました",
-      "url": "\n/news/2026/1449644_42699.html",
-      "is_new": false,
-      "id": "77a889ff04fb"
     },
     {
       "company": "工藤建設株式会社",
