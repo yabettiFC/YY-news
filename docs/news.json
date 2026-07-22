@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T08:57:03.531262+09:00",
+  "updated_at": "2026-07-22T14:54:31.632289+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260403",
       "is_new": false,
       "id": "eb8ada42cb09"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "エスロンRCP（強化プラスチック複合管）の価格改定について",
+      "url": "\n/news/2026/1458220_42699.html",
+      "is_new": true,
+      "id": "6836f2e9de8b"
     },
     {
       "company": "積水化学工業株式会社",
@@ -330,12 +338,100 @@
       "id": "1eff2759470a"
     },
     {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "積水化学、南カリフォルニア大学およびサイトパスファインダーとの創薬支援分野における遺伝子導入技術の共同実証を開始",
-      "url": "\n/news/2026/1449865_42699.html",
-      "is_new": false,
-      "id": "54f06dde8179"
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2026.01.22 お知らせ 創業60周年のご挨拶とホームページリニューアルのお知らせ",
+      "url": "https://www.kudo.co.jp/news/2307/",
+      "is_new": true,
+      "id": "1a8c72f1ed93"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.11.25 お知らせ 地下室体感ショールーム「はないえ」11月22日(土) リニューアルオープン",
+      "url": "https://www.kudo.co.jp/news/1214/",
+      "is_new": true,
+      "id": "7d924ba35a49"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.10.02 お知らせ フローレンスケア鎌倉 内装リニューアルしました",
+      "url": "https://www.kudo.co.jp/news/1218/",
+      "is_new": true,
+      "id": "4c67cf3d49c0"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.08.05 お知らせ 地下室施工の常識を塗り替える！工藤建設・多摩防水技研の共同特許技術で、より安心・安全な地下空間の提案に向け特許出願中「型枠セパレータおよびそれを用いた地下型枠工法」",
+      "url": "https://www.kudo.co.jp/news/1225/",
+      "is_new": true,
+      "id": "4028b211c295"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.05.02 お知らせ 横浜市が推進する「横浜健康経営認証2025」において、2023年に引き続き今回も最高ランク「クラスAAA」に認証されました。",
+      "url": "https://www.kudo.co.jp/news/1230/",
+      "is_new": true,
+      "id": "a67e22d9a5d8"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.05.02 お知らせ フローレンスケア宮前平の屋上テラスがリニューアルしました",
+      "url": "https://www.kudo.co.jp/news/1229/",
+      "is_new": true,
+      "id": "7578c2986533"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.05.02 お知らせ 当社利用のメールサービスに関する調査結果報告のお知らせ",
+      "url": "https://www.kudo.co.jp/news/1228/",
+      "is_new": true,
+      "id": "919f3ce5b930"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.04.18 お知らせ 【TOPICS】「かながわ県産木材住宅建設工務店」に認証されました",
+      "url": "https://www.kudo.co.jp/news/1232/",
+      "is_new": true,
+      "id": "4d1fb53709ce"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.04.17 お知らせ 当社が利用するメールサービスへの不正アクセスについて",
+      "url": "https://www.kudo.co.jp/news/1233/",
+      "is_new": true,
+      "id": "468ba7deab05"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.03.03 お知らせ デザイン性 × 機能性 × 安全性 新時代の高品質木造3階建アパート「Florence Maison-wood Premium」誕生！",
+      "url": "https://www.kudo.co.jp/news/1236/",
+      "is_new": true,
+      "id": "1a5e0bfd579b"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "arrow_forward",
+      "url": "https://www.kudo.co.jp/news/page/2/",
+      "is_new": true,
+      "id": "d7c26c38f249"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "ニュースリリース",
+      "url": "https://www.kudo.co.jp/news/",
+      "is_new": true,
+      "id": "8825e5e9daec"
     },
     {
       "company": "アビームコンサルティング株式会社",
@@ -348,10 +444,10 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "English",
-      "url": "https://www.abeam.com/jp/en/news/",
-      "is_new": false,
-      "id": "c9eee5bdd20c"
+      "text": "2026.07.22 プレスリリース Booostおよびアビームコンサルティング、SGホールディングスのSSBJ基準対応とサステナビリティ経営基盤の整備を共同支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0722/",
+      "is_new": true,
+      "id": "b83fb7f1f2f6"
     },
     {
       "company": "アビームコンサルティング株式会社",
@@ -474,6 +570,110 @@
       "id": "f97ab21eda2a"
     },
     {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.04.14 お知らせ 京都大学経営管理大学院にて、ソーシャルイノベーションをテーマにしたコンサルティング業務の体験型授業を寄付講義として実施（2026年度）",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0414/",
+      "is_new": true,
+      "id": "4e6098ef4c2c"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.04.13 お知らせ 東京都八丈町の「八丈町災害復興計画」の策定を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0413/",
+      "is_new": true,
+      "id": "55d34881451b"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.04.10 プレスリリース アビームコンサルティング、Salesforce Japan Partner Award 2026を受賞",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0410/",
+      "is_new": true,
+      "id": "e7331f4cb939"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.04.09 プレスリリース アビームコンサルティング、九州の変革を共創する福岡拠点を開設",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0409/",
+      "is_new": true,
+      "id": "c14e24e8ccf9"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.04.03 プレスリリース 「トークン化預金の銀行間決済」の取り組みが 金融庁「FinTech実証実験ハブ」の支援案件に採択",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0403/",
+      "is_new": true,
+      "id": "96503e5c90ef"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.04.01 お知らせ 新会社「アビームパートナーズ株式会社」を設立",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0401/",
+      "is_new": true,
+      "id": "d64839468132"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.03.18 プレスリリース 書籍『AIエージェント 設計＆実装 完全ガイド』発売",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0318/",
+      "is_new": true,
+      "id": "9a116ecf22a6"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.03.10 プレスリリース 『SAP Appreciation for Partner Excellence 2026』において2つの部門で選出",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0310/",
+      "is_new": true,
+      "id": "724101a140a2"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.03.04 プレスリリース アビームコンサルティングとGXコンシェルジュ、SSBJ対応を起点にサステナビリティ経営を実現する包括的支援サービスの第三弾、「サステナビリティ機能高度化サービス」を提供開始",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0304/",
+      "is_new": true,
+      "id": "226fc1011f01"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.02.27 お知らせ 経営戦略・事業戦略の実行力を高めるAIと人事の共創支援 「HRBPエージェント」の開発に着手 ～人的資本に関する分析・示唆を高度化・高速化し、企業の成長を牽引する新たな基盤構築を目指す～",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0227_2/",
+      "is_new": true,
+      "id": "3793da21e64b"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.02.26 プレスリリース アビームコンサルティング、インドにおけるコンサルティングサービスの提供体制を強化 テクノロジーコンサルティングサービスの拡充とGCC設立・運営／高度化支援を提供",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0226/",
+      "is_new": true,
+      "id": "f7a14e13a89d"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.02.18 お知らせ 「Concur® Japan Partner Award 2026」において当社社員が個人賞を受賞",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0218/",
+      "is_new": true,
+      "id": "f2fe243c06df"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.02.13 お知らせ 山梨県が導入する生成AIを活用した新たな職員アシスタント「県政情報ナビシステム」の構築を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0213/",
+      "is_new": true,
+      "id": "5b4512b58243"
+    },
+    {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.16 NEW サービス パーソルビジネスプロセスデザイン、生成AIの“導入止まり”を解消、業務棚卸からAI活用の最適なユースケースを見極める「生成AI業務適用研修プログラム」を提供開始",
@@ -500,10 +700,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.07.08 NEW サービス パーソルビジネスプロセスデザイン、AI活用により補助金・助成金等の審査業務の工数を削減する「審査業務のゼロ化」を提供開始",
+      "text": "2026.07.08 サービス パーソルビジネスプロセスデザイン、AI活用により補助金・助成金等の審査業務の工数を削減する「審査業務のゼロ化」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260708/",
-      "is_new": false,
-      "id": "2ac8ab5cc354"
+      "is_new": true,
+      "id": "159859abd040"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
