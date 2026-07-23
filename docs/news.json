@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T09:01:44.160866+09:00",
+  "updated_at": "2026-07-23T15:05:20.520751+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -676,6 +676,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.07.22 NEW メディア掲載 「『生成AI業務適用研修プログラム』を提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260722/",
+      "is_new": true,
+      "id": "d43fa0683998"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.16 NEW サービス パーソルビジネスプロセスデザイン、生成AIの“導入止まり”を解消、業務棚卸からAI活用の最適なユースケースを見極める「生成AI業務適用研修プログラム」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260716/",
       "is_new": false,
@@ -824,14 +832,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260603-5/",
       "is_new": false,
       "id": "48338627bb22"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.03 メディア掲載 「業務設計×バイブコーディングでDXの実装力とスピードを強化」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260603-4/",
-      "is_new": false,
-      "id": "3dddea1d1e91"
     }
   ]
 }
