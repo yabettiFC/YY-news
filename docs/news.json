@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T09:02:36.553043+09:00",
+  "updated_at": "2026-07-24T14:53:43.858304+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -444,6 +444,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.07.24 お知らせ アビームコンサルティング、Coupaとのパートナーシップを強化し、支出管理を起点とした日本企業の収益基盤変革を加速",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0724/",
+      "is_new": true,
+      "id": "c8a8b459ccf6"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.07.22 プレスリリース Booostおよびアビームコンサルティング、SGホールディングスのSSBJ基準対応とサステナビリティ経営基盤の整備を共同支援",
       "url": "https://www.abeam.com/jp/ja/news/2026/0722/",
       "is_new": false,
@@ -664,14 +672,6 @@
       "url": "https://www.abeam.com/jp/ja/news/2026/0218/",
       "is_new": false,
       "id": "f2fe243c06df"
-    },
-    {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.02.13 お知らせ 山梨県が導入する生成AIを活用した新たな職員アシスタント「県政情報ナビシステム」の構築を支援",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0213/",
-      "is_new": false,
-      "id": "5b4512b58243"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
