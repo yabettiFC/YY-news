@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T20:17:05.545097+09:00",
+  "updated_at": "2026-07-29T09:01:22.657736+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -338,6 +338,102 @@
       "id": "1eff2759470a"
     },
     {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2026.01.22 お知らせ 創業60周年のご挨拶とホームページリニューアルのお知らせ",
+      "url": "https://www.kudo.co.jp/news/2307/",
+      "is_new": true,
+      "id": "1a8c72f1ed93"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.11.25 お知らせ 地下室体感ショールーム「はないえ」11月22日(土) リニューアルオープン",
+      "url": "https://www.kudo.co.jp/news/1214/",
+      "is_new": true,
+      "id": "7d924ba35a49"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.10.02 お知らせ フローレンスケア鎌倉 内装リニューアルしました",
+      "url": "https://www.kudo.co.jp/news/1218/",
+      "is_new": true,
+      "id": "4c67cf3d49c0"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.08.05 お知らせ 地下室施工の常識を塗り替える！工藤建設・多摩防水技研の共同特許技術で、より安心・安全な地下空間の提案に向け特許出願中「型枠セパレータおよびそれを用いた地下型枠工法」",
+      "url": "https://www.kudo.co.jp/news/1225/",
+      "is_new": true,
+      "id": "4028b211c295"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.05.02 お知らせ 横浜市が推進する「横浜健康経営認証2025」において、2023年に引き続き今回も最高ランク「クラスAAA」に認証されました。",
+      "url": "https://www.kudo.co.jp/news/1230/",
+      "is_new": true,
+      "id": "a67e22d9a5d8"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.05.02 お知らせ フローレンスケア宮前平の屋上テラスがリニューアルしました",
+      "url": "https://www.kudo.co.jp/news/1229/",
+      "is_new": true,
+      "id": "7578c2986533"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.05.02 お知らせ 当社利用のメールサービスに関する調査結果報告のお知らせ",
+      "url": "https://www.kudo.co.jp/news/1228/",
+      "is_new": true,
+      "id": "919f3ce5b930"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.04.18 お知らせ 【TOPICS】「かながわ県産木材住宅建設工務店」に認証されました",
+      "url": "https://www.kudo.co.jp/news/1232/",
+      "is_new": true,
+      "id": "4d1fb53709ce"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.04.17 お知らせ 当社が利用するメールサービスへの不正アクセスについて",
+      "url": "https://www.kudo.co.jp/news/1233/",
+      "is_new": true,
+      "id": "468ba7deab05"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.03.03 お知らせ デザイン性 × 機能性 × 安全性 新時代の高品質木造3階建アパート「Florence Maison-wood Premium」誕生！",
+      "url": "https://www.kudo.co.jp/news/1236/",
+      "is_new": true,
+      "id": "1a5e0bfd579b"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "arrow_forward",
+      "url": "https://www.kudo.co.jp/news/page/2/",
+      "is_new": true,
+      "id": "d7c26c38f249"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "ニュースリリース",
+      "url": "https://www.kudo.co.jp/news/",
+      "is_new": true,
+      "id": "8825e5e9daec"
+    },
+    {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "プレスリリース／お知らせ",
@@ -582,7 +678,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.28 NEW サービス パーソルビジネスプロセスデザイン 業務可視化×ノーコード開発でAI活用を内製化する「Microsoft 365 Agent Builder内製化伴走研修サービス」を開始",
       "url": "https://www.persol-bd.co.jp/news/20260728/",
-      "is_new": true,
+      "is_new": false,
       "id": "7ec7b13c4118"
     },
     {
@@ -590,7 +686,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.22 NEW メディア掲載 「『生成AI業務適用研修プログラム』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260722/",
-      "is_new": true,
+      "is_new": false,
       "id": "d43fa0683998"
     },
     {
@@ -598,7 +694,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.16 NEW サービス パーソルビジネスプロセスデザイン、生成AIの“導入止まり”を解消、業務棚卸からAI活用の最適なユースケースを見極める「生成AI業務適用研修プログラム」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260716/",
-      "is_new": true,
+      "is_new": false,
       "id": "2b49c9f3fef5"
     },
     {
@@ -606,7 +702,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.15 NEW サービス 「『審査業務のゼロ化』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260715/",
-      "is_new": true,
+      "is_new": false,
       "id": "301c393db8e5"
     },
     {
@@ -614,7 +710,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.08 コーポレート 当社社員がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260708-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "512d67363d34"
     },
     {
@@ -622,7 +718,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.08 サービス パーソルビジネスプロセスデザイン、AI活用により補助金・助成金等の審査業務の工数を削減する「審査業務のゼロ化」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260708/",
-      "is_new": true,
+      "is_new": false,
       "id": "159859abd040"
     },
     {
@@ -630,7 +726,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.06 イベント・キャンペーン 7月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260706/",
-      "is_new": true,
+      "is_new": false,
       "id": "4f8f117cc198"
     },
     {
@@ -638,7 +734,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.26 サービス 東京都「企業と働く女性のキャリアパートナーシップ支援事業」を受託",
       "url": "https://www.persol-bd.co.jp/news/20260626/",
-      "is_new": true,
+      "is_new": false,
       "id": "152a128ea5d3"
     },
     {
@@ -646,7 +742,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.24 メディア掲載 「『ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト』を完遂」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260624/",
-      "is_new": true,
+      "is_new": false,
       "id": "7b3fd29958d1"
     },
     {
@@ -654,7 +750,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.22 サービス 「ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト」を完遂",
       "url": "https://www.persol-bd.co.jp/news/20260622/",
-      "is_new": true,
+      "is_new": false,
       "id": "e4fe9807e697"
     },
     {
@@ -662,7 +758,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.19 コーポレート テレビ東京「ホンキの架け橋」に当社が出演しました",
       "url": "https://www.persol-bd.co.jp/news/20260619/",
-      "is_new": true,
+      "is_new": false,
       "id": "293cd713d794"
     },
     {
@@ -670,7 +766,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.15 コーポレート 採用特化型YouTubeチャンネル「First Jobs TV」出演のお知らせ",
       "url": "https://www.persol-bd.co.jp/news/20260615/",
-      "is_new": true,
+      "is_new": false,
       "id": "e3302373f0d8"
     },
     {
@@ -678,7 +774,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.12 コーポレート テレビ東京「ホンキの架け橋」に当社が出演します（2026年6月18日（木）20:45~20:49放送）",
       "url": "https://www.persol-bd.co.jp/news/20260612/",
-      "is_new": true,
+      "is_new": false,
       "id": "c8408d5acd07"
     },
     {
@@ -686,7 +782,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.10 メディア掲載 「大垣共立銀行と岐阜県内の中小企業支援を目的とした業務提携を開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260610-3/",
-      "is_new": true,
+      "is_new": false,
       "id": "6270feae1602"
     },
     {
@@ -694,7 +790,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.10 メディア掲載 「AIボイスボットを組み合わせた新たなコンタクトセンターサービスを提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260610-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "02fd38b68462"
     },
     {
@@ -702,7 +798,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.10 イベント・キャンペーン 産学連携学会 第24回大会 （6月19日開催）JST-CRDSオーガナイズドセッションに当社社員が登壇",
       "url": "https://www.persol-bd.co.jp/news/20260610/",
-      "is_new": true,
+      "is_new": false,
       "id": "db5dd3005667"
     },
     {
@@ -710,7 +806,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.09 受賞 パーソルビジネスプロセスデザイン、サイボウズのパートナー評価制度「CyPN Report 2026」でインテグレーション部門2年連続、新たにセールス部門でも1つ星を獲得",
       "url": "https://www.persol-bd.co.jp/news/20260609/",
-      "is_new": true,
+      "is_new": false,
       "id": "6bccbdfe4faa"
     },
     {
@@ -718,7 +814,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.08 サービス パーソルビジネスプロセスデザイン、大垣共立銀行と岐阜県内の中小企業支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260608/",
-      "is_new": true,
+      "is_new": false,
       "id": "2adfdfe0910a"
     },
     {
@@ -726,7 +822,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.04 サービス パーソルビジネスプロセスデザイン、AIボイスボットと人のハイブリッド運用で、工数とコストの最適化を実現する新たなコンタクトセンターサービスを提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260604-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "f6a2cfcf0b29"
     },
     {
@@ -734,7 +830,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.06.04 サービス 「MITERAS仕事可視化」がラクラスと勤務実態の正確な把握と労務突合作業の自動化を目的とした機能連携を開始",
       "url": "https://www.persol-bd.co.jp/news/20260604/",
-      "is_new": true,
+      "is_new": false,
       "id": "e5bdd42b692d"
     }
   ]
