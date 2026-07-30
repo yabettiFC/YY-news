@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T14:46:14.222611+09:00",
+  "updated_at": "2026-07-30T20:07:46.177912+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -678,7 +678,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.30 NEW コーポレート 令和8年熊本地震に関するお見舞い",
       "url": "https://www.persol-group.co.jp/news/20260730_01/",
-      "is_new": true,
+      "is_new": false,
       "id": "44a518af8b6b"
     },
     {
@@ -702,7 +702,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.16 サービス パーソルビジネスプロセスデザイン、生成AIの“導入止まり”を解消、業務棚卸からAI活用の最適なユースケースを見極める「生成AI業務適用研修プログラム」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260716/",
-      "is_new": true,
+      "is_new": false,
       "id": "e546d1b11c52"
     },
     {
