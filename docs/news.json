@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T09:02:05.301800+09:00",
+  "updated_at": "2026-07-30T14:46:14.222611+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -676,6 +676,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.07.30 NEW コーポレート 令和8年熊本地震に関するお見舞い",
+      "url": "https://www.persol-group.co.jp/news/20260730_01/",
+      "is_new": true,
+      "id": "44a518af8b6b"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.28 NEW サービス パーソルビジネスプロセスデザイン 業務可視化×ノーコード開発でAI活用を内製化する「Microsoft 365 Agent Builder内製化伴走研修サービス」を開始",
       "url": "https://www.persol-bd.co.jp/news/20260728/",
       "is_new": false,
@@ -692,10 +700,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.07.16 NEW サービス パーソルビジネスプロセスデザイン、生成AIの“導入止まり”を解消、業務棚卸からAI活用の最適なユースケースを見極める「生成AI業務適用研修プログラム」を提供開始",
+      "text": "2026.07.16 サービス パーソルビジネスプロセスデザイン、生成AIの“導入止まり”を解消、業務棚卸からAI活用の最適なユースケースを見極める「生成AI業務適用研修プログラム」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260716/",
-      "is_new": false,
-      "id": "2b49c9f3fef5"
+      "is_new": true,
+      "id": "e546d1b11c52"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -824,14 +832,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260604-2/",
       "is_new": false,
       "id": "f6a2cfcf0b29"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.04 サービス 「MITERAS仕事可視化」がラクラスと勤務実態の正確な把握と労務突合作業の自動化を目的とした機能連携を開始",
-      "url": "https://www.persol-bd.co.jp/news/20260604/",
-      "is_new": false,
-      "id": "e5bdd42b692d"
     }
   ]
 }
