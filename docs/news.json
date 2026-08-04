@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T09:10:54.213016+09:00",
+  "updated_at": "2026-08-04T14:53:19.205546+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260403",
       "is_new": false,
       "id": "eb8ada42cb09"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "住宅関連業界初、住宅オーナーへ期待を超える体験を届ける サービスエクセレンスに関する研究を東京大学と共同で開始",
+      "url": "\n/news/2026/1459040_42699.html",
+      "is_new": true,
+      "id": "4e8a7c955712"
     },
     {
       "company": "積水化学工業株式会社",
@@ -330,14 +338,6 @@
       "id": "76f7d8756ac4"
     },
     {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "積水化学、「Nextなでしこ 共働き・共育て支援企業」に初選定",
-      "url": "\n/news/2026/1450065_42699.html",
-      "is_new": false,
-      "id": "1eff2759470a"
-    },
-    {
       "company": "工藤建設株式会社",
       "company_url": "https://www.kudo.co.jp/news/",
       "text": "2026.01.22 お知らせ 創業60周年のご挨拶とホームページリニューアルのお知らせ",
@@ -440,6 +440,14 @@
       "url": "https://www.abeam.com/jp/ja/news/",
       "is_new": false,
       "id": "f76ebc20cc97"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.08.04 プレスリリース アビームコンサルティング、中堅・中小企業（SME）専門の支援組織を新設",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0804/",
+      "is_new": true,
+      "id": "81b3421ecbc8"
     },
     {
       "company": "アビームコンサルティング株式会社",
@@ -666,12 +674,12 @@
       "id": "f7a14e13a89d"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.02.18 お知らせ 「Concur® Japan Partner Award 2026」において当社社員が個人賞を受賞",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0218/",
-      "is_new": false,
-      "id": "f2fe243c06df"
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.08.04 NEW サービス パーソルビジネスプロセスデザイン、採用データを集約・可視化する採用レポート高速化サービス「レポラビ」の本格提供を開始",
+      "url": "https://www.persol-bd.co.jp/news/20260804/",
+      "is_new": true,
+      "id": "bb22146655ab"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -824,14 +832,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260610-3/",
       "is_new": false,
       "id": "6270feae1602"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.09 受賞 パーソルビジネスプロセスデザイン、サイボウズのパートナー評価制度「CyPN Report 2026」でインテグレーション部門2年連続、新たにセールス部門でも1つ星を獲得",
-      "url": "https://www.persol-bd.co.jp/news/20260609/",
-      "is_new": false,
-      "id": "6bccbdfe4faa"
     }
   ]
 }
