@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T14:53:19.205546+09:00",
+  "updated_at": "2026-08-04T20:22:50.897000+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "住宅関連業界初、住宅オーナーへ期待を超える体験を届ける サービスエクセレンスに関する研究を東京大学と共同で開始",
       "url": "\n/news/2026/1459040_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "4e8a7c955712"
     },
     {
@@ -446,7 +446,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.08.04 プレスリリース アビームコンサルティング、中堅・中小企業（SME）専門の支援組織を新設",
       "url": "https://www.abeam.com/jp/ja/news/2026/0804/",
-      "is_new": true,
+      "is_new": false,
       "id": "81b3421ecbc8"
     },
     {
@@ -678,7 +678,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.08.04 NEW サービス パーソルビジネスプロセスデザイン、採用データを集約・可視化する採用レポート高速化サービス「レポラビ」の本格提供を開始",
       "url": "https://www.persol-bd.co.jp/news/20260804/",
-      "is_new": true,
+      "is_new": false,
       "id": "bb22146655ab"
     },
     {
