@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T09:05:26.009021+09:00",
+  "updated_at": "2026-08-05T14:50:02.305506+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -676,6 +676,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.08.05 NEW コーポレート パーソルビジネスプロセスデザイン、みん就「2027年卒 みんなのIT業界新卒就職人気企業 ランキング」で248社中49位にランクイン、カテゴリ別4項目で1位を獲得！",
+      "url": "https://www.persol-bd.co.jp/news/20260805/",
+      "is_new": true,
+      "id": "b7f03a493154"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.08.04 NEW サービス パーソルビジネスプロセスデザイン、採用データを集約・可視化する採用レポート高速化サービス「レポラビ」の本格提供を開始",
       "url": "https://www.persol-bd.co.jp/news/20260804/",
       "is_new": false,
@@ -824,14 +832,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260610-2/",
       "is_new": false,
       "id": "02fd38b68462"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.10 メディア掲載 「大垣共立銀行と岐阜県内の中小企業支援を目的とした業務提携を開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260610-3/",
-      "is_new": false,
-      "id": "6270feae1602"
     }
   ]
 }
