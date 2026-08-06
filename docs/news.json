@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T14:54:02.107828+09:00",
+  "updated_at": "2026-08-06T20:22:31.627174+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -38,7 +38,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.08.06 ゼロボード、“動的”サプライヤー管理を実現する新プロダクト「Dataseed」を発表 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260806",
-      "is_new": true,
+      "is_new": false,
       "id": "220a1b03452e"
     },
     {
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "中国・上海に合わせガラス用中間膜のデザインセンターを開設 ～中間膜技術と中国市場のデザイントレンドを融合したモビリティ分野での新たな価値創造を推進～",
       "url": "\n/news/2026/1459161_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "4a1498419060"
     },
     {
@@ -678,7 +678,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.08.06 NEW 受賞 クラウドサービスのレビュープラットフォーム「ITreview」の「ITreview Grid Award 2026 Summer」にて「MITERAS仕事可視化」が最高位の「Leader」を６期連続受賞",
       "url": "https://www.persol-bd.co.jp/news/20260806/",
-      "is_new": true,
+      "is_new": false,
       "id": "792c0c00e74e"
     },
     {
@@ -694,7 +694,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.08.05 NEW メディア掲載 「採用レポート高速化サービス『レポラビ』の本格提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260805-1/",
-      "is_new": true,
+      "is_new": false,
       "id": "c97b2d3e3158"
     },
     {
@@ -742,7 +742,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.07.22 メディア掲載 「『生成AI業務適用研修プログラム』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260722/",
-      "is_new": true,
+      "is_new": false,
       "id": "323888e765cf"
     },
     {
