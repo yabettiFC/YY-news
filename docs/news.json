@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T20:22:31.627174+09:00",
+  "updated_at": "2026-08-07T10:41:59.098458+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -36,10 +36,34 @@
     {
       "company": "株式会社ゼロボード",
       "company_url": "https://www.zeroboard.jp/news",
+      "text": "メディア掲載 2026.08.06 日刊工業新聞電子版に掲載されました 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260806_3",
+      "is_new": true,
+      "id": "55dc259ac388"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "メディア掲載 2026.08.06 日本経済新聞電子版に掲載されました 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260806_2",
+      "is_new": true,
+      "id": "35477c65e168"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.08.06 ゼロボード、“動的”サプライヤー管理を実現する新プロダクト「Dataseed」を発表 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260806",
       "is_new": false,
       "id": "220a1b03452e"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "メディア掲載 2026.07.23 IP BASEおよびアスキースタートアップに代表インタビューが掲載されました 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260723",
+      "is_new": true,
+      "id": "633fc5071ff5"
     },
     {
       "company": "株式会社ゼロボード",
@@ -88,30 +112,6 @@
       "url": "https://www.zeroboard.jp/news/20260430",
       "is_new": false,
       "id": "12f61c298261"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "メディア掲載 2026.04.28 ビジネス誌「財界」に代表インタビューが掲載されました 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260428",
-      "is_new": false,
-      "id": "f39cd7d5d9c1"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.04.21 旭化成株式会社にてアンケート送付・回答効率化プラットフォーム「Dataseed SAQ」が採用 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260421",
-      "is_new": false,
-      "id": "57c428153b55"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.04.15 ゼロボード総研所長の待場智雄、サステナビリティ開示基準 GRIスタンダードの審議機関GSSB副議長にアジア人初の就任 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260415",
-      "is_new": false,
-      "id": "0ac611c0ebd2"
     },
     {
       "company": "積水化学工業株式会社",
