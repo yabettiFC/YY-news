@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T18:38:25.066939+09:00",
+  "updated_at": "2026-08-10T08:33:28.374003+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -32,6 +32,14 @@
       "url": "https://www.zeroboard.jp/news/information",
       "is_new": false,
       "id": "e4e2bc51433f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "メディア掲載 2026.08.06 朝日新聞SDGsActionにゼロボード総研所長の待場智雄の寄稿が掲載されました 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260806_4",
+      "is_new": true,
+      "id": "4a384262a57c"
     },
     {
       "company": "株式会社ゼロボード",
@@ -104,14 +112,6 @@
       "url": "https://www.zeroboard.jp/news/20260507",
       "is_new": false,
       "id": "b39a163a68c1"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.04.30 ゼロボード総研、自然資本研究会の2026年度参加企業を募集 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260430",
-      "is_new": false,
-      "id": "12f61c298261"
     },
     {
       "company": "積水化学工業株式会社",
