@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T08:21:32.099141+09:00",
+  "updated_at": "2026-08-17T12:53:40.942650+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -708,10 +708,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.08.03 NEW イベント・キャンペーン 8月のイベント・セミナー情報",
+      "text": "2026.08.03 イベント・キャンペーン 8月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260803/",
-      "is_new": false,
-      "id": "d796bf88bdae"
+      "is_new": true,
+      "id": "2b2c86393e85"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
