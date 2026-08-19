@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T18:34:09.347628+09:00",
+  "updated_at": "2026-08-20T08:24:36.977100+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -38,7 +38,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.08.19 【9月8日（火）14:00】ソコテック×ゼロボード、SSBJ対応におけるGHGデータ管理と第三者保証準備をテーマに無料ウェビナーを開催 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260819",
-      "is_new": true,
+      "is_new": false,
       "id": "66fa7be3dbcf"
     },
     {
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "久保凛選手が第21回U20世界陸上競技選手権大会の女子800ｍで5位入賞",
       "url": "\n/news/2026/1459870_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "c57d76842b12"
     },
     {
