@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T08:24:36.977100+09:00",
+  "updated_at": "2026-08-20T12:50:59.746182+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -444,6 +444,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.08.20 お知らせ 政府が推進する「防災デジタルプラットフォーム」構想の具体化を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0820/",
+      "is_new": true,
+      "id": "9d7636be08ab"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.08.04 プレスリリース アビームコンサルティング、中堅・中小企業（SME）専門の支援組織を新設",
       "url": "https://www.abeam.com/jp/ja/news/2026/0804/",
       "is_new": false,
@@ -666,14 +674,6 @@
       "id": "3793da21e64b"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.02.26 プレスリリース アビームコンサルティング、インドにおけるコンサルティングサービスの提供体制を強化 テクノロジーコンサルティングサービスの拡充とGCC設立・運営／高度化支援を提供",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0226/",
-      "is_new": false,
-      "id": "f7a14e13a89d"
-    },
-    {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.08.19 NEW コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
@@ -692,10 +692,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.08.06 NEW 受賞 クラウドサービスのレビュープラットフォーム「ITreview」の「ITreview Grid Award 2026 Summer」にて「MITERAS仕事可視化」が最高位の「Leader」を６期連続受賞",
+      "text": "2026.08.06 受賞 クラウドサービスのレビュープラットフォーム「ITreview」の「ITreview Grid Award 2026 Summer」にて「MITERAS仕事可視化」が最高位の「Leader」を６期連続受賞",
       "url": "https://www.persol-bd.co.jp/news/20260806/",
-      "is_new": false,
-      "id": "792c0c00e74e"
+      "is_new": true,
+      "id": "d4e71f38b577"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
