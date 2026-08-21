@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T08:26:52.564155+09:00",
+  "updated_at": "2026-08-21T12:53:33.155172+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -444,6 +444,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.08.21 お知らせ 米Forbes誌「World’s Best Management Consulting Firms 2026」に選出",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0821/",
+      "is_new": true,
+      "id": "5789574457a5"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.08.20 お知らせ 政府が推進する「防災デジタルプラットフォーム」構想の具体化を支援",
       "url": "https://www.abeam.com/jp/ja/news/2026/0820/",
       "is_new": false,
@@ -664,14 +672,6 @@
       "url": "https://www.abeam.com/jp/ja/news/2026/0304/",
       "is_new": false,
       "id": "226fc1011f01"
-    },
-    {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.02.27 お知らせ 経営戦略・事業戦略の実行力を高めるAIと人事の共創支援 「HRBPエージェント」の開発に着手 ～人的資本に関する分析・示唆を高度化・高速化し、企業の成長を牽引する新たな基盤構築を目指す～",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0227_2/",
-      "is_new": false,
-      "id": "3793da21e64b"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
