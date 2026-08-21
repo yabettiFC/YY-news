@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T12:53:33.155172+09:00",
+  "updated_at": "2026-08-21T18:37:07.660806+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -446,7 +446,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.08.21 お知らせ 米Forbes誌「World’s Best Management Consulting Firms 2026」に選出",
       "url": "https://www.abeam.com/jp/ja/news/2026/0821/",
-      "is_new": true,
+      "is_new": false,
       "id": "5789574457a5"
     },
     {
@@ -556,10 +556,10 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.05.25 お知らせ 愛知県「あいちデジタルヘルスプロジェクト」における新サービス創出事業の実証事業者公募を支援",
+      "text": "2026.05.25 お知らせ 愛知県「あいちデジタルヘルスプロジェクト」における新サービス創出事業の実証を支援",
       "url": "https://www.abeam.com/jp/ja/news/2026/0525/",
-      "is_new": false,
-      "id": "14f362abb9e4"
+      "is_new": true,
+      "id": "6a9bf2d4fe52"
     },
     {
       "company": "アビームコンサルティング株式会社",
