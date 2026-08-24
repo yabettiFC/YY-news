@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T08:22:52.392113+09:00",
+  "updated_at": "2026-08-24T12:58:03.254943+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -32,6 +32,14 @@
       "url": "https://www.zeroboard.jp/news/information",
       "is_new": false,
       "id": "e4e2bc51433f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.08.24 伊藤邦雄氏、安野貴博氏らをゲストに迎える“サステナビリティ×AI”ビジネスカンファレンス「The Zeroboard Day 2026」を10月15日に開催 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260824",
+      "is_new": true,
+      "id": "275f21bda3c6"
     },
     {
       "company": "株式会社ゼロボード",
@@ -104,14 +112,6 @@
       "url": "https://www.zeroboard.jp/news/20260630",
       "is_new": false,
       "id": "512d1b03800f"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.06.24 ゼロボード、令和6年度補正「グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）」に採択 全ニュース 海外関連ニュース",
-      "url": "https://www.zeroboard.jp/news/20260624",
-      "is_new": false,
-      "id": "cafb2a649d54"
     },
     {
       "company": "積水化学工業株式会社",
