@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T12:56:28.081226+09:00",
+  "updated_at": "2026-08-26T18:40:06.237522+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -444,6 +444,14 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.08.26 プレスリリース 金融庁「FinTech実証実験ハブ」支援案件「トークン化預金の銀行間決済」の検証に43社が参加",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0826/",
+      "is_new": true,
+      "id": "c7bceca6fd40"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.08.21 お知らせ 米Forbes誌「World’s Best Management Consulting Firms 2026」に選出",
       "url": "https://www.abeam.com/jp/ja/news/2026/0821/",
       "is_new": false,
@@ -664,14 +672,6 @@
       "url": "https://www.abeam.com/jp/ja/news/2026/0310/",
       "is_new": false,
       "id": "724101a140a2"
-    },
-    {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.03.04 プレスリリース アビームコンサルティングとGXコンシェルジュ、SSBJ対応を起点にサステナビリティ経営を実現する包括的支援サービスの第三弾、「サステナビリティ機能高度化サービス」を提供開始",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0304/",
-      "is_new": false,
-      "id": "226fc1011f01"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
