@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T10:10:17.626293+09:00",
+  "updated_at": "2026-08-31T18:31:33.996361+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -444,6 +444,22 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.08.31 プレスリリース 「保険と衛星ソリューションの一体提供モデル構築による防災基盤強化」事業がJAXA宇宙戦略基金に採択",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0831/",
+      "is_new": true,
+      "id": "d71bbe9bbcc2"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.08.31 お知らせ 書籍『実践的MES導入ガイド ～製造実行システムが工場全体を強くする～』発売",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0831_2/",
+      "is_new": true,
+      "id": "ef3d8753c809"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.08.27 お知らせ 北海道滝川市における「DX推進計画」の策定を支援",
       "url": "https://www.abeam.com/jp/ja/news/2026/0827/",
       "is_new": false,
@@ -658,27 +674,11 @@
       "id": "96503e5c90ef"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.04.01 お知らせ 新会社「アビームパートナーズ株式会社」を設立",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0401/",
-      "is_new": false,
-      "id": "d64839468132"
-    },
-    {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.03.18 プレスリリース 書籍『AIエージェント 設計＆実装 完全ガイド』発売",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0318/",
-      "is_new": false,
-      "id": "9a116ecf22a6"
-    },
-    {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.08.19 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
       "url": "https://www.persol-bd.co.jp/news/20260819/",
-      "is_new": true,
+      "is_new": false,
       "id": "be5e7a30176b"
     },
     {
