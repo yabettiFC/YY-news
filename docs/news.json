@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T18:31:33.996361+09:00",
+  "updated_at": "2026-09-01T01:44:38.558872+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -446,7 +446,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.08.31 プレスリリース 「保険と衛星ソリューションの一体提供モデル構築による防災基盤強化」事業がJAXA宇宙戦略基金に採択",
       "url": "https://www.abeam.com/jp/ja/news/2026/0831/",
-      "is_new": true,
+      "is_new": false,
       "id": "d71bbe9bbcc2"
     },
     {
@@ -454,7 +454,7 @@
       "company_url": "https://www.abeam.com/jp/ja/news/",
       "text": "2026.08.31 お知らせ 書籍『実践的MES導入ガイド ～製造実行システムが工場全体を強くする～』発売",
       "url": "https://www.abeam.com/jp/ja/news/2026/0831_2/",
-      "is_new": true,
+      "is_new": false,
       "id": "ef3d8753c809"
     },
     {
