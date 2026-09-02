@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T09:53:05.917990+09:00",
+  "updated_at": "2026-09-02T16:46:18.911674+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -676,6 +676,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.09.02 NEW サービス パーソルビジネスプロセスデザイン、車両管理業務の負担をDXで軽減する「Fleet Concierge」サービスを提供開始",
+      "url": "https://www.persol-bd.co.jp/news/20260902/",
+      "is_new": true,
+      "id": "235f67ded3c3"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.08.19 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
       "url": "https://www.persol-bd.co.jp/news/20260819/",
       "is_new": false,
@@ -824,14 +832,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260622/",
       "is_new": false,
       "id": "e4fe9807e697"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.19 コーポレート テレビ東京「ホンキの架け橋」に当社が出演しました",
-      "url": "https://www.persol-bd.co.jp/news/20260619/",
-      "is_new": false,
-      "id": "293cd713d794"
     }
   ]
 }
