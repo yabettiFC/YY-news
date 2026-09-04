@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:50:45.747046+09:00",
+  "updated_at": "2026-09-04T16:51:01.735544+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,22 @@
       "url": "https://www.zeroboard.jp/news/20260713",
       "is_new": false,
       "id": "c84bcc930ec7"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "「JPX日経インデックス人的資本100」構成銘柄に選定されました",
+      "url": "\n/news/2026/1460646_42699.html",
+      "is_new": true,
+      "id": "47c4fc95a89c"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "新谷仁美選手、北海道マラソン2026で大会新記録を樹立し優勝",
+      "url": "\n/news/2026/1460617_42699.html",
+      "is_new": true,
+      "id": "24aa5a44cda2"
     },
     {
       "company": "積水化学工業株式会社",
@@ -320,22 +336,6 @@
       "url": "\n/news/2026/1450725_42699.html",
       "is_new": false,
       "id": "1ab49a0b6b07"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "太陽ホールディングス株式会社の株式取得を目的とする特別目的会社への出資に関するお知らせ",
-      "url": "\n/news/2026/1450716_42699.html",
-      "is_new": false,
-      "id": "4ca6841d6055"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "塩素化塩ビ樹脂およびコンパウンド製品の価格改定について",
-      "url": "\n/news/2026/1450590_42699.html",
-      "is_new": false,
-      "id": "316523d2c6bb"
     },
     {
       "company": "工藤建設株式会社",
