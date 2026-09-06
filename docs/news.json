@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T09:41:45.004168+09:00",
+  "updated_at": "2026-09-06T16:45:51.551584+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -36,6 +36,14 @@
     {
       "company": "株式会社ゼロボード",
       "company_url": "https://www.zeroboard.jp/news",
+      "text": "メディア掲載 2026.09.02 ベトナム経済メディア「Info Bank」にベトナムでの事業についてご取材いただきました 全ニュース 海外関連ニュース",
+      "url": "https://www.zeroboard.jp/news/20260902",
+      "is_new": true,
+      "id": "9ce053fc4921"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.09.01 ゼロボード、Kieran BurkeがCTO（最高技術責任者）に就任 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260901",
       "is_new": false,
@@ -52,10 +60,26 @@
     {
       "company": "株式会社ゼロボード",
       "company_url": "https://www.zeroboard.jp/news",
+      "text": "メディア掲載 2026.08.21 日刊工業新聞電子版に掲載されました 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260821",
+      "is_new": true,
+      "id": "a1d6a5fbc6b0"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.08.19 【9月8日（火）14:00】ソコテック×ゼロボード、SSBJ対応におけるGHGデータ管理と第三者保証準備をテーマに無料ウェビナーを開催 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260819",
       "is_new": false,
       "id": "66fa7be3dbcf"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "メディア掲載 2026.08.18 日本経済新聞夕刊に掲載されました 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20260818",
+      "is_new": true,
+      "id": "42839bf5489f"
     },
     {
       "company": "株式会社ゼロボード",
@@ -88,30 +112,6 @@
       "url": "https://www.zeroboard.jp/news/20260806",
       "is_new": false,
       "id": "220a1b03452e"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "メディア掲載 2026.07.23 IP BASEおよびアスキースタートアップに代表インタビューが掲載されました 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260723",
-      "is_new": false,
-      "id": "633fc5071ff5"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.07.21 ゼロボード総研所長 待場智雄が、GSSB副議長としてGlobal Nature Positive Summitの全体会合パネルに登壇 全ニュース 海外関連ニュース",
-      "url": "https://www.zeroboard.jp/news/20260721",
-      "is_new": false,
-      "id": "f0c71752be1f"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.07.13 ゼロボード、VietinBank主催ワークショップ「排出量削減：企業にとっての機会と課題」に登壇 全ニュース 海外関連ニュース",
-      "url": "https://www.zeroboard.jp/news/20260713",
-      "is_new": false,
-      "id": "c84bcc930ec7"
     },
     {
       "company": "積水化学工業株式会社",
@@ -336,102 +336,6 @@
       "url": "\n/news/2026/1450725_42699.html",
       "is_new": false,
       "id": "1ab49a0b6b07"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2026.01.22 お知らせ 創業60周年のご挨拶とホームページリニューアルのお知らせ",
-      "url": "https://www.kudo.co.jp/news/2307/",
-      "is_new": true,
-      "id": "1a8c72f1ed93"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.11.25 お知らせ 地下室体感ショールーム「はないえ」11月22日(土) リニューアルオープン",
-      "url": "https://www.kudo.co.jp/news/1214/",
-      "is_new": true,
-      "id": "7d924ba35a49"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.10.02 お知らせ フローレンスケア鎌倉 内装リニューアルしました",
-      "url": "https://www.kudo.co.jp/news/1218/",
-      "is_new": true,
-      "id": "4c67cf3d49c0"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.08.05 お知らせ 地下室施工の常識を塗り替える！工藤建設・多摩防水技研の共同特許技術で、より安心・安全な地下空間の提案に向け特許出願中「型枠セパレータおよびそれを用いた地下型枠工法」",
-      "url": "https://www.kudo.co.jp/news/1225/",
-      "is_new": true,
-      "id": "4028b211c295"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.05.02 お知らせ 横浜市が推進する「横浜健康経営認証2025」において、2023年に引き続き今回も最高ランク「クラスAAA」に認証されました。",
-      "url": "https://www.kudo.co.jp/news/1230/",
-      "is_new": true,
-      "id": "a67e22d9a5d8"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.05.02 お知らせ フローレンスケア宮前平の屋上テラスがリニューアルしました",
-      "url": "https://www.kudo.co.jp/news/1229/",
-      "is_new": true,
-      "id": "7578c2986533"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.05.02 お知らせ 当社利用のメールサービスに関する調査結果報告のお知らせ",
-      "url": "https://www.kudo.co.jp/news/1228/",
-      "is_new": true,
-      "id": "919f3ce5b930"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.04.18 お知らせ 【TOPICS】「かながわ県産木材住宅建設工務店」に認証されました",
-      "url": "https://www.kudo.co.jp/news/1232/",
-      "is_new": true,
-      "id": "4d1fb53709ce"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.04.17 お知らせ 当社が利用するメールサービスへの不正アクセスについて",
-      "url": "https://www.kudo.co.jp/news/1233/",
-      "is_new": true,
-      "id": "468ba7deab05"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.03.03 お知らせ デザイン性 × 機能性 × 安全性 新時代の高品質木造3階建アパート「Florence Maison-wood Premium」誕生！",
-      "url": "https://www.kudo.co.jp/news/1236/",
-      "is_new": true,
-      "id": "1a5e0bfd579b"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "arrow_forward",
-      "url": "https://www.kudo.co.jp/news/page/2/",
-      "is_new": true,
-      "id": "d7c26c38f249"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
-      "text": "ニュースリリース",
-      "url": "https://www.kudo.co.jp/news/",
-      "is_new": true,
-      "id": "8825e5e9daec"
     },
     {
       "company": "アビームコンサルティング株式会社",
