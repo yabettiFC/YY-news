@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T09:45:01.682945+09:00",
+  "updated_at": "2026-09-07T17:05:48.568299+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260806",
       "is_new": false,
       "id": "220a1b03452e"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "フィルム型ペロブスカイト太陽電池の防衛省施設での実証実験の開始",
+      "url": "\n/news/2026/1460574_42699.html",
+      "is_new": true,
+      "id": "0baa3f71f577"
     },
     {
       "company": "積水化学工業株式会社",
@@ -328,14 +336,6 @@
       "url": "\n/news/2026/1450835_42699.html",
       "is_new": false,
       "id": "48d8434ba0ce"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "2026年度 積水化学グループ入社式 社長挨拶",
-      "url": "\n/news/2026/1450725_42699.html",
-      "is_new": false,
-      "id": "1ab49a0b6b07"
     },
     {
       "company": "工藤建設株式会社",
@@ -676,6 +676,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.09.07 NEW イベント・キャンペーン 9月のイベント・セミナー情報",
+      "url": "https://www.persol-bd.co.jp/news/20260907/",
+      "is_new": true,
+      "id": "03f5129639f3"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.02 NEW サービス パーソルビジネスプロセスデザイン、車両管理業務の負担をDXで軽減する「Fleet Concierge」サービスを提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260902/",
       "is_new": false,
@@ -824,14 +832,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260624/",
       "is_new": false,
       "id": "7b3fd29958d1"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.06.22 サービス 「ドローンが飛び交うまち 官民協働神石高原町活性化プロジェクト」を完遂",
-      "url": "https://www.persol-bd.co.jp/news/20260622/",
-      "is_new": false,
-      "id": "e4fe9807e697"
     }
   ]
 }
