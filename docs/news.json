@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:05:48.568299+09:00",
+  "updated_at": "2026-09-07T23:49:39.485022+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "フィルム型ペロブスカイト太陽電池の防衛省施設での実証実験の開始",
       "url": "\n/news/2026/1460574_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "0baa3f71f577"
     },
     {
@@ -678,7 +678,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.07 NEW イベント・キャンペーン 9月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260907/",
-      "is_new": true,
+      "is_new": false,
       "id": "03f5129639f3"
     },
     {
