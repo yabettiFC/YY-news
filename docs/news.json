@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T16:59:14.778039+09:00",
+  "updated_at": "2026-09-10T22:20:23.697014+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -686,7 +686,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.09 NEW メディア掲載 「『Fleet Concierge』提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260909/",
-      "is_new": true,
+      "is_new": false,
       "id": "7ea230448d3c"
     },
     {
@@ -694,7 +694,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.09 NEW メディア掲載 「AIと専門人材が業務手順書の作成を支援する『StepBase AI手順書作成』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260909-1/",
-      "is_new": true,
+      "is_new": false,
       "id": "e99e823a854f"
     },
     {
