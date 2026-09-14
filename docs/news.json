@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T17:43:29.014343+09:00",
+  "updated_at": "2026-09-15T00:41:43.081347+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "フィルム型ペロブスカイト太陽電池の新仕様実証実験開始について",
       "url": "\n/news/2026/1460941_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "3fa5cde78664"
     },
     {
@@ -452,18 +452,18 @@
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.09.14 お知らせ 栃木県矢板市の「GX戦略地域（データセンター集積型）」指定獲得を支援",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0914_2/",
-      "is_new": true,
-      "id": "63fb9d1fcd62"
+      "text": "2026.09.14 プレスリリース アビームコンサルティング、未来の経営アジェンダを先取りし、 次世代の変革テーマを創出する「Intelligence & Research Institute」を始動",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0914/",
+      "is_new": false,
+      "id": "4772dbdc2956"
     },
     {
       "company": "アビームコンサルティング株式会社",
       "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.09.14 プレスリリース アビームコンサルティング、未来の経営アジェンダを先取りし、 次世代の変革テーマを創出する「Intelligence & Research Institute」を始動",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0914/",
-      "is_new": true,
-      "id": "4772dbdc2956"
+      "text": "2026.09.14 お知らせ 栃木県矢板市の「GX戦略地域（データセンター集積型）」指定獲得を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0914_2/",
+      "is_new": false,
+      "id": "63fb9d1fcd62"
     },
     {
       "company": "アビームコンサルティング株式会社",
