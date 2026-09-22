@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:29:16.265485+09:00",
+  "updated_at": "2026-09-22T17:23:21.216867+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -732,10 +732,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.08 NEW サービス AIと専門人材が業務手順書の作成を支援する「StepBase AI手順書作成」を提供開始",
+      "text": "2026.09.08 サービス AIと専門人材が業務手順書の作成を支援する「StepBase AI手順書作成」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260908/",
-      "is_new": false,
-      "id": "90fa388de21b"
+      "is_new": true,
+      "id": "d86fa1005f76"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
