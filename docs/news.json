@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:17:29.388887+09:00",
+  "updated_at": "2026-09-24T23:02:49.368842+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "積水化学、「ケミカルルーピングCO₂→CO反応装置」を企業向け案件として初受注 ～製造時に排出されるCO₂の有効活用によりカーボンニュートラルを推進～",
       "url": "\n/news/2026/1461252_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "0131638f73e8"
     },
     {
@@ -686,7 +686,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.24 NEW サービス パーソルビジネスプロセスデザイン、 現場の業務課題を解決するアプリを研修内で構築する「Microsoft Power Platform内製化伴走研修サービス」を開始",
       "url": "https://www.persol-bd.co.jp/news/20260924/",
-      "is_new": true,
+      "is_new": false,
       "id": "afb263ad9388"
     },
     {
@@ -694,7 +694,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.24 NEW メディア掲載 「AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260924-1/",
-      "is_new": true,
+      "is_new": false,
       "id": "c94c4c7d0766"
     },
     {
@@ -734,7 +734,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.09 メディア掲載 「『Fleet Concierge』提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260909/",
-      "is_new": true,
+      "is_new": false,
       "id": "5d1c62bebd4d"
     },
     {
@@ -742,7 +742,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.09 メディア掲載 「AIと専門人材が業務手順書の作成を支援する『StepBase AI手順書作成』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260909-1/",
-      "is_new": true,
+      "is_new": false,
       "id": "6d0d1819da98"
     },
     {
