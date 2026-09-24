@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:13:23.272732+09:00",
+  "updated_at": "2026-09-24T17:17:29.388887+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260806_2",
       "is_new": false,
       "id": "35477c65e168"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "積水化学、「ケミカルルーピングCO₂→CO反応装置」を企業向け案件として初受注 ～製造時に排出されるCO₂の有効活用によりカーボンニュートラルを推進～",
+      "url": "\n/news/2026/1461252_42699.html",
+      "is_new": true,
+      "id": "0131638f73e8"
     },
     {
       "company": "積水化学工業株式会社",
@@ -336,14 +344,6 @@
       "url": "\n/news/2026/1452156_42699.html",
       "is_new": false,
       "id": "dee7ddd4518f"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "塩化ビニル管・ポリエチレン管および関連製品の価格改定について",
-      "url": "\n/news/2026/1452150_42699.html",
-      "is_new": false,
-      "id": "33f96b6aa358"
     },
     {
       "company": "工藤建設株式会社",
@@ -684,6 +684,22 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.09.24 NEW サービス パーソルビジネスプロセスデザイン、 現場の業務課題を解決するアプリを研修内で構築する「Microsoft Power Platform内製化伴走研修サービス」を開始",
+      "url": "https://www.persol-bd.co.jp/news/20260924/",
+      "is_new": true,
+      "id": "afb263ad9388"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.09.24 NEW メディア掲載 「AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260924-1/",
+      "is_new": true,
+      "id": "c94c4c7d0766"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.17 NEW サービス パーソルビジネスプロセスデザイン、AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260917/",
       "is_new": false,
@@ -716,18 +732,18 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.09 NEW メディア掲載 「『Fleet Concierge』提供開始」がメディアに取り上げられました",
+      "text": "2026.09.09 メディア掲載 「『Fleet Concierge』提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260909/",
-      "is_new": false,
-      "id": "7ea230448d3c"
+      "is_new": true,
+      "id": "5d1c62bebd4d"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.09 NEW メディア掲載 「AIと専門人材が業務手順書の作成を支援する『StepBase AI手順書作成』を提供開始」がメディアに取り上げられました",
+      "text": "2026.09.09 メディア掲載 「AIと専門人材が業務手順書の作成を支援する『StepBase AI手順書作成』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260909-1/",
-      "is_new": false,
-      "id": "e99e823a854f"
+      "is_new": true,
+      "id": "6d0d1819da98"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -824,22 +840,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260729/",
       "is_new": false,
       "id": "2a8aa7cf2f25"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.07.28 サービス パーソルビジネスプロセスデザイン 業務可視化×ノーコード開発でAI活用を内製化する「Microsoft 365 Agent Builder内製化伴走研修サービス」を開始",
-      "url": "https://www.persol-bd.co.jp/news/20260728/",
-      "is_new": false,
-      "id": "f62ccde8b9bb"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.07.22 メディア掲載 「『生成AI業務適用研修プログラム』を提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260722/",
-      "is_new": false,
-      "id": "323888e765cf"
     }
   ]
 }
