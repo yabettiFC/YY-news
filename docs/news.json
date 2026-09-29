@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:30:34.401668+09:00",
+  "updated_at": "2026-09-29T18:37:41.003501+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260806_2",
       "is_new": false,
       "id": "35477c65e168"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "BioJapan 2026 に出展します",
+      "url": "\n/news/2026/1461490_42699.html",
+      "is_new": true,
+      "id": "bc2bbf796aea"
     },
     {
       "company": "積水化学工業株式会社",
@@ -338,12 +346,100 @@
       "id": "6b738eddcf20"
     },
     {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "2026年度「自然に学ぶものづくり」研究助成テーマを募集＜募集は終了しました＞",
-      "url": "\n/news/2026/1451344_42699.html",
-      "is_new": false,
-      "id": "40be449746a0"
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2026.09.11 お知らせ 地下室の新工法で共同特許取得（特許第7911718号）",
+      "url": "https://www.kudo.co.jp/news/2945/",
+      "is_new": true,
+      "id": "0fa3eec9b9fa"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2026.01.22 お知らせ 創業60周年のご挨拶とホームページリニューアルのお知らせ",
+      "url": "https://www.kudo.co.jp/news/2307/",
+      "is_new": true,
+      "id": "1a8c72f1ed93"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.11.25 お知らせ 地下室体感ショールーム「はないえ」11月22日(土) リニューアルオープン",
+      "url": "https://www.kudo.co.jp/news/1214/",
+      "is_new": true,
+      "id": "7d924ba35a49"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.10.02 お知らせ フローレンスケア鎌倉 内装リニューアルしました",
+      "url": "https://www.kudo.co.jp/news/1218/",
+      "is_new": true,
+      "id": "4c67cf3d49c0"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.08.05 お知らせ 地下室施工の常識を塗り替える！工藤建設・多摩防水技研の共同特許技術で、より安心・安全な地下空間の提案に向け特許出願中「型枠セパレータおよびそれを用いた地下型枠工法」",
+      "url": "https://www.kudo.co.jp/news/1225/",
+      "is_new": true,
+      "id": "4028b211c295"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.05.02 お知らせ 横浜市が推進する「横浜健康経営認証2025」において、2023年に引き続き今回も最高ランク「クラスAAA」に認証されました。",
+      "url": "https://www.kudo.co.jp/news/1230/",
+      "is_new": true,
+      "id": "a67e22d9a5d8"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.05.02 お知らせ フローレンスケア宮前平の屋上テラスがリニューアルしました",
+      "url": "https://www.kudo.co.jp/news/1229/",
+      "is_new": true,
+      "id": "7578c2986533"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.05.02 お知らせ 当社利用のメールサービスに関する調査結果報告のお知らせ",
+      "url": "https://www.kudo.co.jp/news/1228/",
+      "is_new": true,
+      "id": "919f3ce5b930"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.04.18 お知らせ 【TOPICS】「かながわ県産木材住宅建設工務店」に認証されました",
+      "url": "https://www.kudo.co.jp/news/1232/",
+      "is_new": true,
+      "id": "4d1fb53709ce"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2025.04.17 お知らせ 当社が利用するメールサービスへの不正アクセスについて",
+      "url": "https://www.kudo.co.jp/news/1233/",
+      "is_new": true,
+      "id": "468ba7deab05"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "arrow_forward",
+      "url": "https://www.kudo.co.jp/news/page/2/",
+      "is_new": true,
+      "id": "d7c26c38f249"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "ニュースリリース",
+      "url": "https://www.kudo.co.jp/news/",
+      "is_new": true,
+      "id": "8825e5e9daec"
     },
     {
       "company": "アビームコンサルティング株式会社",
@@ -352,6 +448,14 @@
       "url": "https://www.abeam.com/jp/ja/news/",
       "is_new": false,
       "id": "f76ebc20cc97"
+    },
+    {
+      "company": "アビームコンサルティング株式会社",
+      "company_url": "https://www.abeam.com/jp/ja/news/",
+      "text": "2026.09.29 お知らせ 当社を騙る採用活動・不審な連絡にご注意ください",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0929/",
+      "is_new": true,
+      "id": "d922fe7a0266"
     },
     {
       "company": "アビームコンサルティング株式会社",
@@ -578,14 +682,6 @@
       "id": "86e2337565f1"
     },
     {
-      "company": "アビームコンサルティング株式会社",
-      "company_url": "https://www.abeam.com/jp/ja/news/",
-      "text": "2026.04.17 お知らせ 学生からの評価により、ワンキャリア各種就活ランキングに入賞",
-      "url": "https://www.abeam.com/jp/ja/news/2026/0417/",
-      "is_new": false,
-      "id": "84abd055114d"
-    },
-    {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.24 NEW サービス パーソルビジネスプロセスデザイン、 現場の業務課題を解決するアプリを研修内で構築する「Microsoft Power Platform内製化伴走研修サービス」を開始",
@@ -622,7 +718,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.15 サービス パーソルビジネスプロセスデザイン、 東京都の「TOKYO特定技能Jobマッチング支援事業」を受託 特定技能外国人材の就労促進と企業の人材確保を支援",
       "url": "https://www.persol-bd.co.jp/news/20260915/",
-      "is_new": true,
+      "is_new": false,
       "id": "996a7ef7d2b5"
     },
     {
