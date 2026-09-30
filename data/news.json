@@ -438,6 +438,11 @@
   ],
   "パーソルビジネスプロセスデザイン株式会社": [
     {
+      "id": "fcb235af97c4",
+      "text": "2026.09.30 NEW イベント・キャンペーン 10月のイベント・セミナー情報",
+      "url": "https://www.persol-bd.co.jp/news/20260930/"
+    },
+    {
       "id": "afb263ad9388",
       "text": "2026.09.24 NEW サービス パーソルビジネスプロセスデザイン、 現場の業務課題を解決するアプリを研修内で構築する「Microsoft Power Platform内製化伴走研修サービス」を開始",
       "url": "https://www.persol-bd.co.jp/news/20260924/"
@@ -531,11 +536,6 @@
       "id": "8fba35cd41fc",
       "text": "2026.07.30 コーポレート 令和8年熊本地震に関するお見舞い",
       "url": "https://www.persol-group.co.jp/news/20260730_01/"
-    },
-    {
-      "id": "2a8aa7cf2f25",
-      "text": "2026.07.29 メディア掲載 「『Microsoft 365 Agent Builder内製化伴走研修サービス』を開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260729/"
     }
   ]
 }

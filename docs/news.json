@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:53:06.762291+09:00",
+  "updated_at": "2026-09-30T18:29:30.308426+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -684,6 +684,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.09.30 NEW イベント・キャンペーン 10月のイベント・セミナー情報",
+      "url": "https://www.persol-bd.co.jp/news/20260930/",
+      "is_new": true,
+      "id": "fcb235af97c4"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.24 NEW サービス パーソルビジネスプロセスデザイン、 現場の業務課題を解決するアプリを研修内で構築する「Microsoft Power Platform内製化伴走研修サービス」を開始",
       "url": "https://www.persol-bd.co.jp/news/20260924/",
       "is_new": false,
@@ -832,14 +840,6 @@
       "url": "https://www.persol-group.co.jp/news/20260730_01/",
       "is_new": false,
       "id": "8fba35cd41fc"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.07.29 メディア掲載 「『Microsoft 365 Agent Builder内製化伴走研修サービス』を開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260729/",
-      "is_new": false,
-      "id": "2a8aa7cf2f25"
     }
   ]
 }
