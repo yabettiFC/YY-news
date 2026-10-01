@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T10:51:06.475919+09:00",
+  "updated_at": "2026-10-01T18:55:52.057224+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -684,6 +684,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.10.01 NEW サービス パーソルビジネスプロセスデザイン、東京都小平市の市民課における「個人番号カード（マイナンバーカード）交付業務」を支援",
+      "url": "https://www.persol-bd.co.jp/news/20261001/",
+      "is_new": true,
+      "id": "d31ed85c5ba8"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.30 NEW イベント・キャンペーン 10月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260930/",
       "is_new": false,
@@ -708,17 +716,17 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.17 NEW サービス パーソルビジネスプロセスデザイン、AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始",
+      "text": "2026.09.17 サービス パーソルビジネスプロセスデザイン、AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始",
       "url": "https://www.persol-bd.co.jp/news/20260917/",
-      "is_new": false,
-      "id": "8c3340409593"
+      "is_new": true,
+      "id": "cffb2e5f1c81"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.16 メディア掲載 「東京都の『TOKYO特定技能Jobマッチング支援事業』を受託」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260916/",
-      "is_new": true,
+      "is_new": false,
       "id": "1bbcbf4d7cc2"
     },
     {
@@ -832,14 +840,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260803/",
       "is_new": false,
       "id": "2b2c86393e85"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.07.30 コーポレート 令和8年熊本地震に関するお見舞い",
-      "url": "https://www.persol-group.co.jp/news/20260730_01/",
-      "is_new": false,
-      "id": "8fba35cd41fc"
     }
   ]
 }
