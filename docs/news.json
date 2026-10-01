@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T00:40:08.491479+09:00",
+  "updated_at": "2026-10-01T10:51:06.475919+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -716,10 +716,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.16 NEW メディア掲載 「東京都の『TOKYO特定技能Jobマッチング支援事業』を受託」がメディアに取り上げられました",
+      "text": "2026.09.16 メディア掲載 「東京都の『TOKYO特定技能Jobマッチング支援事業』を受託」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260916/",
-      "is_new": false,
-      "id": "944d9e7e24cd"
+      "is_new": true,
+      "id": "1bbcbf4d7cc2"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
