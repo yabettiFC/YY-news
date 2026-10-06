@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T11:44:56.876877+09:00",
+  "updated_at": "2026-10-06T18:56:42.571022+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260806_2",
       "is_new": false,
       "id": "35477c65e168"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "PHCと積水化学、幹細胞の大量培養プロセス構築に向けた共同実証を開始 ～培養性・細胞品質を維持した間葉系間質細胞の培養スケールアップ技術の実証へ～",
+      "url": "\n/news/2026/1461791_42699.html",
+      "is_new": true,
+      "id": "8dd43bcdd28c"
     },
     {
       "company": "積水化学工業株式会社",
@@ -336,14 +344,6 @@
       "url": "\n/news/2026/1455283_42699.html",
       "is_new": false,
       "id": "6990958a498a"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "「人とくるまのテクノロジー展 2026 YOKOHAMA」（5月27日～29日開催）に出展します",
-      "url": "\n/news/2026/1452901_42699.html",
-      "is_new": false,
-      "id": "6b738eddcf20"
     },
     {
       "company": "工藤建設株式会社",
@@ -686,7 +686,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.06 NEW サービス パーソルビジネスプロセスデザイン、三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20261006/",
-      "is_new": true,
+      "is_new": false,
       "id": "7b6c1beac076"
     },
     {
