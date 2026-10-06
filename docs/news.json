@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T02:57:31.404367+09:00",
+  "updated_at": "2026-10-06T11:44:56.876877+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -684,6 +684,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.10.06 NEW サービス パーソルビジネスプロセスデザイン、三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始",
+      "url": "https://www.persol-bd.co.jp/news/20261006/",
+      "is_new": true,
+      "id": "7b6c1beac076"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.01 NEW サービス パーソルビジネスプロセスデザイン、東京都小平市の市民課における「個人番号カード（マイナンバーカード）交付業務」を支援",
       "url": "https://www.persol-bd.co.jp/news/20261001/",
       "is_new": false,
@@ -832,14 +840,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260804/",
       "is_new": false,
       "id": "d163d7d15743"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.08.03 イベント・キャンペーン 8月のイベント・セミナー情報",
-      "url": "https://www.persol-bd.co.jp/news/20260803/",
-      "is_new": false,
-      "id": "2b2c86393e85"
     }
   ]
 }
