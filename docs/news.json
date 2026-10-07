@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T11:09:41.966107+09:00",
+  "updated_at": "2026-10-07T19:02:10.502603+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "愛知県蒲郡市に車輌内外装向け射出成形品の生産工場を新設 ～東海圏で3拠点目となる工場設立により車輌部品事業を拡大～",
       "url": "\n/news/2026/1461489_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "a5800ddd2aff"
     },
     {
@@ -686,7 +686,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.07 NEW サービス パーソルビジネスプロセスデザイン、AIエージェントの活用定着から運用高度化まで支援する「Copilot Studio定着支援伴走ヘルプデスクサービス」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20261007/",
-      "is_new": true,
+      "is_new": false,
       "id": "b50e2255eaeb"
     },
     {
