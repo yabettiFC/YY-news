@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:07:13.398226+09:00",
+  "updated_at": "2026-10-08T11:35:32.996517+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -716,10 +716,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.24 NEW サービス パーソルビジネスプロセスデザイン、 現場の業務課題を解決するアプリを研修内で構築する「Microsoft Power Platform内製化伴走研修サービス」を開始",
+      "text": "2026.09.24 サービス パーソルビジネスプロセスデザイン、 現場の業務課題を解決するアプリを研修内で構築する「Microsoft Power Platform内製化伴走研修サービス」を開始",
       "url": "https://www.persol-bd.co.jp/news/20260924/",
-      "is_new": false,
-      "id": "afb263ad9388"
+      "is_new": true,
+      "id": "9bb62063e769"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
