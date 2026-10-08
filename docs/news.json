@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:35:32.996517+09:00",
+  "updated_at": "2026-10-08T19:15:07.431738+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -692,6 +692,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.10.07 NEW サービス 「三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261007-1/",
+      "is_new": true,
+      "id": "bee360254e86"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.06 NEW サービス パーソルビジネスプロセスデザイン、三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始",
       "url": "https://www.persol-bd.co.jp/news/20261006/",
       "is_new": false,
@@ -718,16 +726,16 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.24 サービス パーソルビジネスプロセスデザイン、 現場の業務課題を解決するアプリを研修内で構築する「Microsoft Power Platform内製化伴走研修サービス」を開始",
       "url": "https://www.persol-bd.co.jp/news/20260924/",
-      "is_new": true,
+      "is_new": false,
       "id": "9bb62063e769"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.24 NEW メディア掲載 「AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始」がメディアに取り上げられました",
+      "text": "2026.09.24 メディア掲載 「AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260924-1/",
-      "is_new": false,
-      "id": "c94c4c7d0766"
+      "is_new": true,
+      "id": "fe745e1ec1fa"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -832,14 +840,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260805/",
       "is_new": false,
       "id": "25e7c905dba9"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.08.05 メディア掲載 「採用レポート高速化サービス『レポラビ』の本格提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260805-1/",
-      "is_new": false,
-      "id": "6b7e87e8c774"
     }
   ]
 }
