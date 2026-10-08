@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T19:15:07.431738+09:00",
+  "updated_at": "2026-10-09T01:09:09.525804+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -694,7 +694,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.07 NEW サービス 「三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20261007-1/",
-      "is_new": true,
+      "is_new": false,
       "id": "bee360254e86"
     },
     {
@@ -734,7 +734,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.09.24 メディア掲載 「AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20260924-1/",
-      "is_new": true,
+      "is_new": false,
       "id": "fe745e1ec1fa"
     },
     {
