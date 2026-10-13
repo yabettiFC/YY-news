@@ -222,7 +222,320 @@
       "url": "\n/news/2026/1455522_42699.html"
     }
   ],
-  "工藤建設株式会社": [],
-  "アビームコンサルティング株式会社": [],
-  "パーソルビジネスプロセスデザイン株式会社": []
+  "工藤建設株式会社": [
+    {
+      "id": "0fa3eec9b9fa",
+      "text": "2026.09.11 お知らせ 地下室の新工法で共同特許取得（特許第7911718号）",
+      "url": "https://www.kudo.co.jp/news/2945/"
+    },
+    {
+      "id": "1a8c72f1ed93",
+      "text": "2026.01.22 お知らせ 創業60周年のご挨拶とホームページリニューアルのお知らせ",
+      "url": "https://www.kudo.co.jp/news/2307/"
+    },
+    {
+      "id": "7d924ba35a49",
+      "text": "2025.11.25 お知らせ 地下室体感ショールーム「はないえ」11月22日(土) リニューアルオープン",
+      "url": "https://www.kudo.co.jp/news/1214/"
+    },
+    {
+      "id": "4c67cf3d49c0",
+      "text": "2025.10.02 お知らせ フローレンスケア鎌倉 内装リニューアルしました",
+      "url": "https://www.kudo.co.jp/news/1218/"
+    },
+    {
+      "id": "4028b211c295",
+      "text": "2025.08.05 お知らせ 地下室施工の常識を塗り替える！工藤建設・多摩防水技研の共同特許技術で、より安心・安全な地下空間の提案に向け特許出願中「型枠セパレータおよびそれを用いた地下型枠工法」",
+      "url": "https://www.kudo.co.jp/news/1225/"
+    },
+    {
+      "id": "a67e22d9a5d8",
+      "text": "2025.05.02 お知らせ 横浜市が推進する「横浜健康経営認証2025」において、2023年に引き続き今回も最高ランク「クラスAAA」に認証されました。",
+      "url": "https://www.kudo.co.jp/news/1230/"
+    },
+    {
+      "id": "7578c2986533",
+      "text": "2025.05.02 お知らせ フローレンスケア宮前平の屋上テラスがリニューアルしました",
+      "url": "https://www.kudo.co.jp/news/1229/"
+    },
+    {
+      "id": "919f3ce5b930",
+      "text": "2025.05.02 お知らせ 当社利用のメールサービスに関する調査結果報告のお知らせ",
+      "url": "https://www.kudo.co.jp/news/1228/"
+    },
+    {
+      "id": "4d1fb53709ce",
+      "text": "2025.04.18 お知らせ 【TOPICS】「かながわ県産木材住宅建設工務店」に認証されました",
+      "url": "https://www.kudo.co.jp/news/1232/"
+    },
+    {
+      "id": "468ba7deab05",
+      "text": "2025.04.17 お知らせ 当社が利用するメールサービスへの不正アクセスについて",
+      "url": "https://www.kudo.co.jp/news/1233/"
+    },
+    {
+      "id": "d7c26c38f249",
+      "text": "arrow_forward",
+      "url": "https://www.kudo.co.jp/news/page/2/"
+    },
+    {
+      "id": "8825e5e9daec",
+      "text": "ニュースリリース",
+      "url": "https://www.kudo.co.jp/news/"
+    }
+  ],
+  "アビームコンサルティング株式会社": [
+    {
+      "id": "f76ebc20cc97",
+      "text": "プレスリリース／お知らせ",
+      "url": "https://www.abeam.com/jp/ja/news/"
+    },
+    {
+      "id": "d922fe7a0266",
+      "text": "2026.09.29 お知らせ 当社を騙る採用活動・不審な連絡にご注意ください",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0929/"
+    },
+    {
+      "id": "e0e2476e0865",
+      "text": "2026.09.17 プレスリリース アビームコンサルティングとNotion、AIを前提とした業務・組織運営への転換を支援する新サービスを提供開始 ～企業ナレッジを起点に、変革構想から実装・定着までを一貫支援～",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0917/"
+    },
+    {
+      "id": "7f9fb68809a4",
+      "text": "2026.09.17 お知らせ 東京都八丈町におけるAIデマンドタクシーの社会実装に向けた事業計画策定および実証運行を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0917_2/"
+    },
+    {
+      "id": "4772dbdc2956",
+      "text": "2026.09.14 プレスリリース アビームコンサルティング、未来の経営アジェンダを先取りし、 次世代の変革テーマを創出する「Intelligence & Research Institute」を始動",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0914/"
+    },
+    {
+      "id": "63fb9d1fcd62",
+      "text": "2026.09.14 お知らせ 栃木県矢板市の「GX戦略地域（データセンター集積型）」指定獲得を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0914_2/"
+    },
+    {
+      "id": "aad46a561fbe",
+      "text": "2026.09.09 お知らせ アビームコンサルティング、トヨタ・モビリティ基金の交通安全教育アプリ「ナナまも 通学路きづきナビ」の企画・開発を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0909/"
+    },
+    {
+      "id": "2d513bfa07e7",
+      "text": "2026.09.08 お知らせ アビームパートナーズが特例子会社に認定",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0908/"
+    },
+    {
+      "id": "d71bbe9bbcc2",
+      "text": "2026.08.31 プレスリリース 「保険と衛星ソリューションの一体提供モデル構築による防災基盤強化」事業がJAXA宇宙戦略基金に採択",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0831/"
+    },
+    {
+      "id": "a3dda78fe071",
+      "text": "2026.08.31 お知らせ 書籍『実践的MES導入ガイド ～製造実行システムが工場を強くする～』発売",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0831_2/"
+    },
+    {
+      "id": "bce6e01192c2",
+      "text": "2026.08.27 お知らせ 北海道滝川市における「DX推進計画」の策定を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0827/"
+    },
+    {
+      "id": "c7bceca6fd40",
+      "text": "2026.08.26 プレスリリース 金融庁「FinTech実証実験ハブ」支援案件「トークン化預金の銀行間決済」の検証に43社が参加",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0826/"
+    },
+    {
+      "id": "5789574457a5",
+      "text": "2026.08.21 お知らせ 米Forbes誌「World’s Best Management Consulting Firms 2026」に選出",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0821/"
+    },
+    {
+      "id": "9d7636be08ab",
+      "text": "2026.08.20 お知らせ 政府が推進する「防災デジタルプラットフォーム」構想の具体化を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0820/"
+    },
+    {
+      "id": "81b3421ecbc8",
+      "text": "2026.08.04 プレスリリース アビームコンサルティング、中堅・中小企業（SME）専門の支援組織を新設",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0804/"
+    },
+    {
+      "id": "c8a8b459ccf6",
+      "text": "2026.07.24 お知らせ アビームコンサルティング、Coupaとのパートナーシップを強化し、支出管理を起点とした日本企業の収益基盤変革を加速",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0724/"
+    },
+    {
+      "id": "b83fb7f1f2f6",
+      "text": "2026.07.22 プレスリリース Booostおよびアビームコンサルティング、SGホールディングスのSSBJ基準対応とサステナビリティ経営基盤の整備を共同支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0722/"
+    },
+    {
+      "id": "acff1ff09957",
+      "text": "2026.07.10 お知らせ ウォルターズ・クルワーよりCCH® Tagetikの「シルバーパートナー」認定を取得",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0710/"
+    },
+    {
+      "id": "cc28d32af185",
+      "text": "2026.07.09 プレスリリース 東レ香港のグローバル開発改革を加速―アビームコンサルティングとCentric Software、開発から生産準備をつなぐ統合基盤の構築を支援―",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0709/"
+    },
+    {
+      "id": "4f018727e190",
+      "text": "2026.07.03 お知らせ デジタルサイネージを活用したアートプロジェクト「阿佐ヶ谷クエスト」を実施",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0703/"
+    },
+    {
+      "id": "722f8043b96f",
+      "text": "2026.07.01 お知らせ アビームコンサルティング、AI活用による新たな知財オペレーティングモデルを確立",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0701/"
+    },
+    {
+      "id": "2c3e1d274bbb",
+      "text": "2026.06.29 News Focus 国際金融都市シンガポールは、世界に向けて成長を期するゲートウェイ。データを核としたアジア・グローバル戦略【ABeam Analytics】",
+      "url": "https://www.abeam.com/jp/ja/news/2026/nf10/"
+    },
+    {
+      "id": "695a8115a1df",
+      "text": "2026.06.24 プレスリリース INPEX、グローバルの経営改革を支えるIT基盤としてSAPのCloud ERPを稼働開始",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0624/"
+    },
+    {
+      "id": "c3e346c39bc5",
+      "text": "2026.06.03 News Focus タイを戦略的な価値創出拠点へ。アジアを基盤にグローバル成長を支える共創パートナーへと進化する【ABeam Consulting Thailand】",
+      "url": "https://www.abeam.com/jp/ja/news/2026/nf09/"
+    },
+    {
+      "id": "e76e9079ef18",
+      "text": "2026.06.02 お知らせ 国立新美術館にて開催される「ピカソmeetsポール・スミス 遊び心の冒険へ」に協賛",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0602/"
+    },
+    {
+      "id": "bbb4d71977cf",
+      "text": "2026.05.29 お知らせ さいたま市におけるEBPM定着に向けた、データ利活用のユースケース設計およびデータマネジメントの体系整備を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0529/"
+    },
+    {
+      "id": "6a9bf2d4fe52",
+      "text": "2026.05.25 お知らせ 愛知県「あいちデジタルヘルスプロジェクト」における新サービス創出事業の実証を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0525/"
+    },
+    {
+      "id": "a8e5cc45bbbc",
+      "text": "2026.05.20 お知らせ ヘラルボニー主催「HERALBONY Art Prize 2026 Presented by 東京建物｜Brillia」に協賛",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0520/"
+    },
+    {
+      "id": "ee6edd8862ee",
+      "text": "2026.05.11 お知らせ 松山圏域６市町による「まつやま圏域未来共創ビジョン」の策定を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0511/"
+    },
+    {
+      "id": "86e2337565f1",
+      "text": "2026.04.30 お知らせ 内閣府の「2025年度 地方創生SDGs事例集」および 「地方創生SDGsのPR動画」の作成を支援",
+      "url": "https://www.abeam.com/jp/ja/news/2026/0430/"
+    }
+  ],
+  "パーソルビジネスプロセスデザイン株式会社": [
+    {
+      "id": "49d3d7ff51a9",
+      "text": "2026.10.13 NEW コーポレート パーソルビジネスプロセスデザイン、「板橋BPOセンター」を開所",
+      "url": "https://www.persol-bd.co.jp/news/20261013/"
+    },
+    {
+      "id": "b50e2255eaeb",
+      "text": "2026.10.07 NEW サービス パーソルビジネスプロセスデザイン、AIエージェントの活用定着から運用高度化まで支援する「Copilot Studio定着支援伴走ヘルプデスクサービス」を提供開始",
+      "url": "https://www.persol-bd.co.jp/news/20261007/"
+    },
+    {
+      "id": "bee360254e86",
+      "text": "2026.10.07 NEW サービス 「三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261007-1/"
+    },
+    {
+      "id": "7b6c1beac076",
+      "text": "2026.10.06 NEW サービス パーソルビジネスプロセスデザイン、三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始",
+      "url": "https://www.persol-bd.co.jp/news/20261006/"
+    },
+    {
+      "id": "d31ed85c5ba8",
+      "text": "2026.10.01 NEW サービス パーソルビジネスプロセスデザイン、東京都小平市の市民課における「個人番号カード（マイナンバーカード）交付業務」を支援",
+      "url": "https://www.persol-bd.co.jp/news/20261001/"
+    },
+    {
+      "id": "fcb235af97c4",
+      "text": "2026.09.30 NEW イベント・キャンペーン 10月のイベント・セミナー情報",
+      "url": "https://www.persol-bd.co.jp/news/20260930/"
+    },
+    {
+      "id": "9bb62063e769",
+      "text": "2026.09.24 サービス パーソルビジネスプロセスデザイン、 現場の業務課題を解決するアプリを研修内で構築する「Microsoft Power Platform内製化伴走研修サービス」を開始",
+      "url": "https://www.persol-bd.co.jp/news/20260924/"
+    },
+    {
+      "id": "fe745e1ec1fa",
+      "text": "2026.09.24 メディア掲載 「AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260924-1/"
+    },
+    {
+      "id": "cffb2e5f1c81",
+      "text": "2026.09.17 サービス パーソルビジネスプロセスデザイン、AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始",
+      "url": "https://www.persol-bd.co.jp/news/20260917/"
+    },
+    {
+      "id": "1bbcbf4d7cc2",
+      "text": "2026.09.16 メディア掲載 「東京都の『TOKYO特定技能Jobマッチング支援事業』を受託」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260916/"
+    },
+    {
+      "id": "996a7ef7d2b5",
+      "text": "2026.09.15 サービス パーソルビジネスプロセスデザイン、 東京都の「TOKYO特定技能Jobマッチング支援事業」を受託 特定技能外国人材の就労促進と企業の人材確保を支援",
+      "url": "https://www.persol-bd.co.jp/news/20260915/"
+    },
+    {
+      "id": "d3cd1599140f",
+      "text": "2026.09.11 イベント・キャンペーン AX時代に求められる意思決定と実践のヒントを探る 無料オンラインセミナー『PERSOL AI CONFERENCE 2026』を 9月16日（水）に開催",
+      "url": "https://www.persol-bd.co.jp/news/20260911/"
+    },
+    {
+      "id": "5d1c62bebd4d",
+      "text": "2026.09.09 メディア掲載 「『Fleet Concierge』提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260909/"
+    },
+    {
+      "id": "6d0d1819da98",
+      "text": "2026.09.09 メディア掲載 「AIと専門人材が業務手順書の作成を支援する『StepBase AI手順書作成』を提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20260909-1/"
+    },
+    {
+      "id": "d86fa1005f76",
+      "text": "2026.09.08 サービス AIと専門人材が業務手順書の作成を支援する「StepBase AI手順書作成」を提供開始",
+      "url": "https://www.persol-bd.co.jp/news/20260908/"
+    },
+    {
+      "id": "d6e1dfcfd824",
+      "text": "2026.09.07 イベント・キャンペーン 9月のイベント・セミナー情報",
+      "url": "https://www.persol-bd.co.jp/news/20260907/"
+    },
+    {
+      "id": "5f8212daaf5b",
+      "text": "2026.09.02 サービス パーソルビジネスプロセスデザイン、車両管理業務の負担をDXで軽減する「Fleet Concierge」サービスを提供開始",
+      "url": "https://www.persol-bd.co.jp/news/20260902/"
+    },
+    {
+      "id": "be5e7a30176b",
+      "text": "2026.08.19 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
+      "url": "https://www.persol-bd.co.jp/news/20260819/"
+    },
+    {
+      "id": "212a9f2d3d79",
+      "text": "2026.08.18 コーポレート 当社健康診断支援事業および特定保健指導事業の承継に関するお知らせ",
+      "url": "https://www.persol-bd.co.jp/news/20260818-2/"
+    },
+    {
+      "id": "d4e71f38b577",
+      "text": "2026.08.06 受賞 クラウドサービスのレビュープラットフォーム「ITreview」の「ITreview Grid Award 2026 Summer」にて「MITERAS仕事可視化」が最高位の「Leader」を６期連続受賞",
+      "url": "https://www.persol-bd.co.jp/news/20260806/"
+    }
+  ]
 }
