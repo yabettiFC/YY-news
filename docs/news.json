@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T01:44:32.364608+09:00",
+  "updated_at": "2026-10-14T10:41:01.143132+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260806_2",
       "is_new": false,
       "id": "35477c65e168"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "「建設技術展2026関東」に出展します",
+      "url": "\n/news/2026/1462171_42699.html",
+      "is_new": true,
+      "id": "bce67c21905e"
     },
     {
       "company": "積水化学工業株式会社",
@@ -336,14 +344,6 @@
       "url": "\n/news/2026/1455572_42699.html",
       "is_new": false,
       "id": "c92421a6fed7"
-    },
-    {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "経済産業省「ダイバーシティ経営」実践事例集に積水化学の取り組みが掲載",
-      "url": "\n/news/2026/1455522_42699.html",
-      "is_new": false,
-      "id": "dcb3737f705f"
     },
     {
       "company": "工藤建設株式会社",
