@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T10:41:01.143132+09:00",
+  "updated_at": "2026-10-14T17:31:58.580864+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "「建設技術展2026関東」に出展します",
       "url": "\n/news/2026/1462171_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "bce67c21905e"
     },
     {
@@ -724,10 +724,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.30 NEW イベント・キャンペーン 10月のイベント・セミナー情報",
+      "text": "2026.09.30 イベント・キャンペーン 10月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260930/",
-      "is_new": false,
-      "id": "fcb235af97c4"
+      "is_new": true,
+      "id": "f8cb1d5cb96c"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
