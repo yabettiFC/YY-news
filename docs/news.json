@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T17:06:44.718584+09:00",
+  "updated_at": "2026-10-15T22:59:09.818792+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "リニューアルされた積水化学の大阪本社ビルが「2026年度グッドデザイン賞」を受賞",
       "url": "\n/news/2026/1462210_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "363bb1bcb646"
     },
     {
@@ -718,7 +718,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.01 サービス パーソルビジネスプロセスデザイン、東京都小平市の市民課における「個人番号カード（マイナンバーカード）交付業務」を支援",
       "url": "https://www.persol-bd.co.jp/news/20261001/",
-      "is_new": true,
+      "is_new": false,
       "id": "343e704fb96d"
     },
     {
