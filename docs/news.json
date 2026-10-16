@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:02:14.257878+09:00",
+  "updated_at": "2026-10-16T17:00:05.722252+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -684,6 +684,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.10.14 NEW メディア掲載 「AIエージェントの活用定着から運用高度化まで支援する『Copilot Studio定着支援伴走ヘルプデスクサービス』を提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261014/",
+      "is_new": true,
+      "id": "486d1049b1c8"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.13 NEW コーポレート パーソルビジネスプロセスデザイン、「板橋BPOセンター」を開所",
       "url": "https://www.persol-bd.co.jp/news/20261013/",
       "is_new": false,
@@ -832,14 +840,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260818-2/",
       "is_new": false,
       "id": "212a9f2d3d79"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.08.06 受賞 クラウドサービスのレビュープラットフォーム「ITreview」の「ITreview Grid Award 2026 Summer」にて「MITERAS仕事可視化」が最高位の「Leader」を６期連続受賞",
-      "url": "https://www.persol-bd.co.jp/news/20260806/",
-      "is_new": false,
-      "id": "d4e71f38b577"
     }
   ]
 }
