@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T17:26:31.575882+09:00",
+  "updated_at": "2026-10-22T23:33:17.411933+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -38,7 +38,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "インフォメーション 2026.10.22 【重要】お問い合わせ・資料請求フォームの一時停止について 全ニュース",
       "url": "https://www.zeroboard.jp/news/20261022",
-      "is_new": true,
+      "is_new": false,
       "id": "67a3cb6d7d57"
     },
     {
@@ -446,7 +446,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.22 NEW サービス パーソルビジネスプロセスデザイン、BPOで培った業務設計ノウハウを活かした「Microsoft Copilot Studio AIエージェント受託開発サービス」提供開始",
       "url": "https://www.persol-bd.co.jp/news/20261022/",
-      "is_new": true,
+      "is_new": false,
       "id": "aed7a71778e6"
     },
     {
@@ -486,7 +486,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.07 サービス 「三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20261007-1/",
-      "is_new": true,
+      "is_new": false,
       "id": "1551a6516a21"
     },
     {
