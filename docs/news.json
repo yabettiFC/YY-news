@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:20:02.952955+09:00",
+  "updated_at": "2026-10-22T17:26:31.575882+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -32,6 +32,14 @@
       "url": "https://www.zeroboard.jp/news/information",
       "is_new": false,
       "id": "e4e2bc51433f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "インフォメーション 2026.10.22 【重要】お問い合わせ・資料請求フォームの一時停止について 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20261022",
+      "is_new": true,
+      "id": "67a3cb6d7d57"
     },
     {
       "company": "株式会社ゼロボード",
@@ -104,14 +112,6 @@
       "url": "https://www.zeroboard.jp/news/20260818",
       "is_new": false,
       "id": "42839bf5489f"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "メディア掲載 2026.08.06 朝日新聞SDGsActionにゼロボード総研所長の待場智雄の寄稿が掲載されました 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260806_4",
-      "is_new": false,
-      "id": "4a384262a57c"
     },
     {
       "company": "積水化学工業株式会社",
@@ -444,6 +444,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.10.22 NEW サービス パーソルビジネスプロセスデザイン、BPOで培った業務設計ノウハウを活かした「Microsoft Copilot Studio AIエージェント受託開発サービス」提供開始",
+      "url": "https://www.persol-bd.co.jp/news/20261022/",
+      "is_new": true,
+      "id": "aed7a71778e6"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.21 NEW サービス RPO（採用代行）にAI/AIエージェント・採用データを活用し、企業の採用力強化を促進する「AI RPO by 採用のゼロ化」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20261021/",
       "is_new": false,
@@ -476,10 +484,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.10.07 NEW サービス 「三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始」がメディアに取り上げられました",
+      "text": "2026.10.07 サービス 「三十三銀行と三重県内の中小企業支援を目的とした業務提携を開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20261007-1/",
-      "is_new": false,
-      "id": "bee360254e86"
+      "is_new": true,
+      "id": "1551a6516a21"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -592,14 +600,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260902/",
       "is_new": false,
       "id": "5f8212daaf5b"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.08.19 コーポレート 労働者派遣法に基づく派遣事業の情報公開について",
-      "url": "https://www.persol-bd.co.jp/news/20260819/",
-      "is_new": false,
-      "id": "be5e7a30176b"
     }
   ]
 }
