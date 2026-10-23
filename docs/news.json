@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T10:18:58.111254+09:00",
+  "updated_at": "2026-10-23T17:22:59.615822+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -38,7 +38,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "インフォメーション 2026.10.23 【再開】お問い合わせ・資料請求フォームの受付再開について 全ニュース",
       "url": "https://www.zeroboard.jp/news/20261023",
-      "is_new": true,
+      "is_new": false,
       "id": "327682598eae"
     },
     {
@@ -446,7 +446,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.23 NEW サービス ラクスとパーソルビジネスプロセスデザイン、「StepBase for 楽楽精算」の提供を開始",
       "url": "https://www.persol-bd.co.jp/news/20261023/",
-      "is_new": true,
+      "is_new": false,
       "id": "20a20acad07b"
     },
     {
