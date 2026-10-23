@@ -22,6 +22,11 @@
       "url": "https://www.zeroboard.jp/news/information"
     },
     {
+      "id": "327682598eae",
+      "text": "インフォメーション 2026.10.23 【再開】お問い合わせ・資料請求フォームの受付再開について 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20261023"
+    },
+    {
       "id": "67a3cb6d7d57",
       "text": "インフォメーション 2026.10.22 【重要】お問い合わせ・資料請求フォームの一時停止について 全ニュース",
       "url": "https://www.zeroboard.jp/news/20261022"
@@ -65,11 +70,6 @@
       "id": "66fa7be3dbcf",
       "text": "プレスリリース 2026.08.19 【9月8日（火）14:00】ソコテック×ゼロボード、SSBJ対応におけるGHGデータ管理と第三者保証準備をテーマに無料ウェビナーを開催 全ニュース",
       "url": "https://www.zeroboard.jp/news/20260819"
-    },
-    {
-      "id": "42839bf5489f",
-      "text": "メディア掲載 2026.08.18 日本経済新聞夕刊に掲載されました 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260818"
     }
   ],
   "アスエネ株式会社": [],
@@ -287,6 +287,11 @@
   "アビームコンサルティング株式会社": [],
   "パーソルビジネスプロセスデザイン株式会社": [
     {
+      "id": "20a20acad07b",
+      "text": "2026.10.23 NEW サービス ラクスとパーソルビジネスプロセスデザイン、「StepBase for 楽楽精算」の提供を開始",
+      "url": "https://www.persol-bd.co.jp/news/20261023/"
+    },
+    {
       "id": "aed7a71778e6",
       "text": "2026.10.22 NEW サービス パーソルビジネスプロセスデザイン、BPOで培った業務設計ノウハウを活かした「Microsoft Copilot Studio AIエージェント受託開発サービス」提供開始",
       "url": "https://www.persol-bd.co.jp/news/20261022/"
@@ -380,11 +385,6 @@
       "id": "d6e1dfcfd824",
       "text": "2026.09.07 イベント・キャンペーン 9月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20260907/"
-    },
-    {
-      "id": "5f8212daaf5b",
-      "text": "2026.09.02 サービス パーソルビジネスプロセスデザイン、車両管理業務の負担をDXで軽減する「Fleet Concierge」サービスを提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260902/"
     }
   ]
 }
