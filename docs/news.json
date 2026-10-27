@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T10:52:14.090969+09:00",
+  "updated_at": "2026-10-27T17:47:28.599177+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -38,7 +38,7 @@
       "company_url": "https://www.zeroboard.jp/news",
       "text": "プレスリリース 2026.10.27 ゼロボード、2024年に続きAZEC閣僚会合のMOUセレモニーに登壇 全ニュース 海外関連ニュース",
       "url": "https://www.zeroboard.jp/news/20261027",
-      "is_new": true,
+      "is_new": false,
       "id": "a766a66e5caf"
     },
     {
@@ -444,6 +444,14 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.10.27 NEW サービス パーソルビジネスプロセスデザイン、世田谷区の子育て支援事業を包括支援 毎月約3,500世帯への訪問体制を構築、｢子育て支援の空白期間｣解消に貢献",
+      "url": "https://www.persol-bd.co.jp/news/20261027/",
+      "is_new": true,
+      "id": "e29be6cc729d"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.23 NEW サービス ラクスとパーソルビジネスプロセスデザイン、「StepBase for 楽楽精算」の提供を開始",
       "url": "https://www.persol-bd.co.jp/news/20261023/",
       "is_new": false,
@@ -476,10 +484,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.10.13 NEW コーポレート パーソルビジネスプロセスデザイン、「板橋BPOセンター」を開所",
+      "text": "2026.10.13 コーポレート パーソルビジネスプロセスデザイン、「板橋BPOセンター」を開所",
       "url": "https://www.persol-bd.co.jp/news/20261013/",
-      "is_new": false,
-      "id": "49d3d7ff51a9"
+      "is_new": true,
+      "id": "be89a9dcaf83"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -592,14 +600,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260908/",
       "is_new": false,
       "id": "d86fa1005f76"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.07 イベント・キャンペーン 9月のイベント・セミナー情報",
-      "url": "https://www.persol-bd.co.jp/news/20260907/",
-      "is_new": false,
-      "id": "d6e1dfcfd824"
     }
   ]
 }
