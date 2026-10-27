@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T17:47:28.599177+09:00",
+  "updated_at": "2026-10-28T00:24:07.623454+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -446,7 +446,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.27 NEW サービス パーソルビジネスプロセスデザイン、世田谷区の子育て支援事業を包括支援 毎月約3,500世帯への訪問体制を構築、｢子育て支援の空白期間｣解消に貢献",
       "url": "https://www.persol-bd.co.jp/news/20261027/",
-      "is_new": true,
+      "is_new": false,
       "id": "e29be6cc729d"
     },
     {
@@ -486,7 +486,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.13 コーポレート パーソルビジネスプロセスデザイン、「板橋BPOセンター」を開所",
       "url": "https://www.persol-bd.co.jp/news/20261013/",
-      "is_new": true,
+      "is_new": false,
       "id": "be89a9dcaf83"
     },
     {
