@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T00:52:59.416127+09:00",
+  "updated_at": "2026-10-27T10:52:14.090969+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -32,6 +32,14 @@
       "url": "https://www.zeroboard.jp/news/information",
       "is_new": false,
       "id": "e4e2bc51433f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.10.27 ゼロボード、2024年に続きAZEC閣僚会合のMOUセレモニーに登壇 全ニュース 海外関連ニュース",
+      "url": "https://www.zeroboard.jp/news/20261027",
+      "is_new": true,
+      "id": "a766a66e5caf"
     },
     {
       "company": "株式会社ゼロボード",
@@ -104,14 +112,6 @@
       "url": "https://www.zeroboard.jp/news/20260821",
       "is_new": false,
       "id": "a1d6a5fbc6b0"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "プレスリリース 2026.08.19 【9月8日（火）14:00】ソコテック×ゼロボード、SSBJ対応におけるGHGデータ管理と第三者保証準備をテーマに無料ウェビナーを開催 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260819",
-      "is_new": false,
-      "id": "66fa7be3dbcf"
     },
     {
       "company": "積水化学工業株式会社",
