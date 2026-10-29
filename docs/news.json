@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T11:12:30.730005+09:00",
+  "updated_at": "2026-10-29T18:40:38.516776+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -444,6 +444,30 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.10.28 NEW メディア掲載 「RPO（採用代行）にAI/AIエージェント・採用データを活用し、企業の採用力強化を促進する『AI RPO by 採用のゼロ化』を提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261028/",
+      "is_new": true,
+      "id": "85dacd380796"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.10.28 NEW メディア掲載 「BPOで培った業務設計ノウハウを活かした『Microsoft Copilot Studio AIエージェント受託開発サービス』提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261028-1/",
+      "is_new": true,
+      "id": "41af5d0ec44c"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.10.28 NEW メディア掲載 「『StepBase for 楽楽精算』の提供を開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261028-2/",
+      "is_new": true,
+      "id": "aa01a2b30a16"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.27 NEW サービス パーソルビジネスプロセスデザイン、世田谷区の子育て支援事業を包括支援 毎月約3,500世帯への訪問体制を構築、｢子育て支援の空白期間｣解消に貢献",
       "url": "https://www.persol-bd.co.jp/news/20261027/",
       "is_new": false,
@@ -576,30 +600,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260911/",
       "is_new": false,
       "id": "d3cd1599140f"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.09 メディア掲載 「『Fleet Concierge』提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260909/",
-      "is_new": false,
-      "id": "5d1c62bebd4d"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.09 メディア掲載 「AIと専門人材が業務手順書の作成を支援する『StepBase AI手順書作成』を提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260909-1/",
-      "is_new": false,
-      "id": "6d0d1819da98"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.08 サービス AIと専門人材が業務手順書の作成を支援する「StepBase AI手順書作成」を提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260908/",
-      "is_new": false,
-      "id": "d86fa1005f76"
     }
   ]
 }

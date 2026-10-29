@@ -287,6 +287,21 @@
   "アビームコンサルティング株式会社": [],
   "パーソルビジネスプロセスデザイン株式会社": [
     {
+      "id": "85dacd380796",
+      "text": "2026.10.28 NEW メディア掲載 「RPO（採用代行）にAI/AIエージェント・採用データを活用し、企業の採用力強化を促進する『AI RPO by 採用のゼロ化』を提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261028/"
+    },
+    {
+      "id": "41af5d0ec44c",
+      "text": "2026.10.28 NEW メディア掲載 「BPOで培った業務設計ノウハウを活かした『Microsoft Copilot Studio AIエージェント受託開発サービス』提供開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261028-1/"
+    },
+    {
+      "id": "aa01a2b30a16",
+      "text": "2026.10.28 NEW メディア掲載 「『StepBase for 楽楽精算』の提供を開始」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261028-2/"
+    },
+    {
       "id": "e29be6cc729d",
       "text": "2026.10.27 NEW サービス パーソルビジネスプロセスデザイン、世田谷区の子育て支援事業を包括支援 毎月約3,500世帯への訪問体制を構築、｢子育て支援の空白期間｣解消に貢献",
       "url": "https://www.persol-bd.co.jp/news/20261027/"
@@ -370,21 +385,6 @@
       "id": "d3cd1599140f",
       "text": "2026.09.11 イベント・キャンペーン AX時代に求められる意思決定と実践のヒントを探る 無料オンラインセミナー『PERSOL AI CONFERENCE 2026』を 9月16日（水）に開催",
       "url": "https://www.persol-bd.co.jp/news/20260911/"
-    },
-    {
-      "id": "5d1c62bebd4d",
-      "text": "2026.09.09 メディア掲載 「『Fleet Concierge』提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260909/"
-    },
-    {
-      "id": "6d0d1819da98",
-      "text": "2026.09.09 メディア掲載 「AIと専門人材が業務手順書の作成を支援する『StepBase AI手順書作成』を提供開始」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260909-1/"
-    },
-    {
-      "id": "d86fa1005f76",
-      "text": "2026.09.08 サービス AIと専門人材が業務手順書の作成を支援する「StepBase AI手順書作成」を提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260908/"
     }
   ]
 }
