@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T18:40:38.516776+09:00",
+  "updated_at": "2026-10-30T00:52:46.057831+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -446,7 +446,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.28 NEW メディア掲載 「RPO（採用代行）にAI/AIエージェント・採用データを活用し、企業の採用力強化を促進する『AI RPO by 採用のゼロ化』を提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20261028/",
-      "is_new": true,
+      "is_new": false,
       "id": "85dacd380796"
     },
     {
@@ -454,7 +454,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.28 NEW メディア掲載 「BPOで培った業務設計ノウハウを活かした『Microsoft Copilot Studio AIエージェント受託開発サービス』提供開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20261028-1/",
-      "is_new": true,
+      "is_new": false,
       "id": "41af5d0ec44c"
     },
     {
@@ -462,7 +462,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.28 NEW メディア掲載 「『StepBase for 楽楽精算』の提供を開始」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20261028-2/",
-      "is_new": true,
+      "is_new": false,
       "id": "aa01a2b30a16"
     },
     {
