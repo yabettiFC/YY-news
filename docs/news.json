@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T00:52:46.057831+09:00",
+  "updated_at": "2026-10-30T11:26:22.077965+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -32,6 +32,14 @@
       "url": "https://www.zeroboard.jp/news/information",
       "is_new": false,
       "id": "e4e2bc51433f"
+    },
+    {
+      "company": "株式会社ゼロボード",
+      "company_url": "https://www.zeroboard.jp/news",
+      "text": "プレスリリース 2026.10.30 【視聴者満足度約93％】データプラットフォーム×AIによるサステナビリティ経営を示した「The Zeroboard Day 2026」、11月5日よりアーカイブ配信を開始 全ニュース",
+      "url": "https://www.zeroboard.jp/news/20261030",
+      "is_new": true,
+      "id": "9b24e6633942"
     },
     {
       "company": "株式会社ゼロボード",
@@ -104,14 +112,6 @@
       "url": "https://www.zeroboard.jp/news/20260824",
       "is_new": false,
       "id": "8e23bf35b888"
-    },
-    {
-      "company": "株式会社ゼロボード",
-      "company_url": "https://www.zeroboard.jp/news",
-      "text": "メディア掲載 2026.08.21 日刊工業新聞電子版に掲載されました 全ニュース",
-      "url": "https://www.zeroboard.jp/news/20260821",
-      "is_new": false,
-      "id": "a1d6a5fbc6b0"
     },
     {
       "company": "積水化学工業株式会社",
