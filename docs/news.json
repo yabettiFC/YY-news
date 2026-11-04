@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T11:56:21.331337+09:00",
+  "updated_at": "2026-11-04T19:40:35.219631+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -446,7 +446,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.11.04 NEW サービス 分身ロボット「OriHime」を活用した遠隔受付の実証を開始",
       "url": "https://www.persol-bd.co.jp/news/20261104/",
-      "is_new": true,
+      "is_new": false,
       "id": "88aab557d5c3"
     },
     {
@@ -510,7 +510,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.10.21 サービス RPO（採用代行）にAI/AIエージェント・採用データを活用し、企業の採用力強化を促進する「AI RPO by 採用のゼロ化」を提供開始",
       "url": "https://www.persol-bd.co.jp/news/20261021/",
-      "is_new": true,
+      "is_new": false,
       "id": "333f8d2aa218"
     },
     {
