@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T01:52:31.331228+09:00",
+  "updated_at": "2026-11-05T12:17:43.352708+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260824",
       "is_new": false,
       "id": "8e23bf35b888"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "近藤元選手、愛知・名古屋2026アジアパラ競技大会の走幅跳T63で2連覇達成 ～100ｍT63でも銅メダルを獲得し、2種目でメダル獲得～",
+      "url": "\n/news/2026/1463028_42699.html",
+      "is_new": true,
+      "id": "6b6ba4af91fa"
     },
     {
       "company": "積水化学工業株式会社",
@@ -338,14 +346,6 @@
       "id": "dffc76431a52"
     },
     {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "女子中高生向けキャリア交流イベント「夏のリコチャレ2026」を開催",
-      "url": "\n/news/2026/1455541_42699.html",
-      "is_new": false,
-      "id": "5e16e5bdd2c0"
-    },
-    {
       "company": "工藤建設株式会社",
       "company_url": "https://www.kudo.co.jp/news/",
       "text": "2026.09.11 お知らせ 地下室の新工法で共同特許取得（特許第7911718号）",
@@ -444,10 +444,26 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.11.05 NEW コーポレート パーソルビジネスプロセスデザイン、新卒採用活動にAIを導入 内定者のエンゲージメントを高め、年間約500名の採用を目指す",
+      "url": "https://www.persol-bd.co.jp/news/20261105/",
+      "is_new": true,
+      "id": "7b8d2074bfd1"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.11.04 NEW サービス 分身ロボット「OriHime」を活用した遠隔受付の実証を開始",
       "url": "https://www.persol-bd.co.jp/news/20261104/",
       "is_new": false,
       "id": "88aab557d5c3"
+    },
+    {
+      "company": "パーソルビジネスプロセスデザイン株式会社",
+      "company_url": "https://www.persol-bd.co.jp/news/",
+      "text": "2026.11.04 NEW メディア掲載 「世田谷区の子育て支援事業を包括支援 毎月約3,500世帯への訪問体制を構築、『子育て支援の空白期間』解消に貢献」がメディアに取り上げられました",
+      "url": "https://www.persol-bd.co.jp/news/20261104-1/",
+      "is_new": true,
+      "id": "664dee176266"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -500,10 +516,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.10.22 NEW サービス パーソルビジネスプロセスデザイン、BPOで培った業務設計ノウハウを活かした「Microsoft Copilot Studio AIエージェント受託開発サービス」提供開始",
+      "text": "2026.10.22 サービス パーソルビジネスプロセスデザイン、BPOで培った業務設計ノウハウを活かした「Microsoft Copilot Studio AIエージェント受託開発サービス」提供開始",
       "url": "https://www.persol-bd.co.jp/news/20261022/",
-      "is_new": false,
-      "id": "aed7a71778e6"
+      "is_new": true,
+      "id": "f3ee9e3883a3"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
@@ -584,22 +600,6 @@
       "url": "https://www.persol-bd.co.jp/news/20260924-1/",
       "is_new": false,
       "id": "fe745e1ec1fa"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.17 サービス パーソルビジネスプロセスデザイン、AI-Readyなデータ基盤の構築・運用を包括的に支援する３つのサービスを提供開始",
-      "url": "https://www.persol-bd.co.jp/news/20260917/",
-      "is_new": false,
-      "id": "cffb2e5f1c81"
-    },
-    {
-      "company": "パーソルビジネスプロセスデザイン株式会社",
-      "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.09.16 メディア掲載 「東京都の『TOKYO特定技能Jobマッチング支援事業』を受託」がメディアに取り上げられました",
-      "url": "https://www.persol-bd.co.jp/news/20260916/",
-      "is_new": false,
-      "id": "1bbcbf4d7cc2"
     }
   ]
 }
