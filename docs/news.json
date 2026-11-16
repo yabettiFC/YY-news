@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:36:26.341905+09:00",
+  "updated_at": "2026-11-16T19:50:43.542276+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -118,7 +118,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "平膜型MABR「MemBreath」 株式会社獺祭で実証試験を開始",
       "url": "\n/news/2026/1463427_42699.html",
-      "is_new": true,
+      "is_new": false,
       "id": "afb1806fa4d7"
     },
     {
@@ -478,7 +478,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.11.02 イベント・キャンペーン 11月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20261102/",
-      "is_new": true,
+      "is_new": false,
       "id": "dbd2b2680b97"
     },
     {
