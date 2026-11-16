@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T01:05:36.882101+09:00",
+  "updated_at": "2026-11-16T11:36:26.341905+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -112,6 +112,14 @@
       "url": "https://www.zeroboard.jp/news/20260902",
       "is_new": false,
       "id": "9ce053fc4921"
+    },
+    {
+      "company": "積水化学工業株式会社",
+      "company_url": "https://www.sekisui.co.jp/news/2026/",
+      "text": "平膜型MABR「MemBreath」 株式会社獺祭で実証試験を開始",
+      "url": "\n/news/2026/1463427_42699.html",
+      "is_new": true,
+      "id": "afb1806fa4d7"
     },
     {
       "company": "積水化学工業株式会社",
@@ -338,14 +346,6 @@
       "id": "db83acdba764"
     },
     {
-      "company": "積水化学工業株式会社",
-      "company_url": "https://www.sekisui.co.jp/news/2026/",
-      "text": "積水化学、NEDO「GENIAC」で生成AIを活用した非構造化データ活用の実証を開始",
-      "url": "\n/news/2026/1455780_42699.html",
-      "is_new": false,
-      "id": "dffc76431a52"
-    },
-    {
       "company": "工藤建設株式会社",
       "company_url": "https://www.kudo.co.jp/news/",
       "text": "2026.09.11 お知らせ 地下室の新工法で共同特許取得（特許第7911718号）",
@@ -476,10 +476,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.11.02 NEW イベント・キャンペーン 11月のイベント・セミナー情報",
+      "text": "2026.11.02 イベント・キャンペーン 11月のイベント・セミナー情報",
       "url": "https://www.persol-bd.co.jp/news/20261102/",
-      "is_new": false,
-      "id": "61ea312c46fd"
+      "is_new": true,
+      "id": "dbd2b2680b97"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
