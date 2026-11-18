@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T03:10:51.412337+09:00",
+  "updated_at": "2026-11-18T13:03:28.350840+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -460,10 +460,10 @@
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
       "company_url": "https://www.persol-bd.co.jp/news/",
-      "text": "2026.11.04 NEW サービス 分身ロボット「OriHime」を活用した遠隔受付の実証を開始",
+      "text": "2026.11.04 サービス 分身ロボット「OriHime」を活用した遠隔受付の実証を開始",
       "url": "https://www.persol-bd.co.jp/news/20261104/",
-      "is_new": false,
-      "id": "88aab557d5c3"
+      "is_new": true,
+      "id": "0dc14a66b93d"
     },
     {
       "company": "パーソルビジネスプロセスデザイン株式会社",
