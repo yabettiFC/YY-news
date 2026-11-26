@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T13:48:20.270414+09:00",
+  "updated_at": "2026-11-26T21:04:58.507682+09:00",
   "news": [
     {
       "company": "株式会社ゼロボード",
@@ -182,7 +182,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "積水化学は「日経BP R&D戦略会議@シリコンバレー」に登壇いたします",
       "url": "https://www.sekisui.co.jp/news/2026/2013443_50671.html",
-      "is_new": true,
+      "is_new": false,
       "id": "9b4405b74bbf"
     },
     {
@@ -278,7 +278,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "「Advanced Materials & Manufacturing Showcase」でパネリストとして登壇しました",
       "url": "https://www.sekisui.co.jp/news/2026/2013019_50671.html",
-      "is_new": true,
+      "is_new": false,
       "id": "54b27dda8f2a"
     },
     {
@@ -286,7 +286,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "「KAWASAKI DeepTech Collaboration Pitch」にて、事業会社代表としてリバースピッチに登壇しました",
       "url": "https://www.sekisui.co.jp/news/2026/2013020_50671.html",
-      "is_new": true,
+      "is_new": false,
       "id": "71daf0c9d289"
     },
     {
@@ -294,7 +294,7 @@
       "company_url": "https://www.sekisui.co.jp/news/2026/",
       "text": "「WMF_We Make Future」で日本使節団の一員として登壇しました",
       "url": "https://www.sekisui.co.jp/news/2026/2013021_50671.html",
-      "is_new": true,
+      "is_new": false,
       "id": "be00f152ac02"
     },
     {
@@ -344,6 +344,14 @@
       "url": "https://www.sekisui.co.jp/news/2026/2012989_50671.html",
       "is_new": false,
       "id": "6366b9d1c08f"
+    },
+    {
+      "company": "工藤建設株式会社",
+      "company_url": "https://www.kudo.co.jp/news/",
+      "text": "2026.11.26 お知らせ 「ニッセイ・ふるさと寄付型ローン」契約締結に関するお知らせ",
+      "url": "https://www.kudo.co.jp/news/3240/",
+      "is_new": true,
+      "id": "a175aad5cf85"
     },
     {
       "company": "工藤建設株式会社",
@@ -420,14 +428,6 @@
     {
       "company": "工藤建設株式会社",
       "company_url": "https://www.kudo.co.jp/news/",
-      "text": "2025.04.17 お知らせ 当社が利用するメールサービスへの不正アクセスについて",
-      "url": "https://www.kudo.co.jp/news/1233/",
-      "is_new": false,
-      "id": "468ba7deab05"
-    },
-    {
-      "company": "工藤建設株式会社",
-      "company_url": "https://www.kudo.co.jp/news/",
       "text": "arrow_forward",
       "url": "https://www.kudo.co.jp/news/page/2/",
       "is_new": false,
@@ -446,7 +446,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.11.25 NEW メディア掲載 「大塚商会と業務提携 中堅・中小企業の人材不足や属人化の課題解決を支援」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20261125/",
-      "is_new": true,
+      "is_new": false,
       "id": "f76b4140ad49"
     },
     {
@@ -462,7 +462,7 @@
       "company_url": "https://www.persol-bd.co.jp/news/",
       "text": "2026.11.11 メディア掲載 「新卒採用活動にAIを導入 内定者のエンゲージメントを高め、年間約500名の採用を目指す」がメディアに取り上げられました",
       "url": "https://www.persol-bd.co.jp/news/20261111/",
-      "is_new": true,
+      "is_new": false,
       "id": "081689cae590"
     },
     {
